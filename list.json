@@ -4,19 +4,29 @@
     "solution_uri":"first.html",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\ln x}{\\cosh ^{2}x}dx=\\ln \\frac {\\pi }4-\\gamma ",
     "status" : 1,
-    "solver" : "benri"
+    "solver" : "benri",
+    "keywords" : []
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1488885064641703937?s=20&t=VM4SPcMJ0mb-X1qyA-rgXQ",
     "solution_uri":"Harry_1",
     "TeX":"\\int_0^1\\frac{\\arctan x}{x}\\ln\\frac{1+x^2}{(1-x^2)}dx=\\frac{\\pi^3}{16}",
     "status": 1,
-    "solver" : "Harry"
+    "solver" : "Harry",
+    "keywords" : []
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1434942820175912960?t=u_ZNf7xNXLQNAjiiD7g0QQ&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\cos ^{2}x-\\cos x}{x}dx=\\frac {\\gamma }2",
-    "status" : 2
+    "status" : 2,
+    "keywords" : []
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1434496701377572869?t=DfZulQfC5bkpVEoigVezfg&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-related-to-derivative-of-beta.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x}{(e^x-1)^{\\frac {2}3}}dx=\\sqrt 3\\pi \\ln 3-\\frac {\\pi ^{2}}3",
+    "status" : 2,
+    "keywords" : []
   }
 ]
