@@ -1,0 +1,32 @@
+<div class="dotted" title="証明">
+  <div class="math-exp">
+    $$
+    \begin {aligned}
+\Re (s)>1\quad \quad &
+\\
+
+\int _{0}^{\infty }\frac {x^{s-1}}{\cosh ^{2}x}dx&=4\int _{0}^{\infty }\frac {x^{s-1}e^{-2x}}{(1+e^{-2x})}dx\\
+
+&=4\int _{0}^{\infty }x^{s-1}e^{-2x}\sum _{n=1}^\infty n(-e^{2x})^{n-1}dx\\
+
+&=4\sum _{n=1}^\infty n(-1)^{n-1}\int _{0}^{\infty }x^{s-1}e^{-2nx}dx\\
+
+&=4\sum _{n=1}^\infty n(-1)^{n-1}(2n)^{-s}\Gamma (s)\\
+
+&=2^{2-s}\Gamma (s)\sum _{n=1}^\infty \frac {(-1)^{n-1}}{n^{s-1}}\\
+
+&=2^{2-s}\Gamma (s)\eta (s-1)\\
+
+\int _{0}^{\infty }\frac {\ln x}{\cosh ^{2}x}dx&=\lim _{s\to 1}\frac {d}{ds}2^{2-s}\Gamma (s)\eta (s-1)\\
+
+&=\lim _{s\to 0}\frac {d}{dx}2^{1-s}\Gamma (1+s)\eta(s)\\
+
+&=\lim _{s\to 0}\frac {d}{dx}\left [\left (2-2\ln (2)s+O(s^2)\right )\left (1-\gamma s+O(s^2)\right )\left (\frac {1}2+\frac {\ln \frac {\pi }2}2s+O(s^2)\right )\right ]\\
+
+&=2\cdot 1\cdot \frac {1}2\cdot \left (-\ln 2-\gamma +\ln \frac {\pi }2\right )\\
+
+&=\textcolor {blue}{\ln \frac {\pi }4-\gamma }.
+\end {aligned}
+    $$
+  </div>
+</div>
