@@ -1,4 +1,25 @@
 &&&thm
+&&&math
+\int _{0}^{\frac {\pi }2}\frac {x\ln (\sin x)}{\sin 2x}dx
+=-\frac {\pi ^{3}}{48}.
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{1}\frac {\pi \ln (1+a)}ada&=\int _{0}^{\infty }\int _{0}^{1}\frac {\ln (1+x^{2})}{a^{2}+x^{2}}dadx\\
+\frac {\pi ^{3}}{12}
+&=\int _{0}^{\infty }\frac {\arctan \frac {1}x\ln (1+x^{2})}xdx\\
+&=\int _{0}^{\frac {\pi }2}\frac {x\ln (1+\operatorname{cot}^{2}x)}{\operatorname{cot}x}\frac {dx}{\sin ^{2}x}\\
+&=-4\int _{0}^{\frac {\pi }2}\frac {x\ln (\cos x)}{\sin 2x}dx\\
+\int _{0}^{\frac {\pi }2}\frac {x\ln (\sin x)}{\sin 2x}dx
+&=\textcolor {blue}{-\frac {\pi ^{3}}{48}}.
+\end {aligned}
+&&&
+&&&
+
+&&&thm
 補題
 &&&math
 \int _{0}^{\infty }\frac {\ln (1+x^{2})}{a^2+x^{2}}dx
