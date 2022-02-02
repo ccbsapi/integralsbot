@@ -34,7 +34,28 @@
 <div class="dotted" title="別解">
   <div class="math-exp">
     $$
-    1+1=2
+    \begin{align*}
+\displaystyle\int_0^\infty\frac{\ln x}{\cosh^2x}dx&=\int_0^1\frac{\ln x}{\cosh^2x}dx+\int_1^\infty\frac{\ln x}{\cosh^2x}dx\\
+&=\Big[\ln x\tanh x\Big]_0^1-\int_0^1\frac{\tanh x}{x}dx+\Big[(\ln x)(\tanh x-1)\Big]_1^\infty-\int_1^\infty\frac{\tanh x-1}{x}dx\\
+&=2\int_1^\infty\frac{dx}{x(1+e^{2x})}-\int_0^1\frac{1-e^{-2x}}{x(1+e^{-2x})}dx\\
+&=2\int_1^\infty\frac{dx}{x(1+e^{2x})}-\int_0^1\frac{1-e^{-2x}}{x}\left(\frac{1}{1+e^{-2x}}-1\right)dx-\int_0^1\frac{1-e^{-2x}}{x}dx\\
+&=2\int_1^\infty\frac{dx}{x(1+e^{2x})}+\int_0^1\frac{e^{-2x}-e^{-4x}}{x(1+e^{-2x})}dx-\int_0^1\frac{1-e^{-2x}}{x}dx\\
+&=2\int_1^\infty\frac{dx}{x(1+e^{2x})}-\int_1^\infty\frac{e^{-2x}-e^{-4x}}{x(1+e^{-2x})}dx+\int_0^\infty\frac{e^{-2x}-e^{-4x}}{x(1+e^{-2x})}dx-\int_0^1\frac{1-e^{-2x}}{x}dx\\
+&=\int_1^\infty\frac{1+e^{-2x}}{x(1+e^{2x})}+\int_0^\infty\frac{e^{-2x}-e^{-4x}}{x(1+e^{-2x})}dx-\int_0^1\frac{1-e^{-2x}}{x}dx\\
+&=\int_2^\infty\frac{e^{-2x}}{x}dx-\int_0^1\frac{1-e^{-2x}}{x}dx+\int_0^\infty\frac{e^{-2x}-e^{-4x}}{x(1+e^{-2x})}dx\\
+&=\int_2^\infty\frac{e^{-t}}{t}dt-\int_0^2\frac{1-e^{-t}}{t}dt+\int_0^\infty\frac{e^{-t}-e^{-2t}}{t(1+e^{-t})}dt\\
+\int_2^\infty\frac{e^{-t}}{t}dt-\int_0^2\frac{1-e^{-t}}{t}dt&=\int_2^\infty\frac{e^{-t}}{t}dt-\int_0^1\frac{1-e^{-t}}{t}dt-\int_1^2\frac{1-e^{-t}}{t}dt\\
+&=\int_2^\infty\frac{e^{-t}}{t}dt-\int_0^1\frac{1-e^{-t}}{t}dt-\ln2+\int_1^2\frac{e^{-t}}{t}dt\\
+&=\int_1^\infty\frac{e^{-t}}{t}dt-\int_0^1\frac{1-e^{-t}}{t}dt-\ln2\\
+&=-\gamma-\ln2\\
+\int_0^\infty\frac{e^{-t}-e^{-2t}}{t(1+e^{-t})}dt&=\int_0^\infty\frac{e^{-t}-e^{-2t}}{t}\left(\sum_{n=0}^\infty(-1)^ne^{-nt}\right)dt\\
+&=\sum_{n=0}^\infty(-1)^n\int_0^\infty\frac{e^{-(n+1)t}-e^{-(n+2)t}}{t}dt\\
+&=\sum_{n=0}^\infty(-1)^n\ln\left(\frac{n+2}{n+1}\right)\\
+&=\lim_{m\to\infty}\sum_{n=0}^{2m-2}(-1)^n\ln\left(\frac{n+2}{n+1}\right)\\
+&=\lim_{m\to\infty}\ln\left(\prod_{k=1}^m\frac{2k}{2k-1}\prod^{m-1}_{k=1}\frac{2k}{2k+1}\right)\\
+&=\lim_{m\to\infty}\ln\left(\frac{(2m)!!(2m-2)!!}{((2m-1)!!)^2}\right)=\ln\left(\frac{\pi}{2}\right)\\
+
+\end{align*}
     $$
   </div>
 </div>
