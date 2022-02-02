@@ -8,8 +8,9 @@
   },
   {
     "tw_url":"https://twitter.com/integralsbot/status/1434942820175912960?t=g-MRzhPJbYWReppZ1AX23A&s=19",
-    "solution_uri":null,
+    "solution_uri":Harry_1,
     "TeX":"\\int_0^1\\frac{\\arctan x}{x}\\ln\\frac{1+x^2}{(1-x^2)}dx=\\int_0^1\\frac{\\arctan x}{x}\\ln(1+x^2)dx-2\\int_0^1\\frac{\\arctan x}{x}\\ln(1-x)dx",
     "status":0
+    "solver" : "Harry"
   }
 ]
