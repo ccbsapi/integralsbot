@@ -3,7 +3,8 @@
     "tw_url":"https://twitter.com/integralsbot/status/1488160291552915458?t=3SzyoSFRXjuuuC9V9f8z0Q&s=19",
     "solution_uri":"first.html",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\ln x}{\\cosh ^{2}x}dx=\\ln \\frac {\\pi }4-\\gamma ",
-    "status" : 1
+    "status" : 1,
+    "solver" : "benri"
   },
   {
     "tw_url":"https://twitter.com/integralsbot/status/1434942820175912960?t=g-MRzhPJbYWReppZ1AX23A&s=19",
