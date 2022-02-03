@@ -28,5 +28,13 @@
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(e^x-1)^{\\frac {2}3}}dx=\\sqrt 3\\pi \\ln 3-\\frac {\\pi ^{2}}3",
     "status" : 2,
     "keywords" : []
-  }
+  },
+    {
+    "tw_uri":"https://twitter.com/integralsbot/status/1455001815137722378?t=oCzYieQlVsg1ShO6Z1I1CQ&s=19",
+    "solution_uri":"b2.bmd",
+    "TeX":"\\int _{0}^{\\frac {\\pi }2}\\frac {x\\ln (\\sin x)}{\\sin 2x}dx=-\\frac {\\pi ^{3}}{48}.",
+    "status" : 1,
+    "solver" : "benri",
+    "keywords" : []
+  },
 ]
