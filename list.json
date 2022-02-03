@@ -10,7 +10,7 @@
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1488885064641703937?s=20&t=VM4SPcMJ0mb-X1qyA-rgXQ",
     "solution_uri":"Harry_1",
-    "TeX":"\\int_0^1\\frac{\\arctan x}{x}\\ln\\frac{1+x^2}{(1-x^2)}dx=\\frac{\\pi^3}{16}",
+    "TeX":"\\int_0^1\\frac{\\arctan x}{x}\\ln\\frac{1+x^2}{(1-x)^2}dx=\\frac{\\pi^3}{16}",
     "status": 1,
     "solver" : "Harry",
     "keywords" : []
