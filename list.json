@@ -46,8 +46,8 @@
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1489066263556997123?t=UvB6ur_oVIG7162B0u54ZQ&s=19",
-    "solution_uri":"\\int _{0}^{\\infty }\\frac {\\cos \\pi x}{e^{2\pi \\sqrt x}-1}dx=\\frac {2-\\sqrt 2}8",
-    "TeX":"",
+    "solution_uri":"",
+    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos \\pi x}{e^{2\pi \\sqrt x}-1}dx=\\frac {2-\\sqrt 2}8",
     "status":0,
     "keywords":[]
   }
