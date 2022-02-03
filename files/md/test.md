@@ -1,7 +1,7 @@
 &&&thm
 &&&math
 \int _{0}^{\frac {\pi }2}\frac {x\ln (\sin x)}{\sin 2x}dx
-=-\frac {\pi ^{3}}{48}.
+=-\frac {\pi ^{3}}{48}
 &&&
 &&&
 
