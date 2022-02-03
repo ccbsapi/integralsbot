@@ -81,8 +81,8 @@
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1434482456120287241?t=X6ckOBWnDlEKrwG62OS0kg&s=19",
-    "solution_uri":"\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {a^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
-    "TeX":"https://twitter.com/AlbahariRicardo/status/1434595931551371266?t=ewjoIihqq03j4X92DeloTQ&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1434595931551371266?t=ewjoIihqq03j4X92DeloTQ&s=19",
+    "TeX":"\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {a^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
     "status":2,
     "keywords":[]
   }
