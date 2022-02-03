@@ -78,5 +78,12 @@
     "TeX":"\\begin {aligned}\n\\int _{0}^{1}\\left (\\frac {1}{\\ln x}+\\frac {1}{1-x}\\right )x^{a-1}\\ln ^{s-1}\\frac {1}xdx\n\n&=\\Gamma (s)\\left (\\zeta (s,a)+\\frac {a^{s-1}}{1-s}\\right )\\\\\n\\\\\n\\Re s,a>0\n\\end {aligned}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1434482456120287241?t=X6ckOBWnDlEKrwG62OS0kg&s=19",
+    "solution_uri":"\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {a^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
+    "TeX":"https://twitter.com/AlbahariRicardo/status/1434595931551371266?t=ewjoIihqq03j4X92DeloTQ&s=19",
+    "status":2,
+    "keywords":[]
   }
 ]
