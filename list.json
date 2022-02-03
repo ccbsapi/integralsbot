@@ -18,7 +18,7 @@
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1434942820175912960?t=u_ZNf7xNXLQNAjiiD7g0QQ&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos (x^2)-\\cos x}{x}dx=\\frac {\\gamma }2",
+    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos x^2-\\cos x}{x}dx=\\frac {\\gamma }2",
     "status" : 2,
     "keywords" : []
   },
