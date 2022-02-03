@@ -2,7 +2,7 @@
   <div class="math-exp">
     $$
    \begin{align*}
-\displaystyle\int_0^1\frac{\arctan x}{x}\ln\frac{1+x^2}{(1-x^2)}dx&=\int_0^1\frac{\arctan x}{x}\ln(1+x^2)dx-2\int_0^1\frac{\arctan x}{x}\ln(1-x)dx\\
+\displaystyle\int_0^1\frac{\arctan x}{x}\ln\frac{1+x^2}{(1-x)^2}dx&=\int_0^1\frac{\arctan x}{x}\ln(1+x^2)dx-2\int_0^1\frac{\arctan x}{x}\ln(1-x)dx\\
 &=-2\sum_{n=0}^\infty\frac{{(-1)^n}H_{2n}}{2n+1}\int_0^1x^{2n}dx-2\sum_{n=0}^\infty\frac{(-1)^n}{2n+1}\int_0^1 x^{2n}\ln(1-x)dx\\
 &=-2\sum_{n=0}^\infty\frac{(-1)^nH_{2n}}{(2n+1)^2}-2\sum_{n=0}^\infty\frac{(-1)^n}{2n+1}\left(-\frac{H_{2n+1}}{2n+1}\right)\\
 &=-2\sum_{n=0}^\infty\frac{(-1)^nH_{2n}}{(2n+1)^2}-2\sum_{n=0}^\infty\frac{(-1)^n}{2n+1}\left(-\frac{H_{2n}}{2n+1}-\frac{1}{(2n+1)^2}\right)\\

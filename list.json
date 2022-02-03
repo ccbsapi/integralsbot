@@ -10,7 +10,7 @@
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1488885064641703937?s=20&t=VM4SPcMJ0mb-X1qyA-rgXQ",
     "solution_uri":"Harry_1",
-    "TeX":"\\int_0^1\\frac{\\arctan x}{x}\\ln\\frac{1+x^2}{(1-x^2)}dx=\\frac{\\pi^3}{16}",
+    "TeX":"\\int_0^1\\frac{\\arctan x}{x}\\ln\\frac{1+x^2}{(1-x)^2}dx=\\frac{\\pi^3}{16}",
     "status": 1,
     "solver" : "Harry",
     "keywords" : []
@@ -18,7 +18,7 @@
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1434942820175912960?t=u_ZNf7xNXLQNAjiiD7g0QQ&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos (x^2)-\\cos x}{x}dx=\\frac {\\gamma }2",
+    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos x^2-\\cos x}{x}dx=\\frac {\\gamma }2",
     "status" : 2,
     "keywords" : []
   },
@@ -49,6 +49,27 @@
     "solution_uri":"",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\cos \\pi x}{e^{2\\pi \\sqrt x}-1}dx=\\frac {2-\\sqrt 2}8",
     "status":0,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1444719055537987584?t=Mrz5B_UhJlm8fZd-68R8zw&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1445556613088104458?t=NPy1it2E-02UFkBWslbT7A&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^{2})}{\\sinh \\pi x}dx=\\ln \\frac {\\sqrt[3] {2}A^{6}}{\\pi \\sqrt e}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1436142542123253776?t=2L2cWrm4cFyODavv-Fa-9g&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437204063054090242?t=WoeCGco67hawejgwkHJ6tw&s=19",
+    "TeX":"\\int _{0}^{1}\\frac {\\ln \\cos x}{1+x^{2}}dx=\\frac {\\pi }{4\\cosh \\frac {\\pi }2}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1437041547426492416?t=UVhi9rr8ma2RX51ZXDobpg&s=19",
+    "solution_uri":"https://twitter.com/BenriBot_ccbs/status/1437056555979919363?t=ouhk69H3CuZQrucaWe1gyg&s=19",
+    "TeX":"\\int _{-\\infty }^{\\infty }\\frac {\\sin x}{x-i}dx=\\frac {\\pi }e",
+    "status":2,
     "keywords":[]
   }
 ]
