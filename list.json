@@ -73,8 +73,8 @@
     "keywords":[]
   },
   {
-    "tw_uri":"",
-    "solution_uri":"",
+    "tw_uri":"https://twitter.com/integralsbot/status/1436815113789472770?t=aSooqDO5ebBix8WyAHYNTw&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437169935835406341?t=gwrguDKAXbG9NU1b7Hhbgg&s=19",
     "TeX":"\\begin {aligned}\n\\int _{0}^{1}\\left (\\frac {1}{\\ln x}+\\frac {1}{1-x}\\right )x^{a-1}\\ln ^{s-1}\\frac {1}xdx\n\n&=\\Gamma (s)\\left (\\zeta (s,a)+\\frac {a^{s-1}}{1-s}\\right )\\\\\n\\\\\n\\Re s,a>0\n\\end {aligned}",
     "status":2,
     "keywords":[]
