@@ -43,5 +43,12 @@
     "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^2)}{e^{2\\pi x}+1}dx=\\frac {19}{24}-\\frac {23}{24}\\ln 2-\\frac {1}2\\ln A",
     "status":2,
     "keywords" :[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1489066263556997123?t=UvB6ur_oVIG7162B0u54ZQ&s=19",
+    "solution_uri":"\\int _{0}^{\\infty }\\frac {\\cos \\pi x}{e^{2\pi \\sqrt x}-1}dx=\\frac {2-\\sqrt 2}8",
+    "TeX":"",
+    "status":0,
+    "keywords":[]
   }
 ]
