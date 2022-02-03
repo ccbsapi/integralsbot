@@ -39,23 +39,23 @@
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1447113241025343490?t=Zwilu0ked9tAbfWL9nnl_Q&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1447219215216349185?t=yRSRzfkLMkFHfohgm5ki0g&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int0infty-fracx-ln1x2e2-pi-x1dxfrac1924.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^2)}{e^{2\\pi x}+1}dx=\\frac {19}{24}-\\frac {23}{24}\\ln 2-\\frac {1}2\\ln A",
     "status":2,
     "keywords" :[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1444719055537987584?t=Mrz5B_UhJlm8fZd-68R8zw&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int0infty-fracx-ln1x2e2-pi-x1dxfrac1924.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^{2})}{\\sinh \\pi x}dx=\\ln \\frac {\\sqrt[3] {2}A^{6}}{\\pi \\sqrt e}",
+    "status":2,
+    "keywords":[]
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1489066263556997123?t=UvB6ur_oVIG7162B0u54ZQ&s=19",
     "solution_uri":"",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\cos \\pi x}{e^{2\\pi \\sqrt x}-1}dx=\\frac {2-\\sqrt 2}8",
     "status":0,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1444719055537987584?t=Mrz5B_UhJlm8fZd-68R8zw&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1445556613088104458?t=NPy1it2E-02UFkBWslbT7A&s=19",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^{2})}{\\sinh \\pi x}dx=\\ln \\frac {\\sqrt[3] {2}A^{6}}{\\pi \\sqrt e}",
-    "status":2,
     "keywords":[]
   },
   {
