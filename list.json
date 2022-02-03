@@ -64,5 +64,12 @@
     "TeX":"\\int _{0}^{1}\\frac {\\ln \\cos x}{1+x^{2}}dx=\\frac {\\pi }{4\\cosh \\frac {\\pi }2}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1437041547426492416?t=UVhi9rr8ma2RX51ZXDobpg&s=19",
+    "solution_uri":"https://twitter.com/BenriBot_ccbs/status/1437056555979919363?t=ouhk69H3CuZQrucaWe1gyg&s=19",
+    "TeX":"\\int _{-\\infty }^{\\infty }\\frac {\\sin x}{x-i}dx=\\frac {\\pi }e",
+    "status":2,
+    "keywords":[]
   }
 ]
