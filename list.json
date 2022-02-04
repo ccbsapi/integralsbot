@@ -127,5 +127,12 @@
     "TeX":"\\int _{0}^{\\infty }\\frac {x^{\\frac {\\pi }5-1}}{1+x^{2\\pi }}dx=\\phi ",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1470312700333158403?t=v07JEYmGQKLWIh5m-Vt1UA&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1471559166464598017?t=6YKMyDa0rULrXlJOogwf5Q&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\tan ^{-1}e^{-x}dx=\\beta (2)",
+    "status":2,
+    "keywords":[]
   }
 ]
