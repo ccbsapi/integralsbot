@@ -1,0 +1,20 @@
+&&&thm
+&&&math
+\int _{0}^{\pi }\ln \left (2\sin \frac {x}2\right )\ln \left (2\cos \frac {x}2\right )dx
+=-\frac {\pi ^{3}}{24}
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\pi}\ln \left (2\sin \frac {x}2\right )\ln \left (2\cos \frac {x}2\right )dx
+&=\frac {1}2\int _{-\pi }^{\pi }\ln \left |2\sin \frac {x}2\right |\ln \left |2\cos \frac {x}2\right |dx\\
+&=\frac {1}2\int _{-\pi }^{\pi }\sum _{n=1}^\infty \sum _{m=1}^\infty \frac {(-1)^n\cos (nx)\cos (mx)}{nm}dx\\
+&=\frac {1}2\sum _{n=1}^{\infty }\sum _{m=1}^\infty \frac {(-1)^n}{nm}\int _{-\pi }^{\pi }\cos (nx)\cos (mx)dx\\
+&=\frac {1}2\sum _{n=1}^\infty \frac {(-1)^{n}}{n^{2}}\pi \\
+&=\frac {\pi }2\cdot \frac {-\pi ^{2}}{12}\\
+&=\textcolor {blue}{-\frac {\pi ^{3}}{24}}.
+\end {aligned}
+&&&
+&&&
