@@ -196,5 +196,12 @@
     "TeX":"\\begin {aligned}\n\\int _{0}^{\\frac {1}2}x\\ln \\Gamma (x)dx&=\\frac {1}{48}\\ln 4\\pi ^{3}A^{12}-\\frac {7\\zeta (3)}{32}\\\\\n\n\\int _{0}^{\\frac {1}2}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}{2880}\\ln 2^{31}\\pi ^{60}A^{120}-\\frac {11}{1152}-\\frac {3\\zeta (3)}{32\\pi ^{2}}-\\frac {5\\zeta '(-3)}8\n\\end {aligned}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1446886269389131776?t=YEV_K0IK356mGmhCLYRhtg&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/integral-int0pi2-x2-ln2leftcos2.html?m=1"#
+    "TeX":"\\int _{0}^{\\frac {\\pi }2}x^{2}\\ln ^{2}2\\cos xdx=\\frac {11\\pi ^{5}}{1440}",
+    "status":2,
+    "keywords":[]
   }
 ]
