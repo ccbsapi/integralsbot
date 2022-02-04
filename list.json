@@ -233,4 +233,11 @@
     "status":2,
     "keywords":[]
   }
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_0^{\\pi/2}\\frac 1{\\tan x}\\ln\\left(\\frac{1+(\\tan x+\\sinh y)^2\\cosh^2y}{1+(\\tan x-\\sinh y)^2\\cosh^2 y}\\right)\\,dx=2\\pi\\arctan\\tanh\\frac x2",    "status":2,
+    "status":2,
+    "keywords":[]
+  }
 ]
