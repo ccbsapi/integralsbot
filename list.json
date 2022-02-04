@@ -269,9 +269,16 @@
     "keywords":[]
   },
   {
-    "tw_uri":"https://twitter.com/integralsbot/status/1456271012027256842?t=VE4ik6M0TY1YVOCMbdT9rg&s=19",
+    "tw_uri":"",
     "solution_uri":"https://mathlog.info/articles/1901",
     "TeX":"\\int_0^{\\infty}\\frac{\\sqrt[\\phi]{x}\\arctan x}{(1+x^{\\phi})^2}\\,dx=\\frac{\\pi}{4\\phi}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1901",
+    "TeX":"\\int_0^{\\pi/2}\\frac{\\arctan\\sqrt{\\tan x}}{\\tan x}\\,dx=\\frac{\\pi}{2}\\ln(2+\\sqrt{2})",
     "status":2,
     "keywords":[]
   }
