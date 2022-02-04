@@ -241,7 +241,7 @@
     "keywords":[]
   },
   {
-    "tw_uri":"",
+    "tw_uri":"https://twitter.com/integralsbot/status/1489338049645654016?t=-kXcQQOJQeUa8h5i6hFbPg&s=19",
     "solution_uri":"https://mathlog.info/articles/1901",
     "TeX":"\\int_0^{\\infty}\\frac{\\sin\\pi x^2\\cosh\\pi x}{\\sinh^2 \\pi x}\\,dx=\\frac 14",
     "status":2,
