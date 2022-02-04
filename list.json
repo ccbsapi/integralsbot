@@ -1,5 +1,12 @@
 [
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1489338049645654016?t=-kXcQQOJQeUa8h5i6hFbPg&s=19",
+    "solution_uri":"https://mathlog.info/articles/1901",
+    "TeX":"\\int_0^{\\infty}\\frac{\\sin\\pi x^2\\cosh\\pi x}{\\sinh^2 \\pi x}\\,dx=\\frac 14",
+    "status":2,
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1488160291552915458?t=3SzyoSFRXjuuuC9V9f8z0Q&s=19",
     "solution_uri":"first.html",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\ln x}{\\cosh ^{2}x}dx=\\ln \\frac {\\pi }4-\\gamma ",
@@ -237,13 +244,6 @@
     "tw_uri":"",
     "solution_uri":"https://mathlog.info/articles/1876",
     "TeX":"\\int_0^{\\pi/4}\\frac{\\tan^{2e}x-2\\sin^2 x}{\\sin 2x\\ln\\tan x}\\,dx=\\frac 12\\left(1+\\ln\\frac{\\pi}2\\right)",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1489338049645654016?t=-kXcQQOJQeUa8h5i6hFbPg&s=19",
-    "solution_uri":"https://mathlog.info/articles/1901",
-    "TeX":"\\int_0^{\\infty}\\frac{\\sin\\pi x^2\\cosh\\pi x}{\\sinh^2 \\pi x}\\,dx=\\frac 14",
     "status":2,
     "keywords":[]
   },
