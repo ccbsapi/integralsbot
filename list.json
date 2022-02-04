@@ -288,5 +288,12 @@
     "TeX":"\\int_0^1\\frac{x}{(1-s^2x^2)\\sqrt{1-x^2}}\\ln\\frac{1-x}{1+x}\\,dx=\\frac{\\pi}{2s\\sqrt{1-s^2}}\\ln\\frac{1-s}{1+s}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1901",
+    "TeX":"\\int_0^{\\infty}J_n(bx)x^ne^{-ax}\\,dx=\\frac{(2b)^n\\Gamma\\left(\\frac 12+n\\right)}{\\sqrt{\\pi}(a^2+b^2)^{1/2+n}}",
+    "status":2,
+    "keywords":[]
   }
 ]
