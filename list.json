@@ -232,11 +232,18 @@
     "TeX":"\\int_{-\\infty}^{\\infty}\\ln(2-2\\cos x^2)\\,dx=-\\sqrt{2\\pi}\\zeta\\left(\\frac 32\\right)",
     "status":2,
     "keywords":[]
-  }
+  },
   {
     "tw_uri":"",
     "solution_uri":"https://mathlog.info/articles/1876",
     "TeX":"\\int_0^{\\pi/4}\\frac{\\tan^{2e}x-2\\sin^2 x}{\\sin 2x\\ln\\tan x}\\,dx=\\frac 12\\left(1+\\ln\\frac{\\pi}2\\right)",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_0^{\\infty}\\frac{\\sin\\pi x^2\\cosh\\pi x}{\\sinh^2 \\pi x}\\,dx=\\frac 14",
     "status":2,
     "keywords":[]
   }
