@@ -400,5 +400,12 @@
     "TeX":"\\int_0^1\\sqrt{\\frac{2-x^2}{1-x^2}}\\,dx=\\frac{\\pi\\sqrt{2\\pi}}{\\Gamma\\left(\\frac 14\\right)^2}+\\frac{\\Gamma\\left(\\frac 14\\right)^2}{4\\sqrt{2\\pi}}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1488190494647599107?t=VoB-2wskjRv14x3HkWUjvw&s=19",
+    "solution_uri":"https://mathlog.info/articles/1929",
+    "TeX":"\\int_0^1\\frac{\\ln(1-x)}{\\sqrt{x-x^3}}\\,dx=\\frac{\\Gamma\\left(\\frac 14\\right)^2}{4\\sqrt{2\\pi}}(\\ln 2-\\pi)",
+    "status":2,
+    "keywords":[]
   }
 ]
