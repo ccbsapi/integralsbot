@@ -209,6 +209,7 @@
     "solution_uri":"b_logsin.bmd",
     "TeX":"\\int _{0}^{\\pi }\\ln \\left (2\\sin \\frac {x}2\\right )\\ln \\left (2\\cos \\frac {x}2\\right )dx\n=-\\frac {\\pi ^{3}}{24}",
     "status":3,
-    "keywords":[]
+    "keywords":[],
+    "solver":"benri"
   }
 ]
