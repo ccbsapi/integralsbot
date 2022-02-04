@@ -211,5 +211,12 @@
     "status":3,
     "keywords":[],
     "solver":"Benri"
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1428532411625656329?t=p3ikly3NF2D-JDw6svPAIQ&s=19",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_0^1\\ln\\frac{1+ax}{1-ax}\\frac{dx}{x\\sqrt{1-x^2}}=\\pi\\sin^{-1} a",
+    "status":2,
+    "keywords":[]
   }
 ]
