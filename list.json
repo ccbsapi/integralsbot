@@ -7,6 +7,13 @@
     "keywords":[]
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1489066263556997123?t=UvB6ur_oVIG7162B0u54ZQ&s=19",
+    "solution_uri":"",
+    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos \\pi x}{e^{2\\pi \\sqrt x}-1}dx=\\frac {2-\\sqrt 2}8",
+    "status":0,
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1488160291552915458?t=3SzyoSFRXjuuuC9V9f8z0Q&s=19",
     "solution_uri":"first.html",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\ln x}{\\cosh ^{2}x}dx=\\ln \\frac {\\pi }4-\\gamma ",
@@ -70,13 +77,6 @@
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int0infty-fracx-ln1x2e2-pi-x1dxfrac1924.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^{2})}{\\sinh \\pi x}dx=\\ln \\frac {\\sqrt[3] {2}A^{6}}{\\pi \\sqrt e}",
     "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1489066263556997123?t=UvB6ur_oVIG7162B0u54ZQ&s=19",
-    "solution_uri":"",
-    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos \\pi x}{e^{2\\pi \\sqrt x}-1}dx=\\frac {2-\\sqrt 2}8",
-    "status":0,
     "keywords":[]
   },
   {
