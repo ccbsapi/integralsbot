@@ -309,5 +309,12 @@
     "TeX":"\\int_0^{\\infty}\\frac{\\arctan\\sqrt{a^2+x^2}}{(1+x^2)\\sqrt{a^2+x^2}}\\,dx=\\frac{\\pi}{\\sqrt{a^2-1}}\\arctan\\frac{\\sqrt{a^2-1}}{2+\\sqrt{a^2+1}}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1913",
+    "TeX":"\\int_0^1\\frac{\\ln x\\arcsin xy}{x(1-x^2)}\\,dx=\\frac 16\\arcsin^3 y-\\frac 34\\zeta(2)\\arcsin y",
+    "status":2,
+    "keywords":[]
   }
 ]
