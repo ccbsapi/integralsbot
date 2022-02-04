@@ -16,6 +16,13 @@
     "keywords" : []
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1480852148372254720?t=tf991KMKD6gpA4hoakDWYQ&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos x-e^{-x}}xdx=0",
+    "status":2,
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1434942820175912960?t=u_ZNf7xNXLQNAjiiD7g0QQ&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\cos x^2-\\cos x}{x}dx=\\frac {\\gamma }2",
@@ -119,6 +126,34 @@
     "solution_uri":"",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\sqrt x\\tan ^{-1}x\\ \\ln \\left (1+x^{2}\\right )}{1+x^2} dx=\\frac {\\pi }{6\\sqrt 2}\\left (12\\beta (2)+9\\ln ^{2}2+3\\pi \\ln 2+\\pi ^{2}\\right )",
     "status":0,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1484506226788499457?t=L6afDY8u3uxutXWp9Y6J9w&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1484554268166270976?t=1zG4-bt6ybqZoIPBYQcTCw&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x^{\\frac {\\pi }5-1}}{1+x^{2\\pi }}dx=\\phi ",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1470312700333158403?t=v07JEYmGQKLWIh5m-Vt1UA&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1471559166464598017?t=6YKMyDa0rULrXlJOogwf5Q&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\tan ^{-1}e^{-x}dx=\\beta (2)",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1460467830542172160?t=CSXpvq6a3Or5PKT-GNfX1Q&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int-x1x21tanhpix2dx.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+x^{2})^{2}}\\frac {dx}{\\tanh \\frac {\\pi x}2}=\\frac {\\pi ^{2}}8-\\frac {1}2",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1464182570892275712?t=T9TxUGliNSq8Z9l0pD-Egw&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-sinhaxcoshbxsinhcxdx-from-0-to.html?m=1",
+    "TeX":"\\begin {aligned}\n\\int _{-\\infty }^{\\infty }\\frac {\\sinh \\alpha x}{\\sinh \\pi x}\\cos \\beta x\\ dx&=\\frac {\\sin \\alpha }{\\cos \\alpha +\\cosh \\beta }\\\\\n\n\\int _{-\\infty }^{\\infty }\\frac {\\cosh \\alpha x}{\\sinh \\pi x}\\sin \\beta x\\ dx&=\\frac {\\sinh \\beta }{\\cos \\alpha +\\cosh \\beta }\\\\\\\\\n-\\pi <\\alpha <\\pi \n\\end {aligned}",
+    "status":2,
     "keywords":[]
   }
 ]
