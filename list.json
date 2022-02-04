@@ -281,5 +281,12 @@
     "TeX":"\\int_0^{\\pi/2}\\frac{\\arctan\\sqrt{\\tan x}}{\\tan x}\\,dx=\\frac{\\pi}{2}\\ln(2+\\sqrt{2})",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1488311286899560448?t=LsLz4rXnFfrVkStrvl45HQ&s=19",
+    "solution_uri":"https://mathlog.info/articles/1901",
+    "TeX":"\\int_0^1\\frac{x}{(1-s^2x^2)\\sqrt{1-x^2}}\\ln\\frac{1-x}{1+x}\\,dx=\\frac{\\pi}{2s\\sqrt{1-s^2}}\\ln\\frac{1-s}{1+s}",
+    "status":2,
+    "keywords":[]
   }
 ]
