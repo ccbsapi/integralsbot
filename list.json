@@ -199,7 +199,7 @@
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1446886269389131776?t=YEV_K0IK356mGmhCLYRhtg&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/integral-int0pi2-x2-ln2leftcos2.html?m=1"#
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/integral-int0pi2-x2-ln2leftcos2.html?m=1",
     "TeX":"\\int _{0}^{\\frac {\\pi }2}x^{2}\\ln ^{2}2\\cos xdx=\\frac {11\\pi ^{5}}{1440}",
     "status":2,
     "keywords":[]
