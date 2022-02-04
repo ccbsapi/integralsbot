@@ -189,5 +189,12 @@
     "TeX":"\\begin {aligned}\n\\int _{0}^{1}x\\ln \\Gamma (x)dx&=\\frac {1}4\\ln \\frac {2\\pi }{A^{4}}\\\\\n\n\\int _{0}^{1}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}6\\ln \\frac {2\\pi }{A^{6}}+\\frac {\\zeta (3)}{4\\pi ^{2}}\n\\end {aligned}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1445609932951150602?t=vxq8tFLM8ei2Vx0KCpgmDA&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/moments-of-loggamma-function-between-0.html?m=1",
+    "TeX":"\\begin {aligned}\n\\int _{0}^{\\frac {1}2}x\\ln \\Gamma (x)dx&=\\frac {1}{48}\\ln 4\\pi ^{3}A^{12}-\\frac {7\\zeta (3)}{32}\\\\\n\n\\int _{0}^{\\frac {1}2}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}{2880}\\ln 2^{31}\\pi ^{60}A^{120}-\\frac {11}{1152}-\\frac {3\\zeta (3)}{32\\pi ^{2}}-\\frac {5\\zeta '(-3)}8\n\\end {aligned}",
+    "status":2,
+    "keywords":[]
   }
 ]
