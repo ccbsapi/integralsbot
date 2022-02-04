@@ -274,5 +274,5 @@
     "TeX":"\\int_0^{\\infty}\\frac{\\sqrt[\\phi]{x}\\arctan x}{(1+x^{\\phi})^2}\\,dx=\\frac{\\pi}{4\\phi}",
     "status":2,
     "keywords":[]
-  },
+  }
 ]
