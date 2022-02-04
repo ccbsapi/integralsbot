@@ -213,6 +213,13 @@
     "solver":"Benri"
   },
   {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_0^{\\pi}\\sin^{\\mu-1}x\\sin bx\\,dx=\\frac{2^{1-\\mu}\\pi\\Gamma(\\mu)\\sin\\frac{\\pi b}{2}}{\\Gamma\\left(\\frac{1+\\mu-b}{2}\\right)\\Gamma\\left(\\frac{1+\\mu+b}{2}\\right)}",
+    "status":2,
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1428532411625656329?t=p3ikly3NF2D-JDw6svPAIQ&s=19",
     "solution_uri":"https://mathlog.info/articles/1876",
     "TeX":"\\int_0^1\\ln\\frac{1+ax}{1-ax}\\frac{dx}{x\\sqrt{1-x^2}}=\\pi\\sin^{-1} a",
