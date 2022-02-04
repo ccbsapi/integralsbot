@@ -225,5 +225,12 @@
     "TeX":"\\int_0^1\\ln\\frac{1+ax}{1-ax}\\frac{dx}{x\\sqrt{1-x^2}}=\\pi\\sin^{-1} a",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_{-\\infty}^{\\infty}\\ln(2-2\\cos x^2)\\,dx=-\\sqrt{2\\pi}\\zeta\\left(\\frac 32\\right)",
+    "status":2,
+    "keywords":[]
   }
 ]
