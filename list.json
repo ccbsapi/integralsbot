@@ -365,5 +365,47 @@
     "TeX":"\\int_0^a\\sqrt{\\frac{\\sqrt{1+x^4}-x^2}{1+x^4}}\\,dx=\\sqrt{2}\\tan^{-1}\\sqrt{\\frac{\\sqrt{1+a^4}-1}{a^2}}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1921",
+    "TeX":"\\begin {aligned}\n\\int_0^{\\infty}\\frac{\\cos\\pi x^2}{1+2\\cosh\\frac{2\\pi x}{\\sqrt{3}}}\\,dx&=\\frac{2+\\sqrt{2}-\\sqrt{6}}{8}\\\\\n\\int_0^{\\infty}\\frac{\\sin\\pi x^2}{1+2\\cosh\\frac{2\\pi x}{\\sqrt{3}}}\\,dx&=\\frac{\\sqrt{2}+\\sqrt{6}-2\\sqrt{3}}{8}\n\\end {aligned}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1921",
+    "TeX":"\\int_a^b\\sqrt{1+\\frac 1{\\sqrt{1+\\frac{f(x)}{f(a+b-x)}}}}\\,dx=(1+\\sqrt{2})\\int_a^b\\sqrt{1-\\frac 1{\\sqrt{1+\\frac{f(x)}{f(a+b-x)}}}}\\,dx",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1921",
+    "TeX":"\\begin {aligned}\n\nK(x)&:=\\frac{\\pi}{2}\\,{}_2F_1\\left[\\begin{matrix}\\frac 12,\\frac 12\\\\1\\end{matrix};x^2\\right],\\quad \nI(m,n):=\\int_0^1K(x^{1/m})^n\\,dx\\\\\n\n\nI(1,1)&=2\\beta(2)\\\\\nI(2,1)&=2\\\\\nI(3,1)&=\\frac 32\\beta(2)+\\frac 34\\\\\nI(4,1)&=\\frac{20}9\\\\\nI(5,1)&=\\frac{45}{32}\\beta(2)+\\frac{65}{64}\\\\\n\\end {aligned}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1921",
+    "TeX":"\\int_0^{\\pi/2}J_0(\\cos x)\\,dx=\\frac{\\pi}{2}\\left(J_0\\left(\\frac 12\\right)\\right)^2",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1929",
+    "TeX":"\\int_0^1\\sqrt{\\frac{2-x^2}{1-x^2}}\\,dx=\\frac{\\pi\\sqrt{2\\pi}}{\\Gamma\\left(\\frac 14\\right)^2}+\\frac{\\Gamma\\left(\\frac 14\\right)^2}{4\\sqrt{2\\pi}}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1488190494647599107?t=VoB-2wskjRv14x3HkWUjvw&s=19",
+    "solution_uri":"https://mathlog.info/articles/1929",
+    "TeX":"\\int_0^1\\frac{\\ln(1-x)}{\\sqrt{x-x^3}}\\,dx=\\frac{\\Gamma\\left(\\frac 14\\right)^2}{4\\sqrt{2\\pi}}(\\ln 2-\\pi)",
+    "status":2,
+    "keywords":[]
   }
 ]
