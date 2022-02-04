@@ -254,11 +254,18 @@
     "status":2,
     "keywords":[]
   },
-    {
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1456271012027256842?t=VE4ik6M0TY1YVOCMbdT9rg&s=19",
     "solution_uri":"https://mathlog.info/articles/1901",
     "TeX":"\\begin {aligned}\n&\\int_0^{\\pi/2}\\arctan\\frac{2r\\sin x}{1-r^2}\\,dx=2\\chi_2(r)\\\\\n&\\int_0^{\\pi/2}\\arctan\\frac{2r\\sin x}{1-r^2}\\arctan\\frac{2s\\sin x}{1-s^2}\\,dx=\\pi\\chi_2(rs)\n\\end {aligned}",
     "status":2,
     "keywords":[]
-  }
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1901",
+    "TeX":"\\int_0^1\\left(\\left\\lfloor\\frac{\\alpha}{x}\\right\\rfloor -\\alpha\\left\\lfloor\\frac 1x\\right\\rfloor\\right)\\,dx=\\alpha\\ln\\alpha\\quad(0\\lt \\alpha\\lt 1)",
+    "status":2,
+    "keywords":[]
+  },
 ]
