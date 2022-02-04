@@ -113,5 +113,12 @@
     "TeX":"\\int _{0}^{\\infty }\\frac {dx}{(\\pi ^{2}+x^{2})\\cosh x}=\\frac {2}\\pi -\\frac {1}2",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1489368251348172802?t=tddN1-kaXtzORFms2iQidw&s=19",
+    "solution_uri":"",
+    "TeX":"\\int _{0}^{\\infty }\\frac {\\sqrt x\\tan ^{-1}x\\ \\ln \\left (1+x^{2}\\right )}{1+x^2} dx=\\frac {\\pi }{6\\sqrt 2}\\left (12\\beta (2)+9\\ln ^{2}2+3\\pi \\ln 2+\\pi ^{2}\\right )",
+    "status":0,
+    "keywords":[]
   }
 ]
