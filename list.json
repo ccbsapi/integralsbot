@@ -358,5 +358,12 @@
     "TeX":"\\int_{(-\\infty,\\infty)^n}\\frac{\\prod_{k=1}^n\\sin a_kx_k}{\\prod_{k=1}^nx_k}\\frac{\\sin\\sum_{k=1}^na_kx_k}{\\sum_{k=1}^na_kx_k}\\,dx^n=\\pi^n\\quad(0\\lt a_k)\n",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1489126661580722187?t=QA1aMp4SzzQfed8QqPVJeg&s=19",
+    "solution_uri":"https://mathlog.info/articles/1921",
+    "TeX":"\\int_0^a\\sqrt{\\frac{\\sqrt{1+x^4}-x^2}{1+x^4}}\\,dx=\\sqrt{2}\\arctan\\sqrt{\\frac{\\sqrt{1+a^4}-1}{a^2}}",
+    "status":2,
+    "keywords":[]
   }
 ]
