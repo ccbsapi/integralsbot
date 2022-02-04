@@ -351,5 +351,12 @@
     "TeX":"\\int_0^{2\\pi}\\frac{x}{\\phi-\\cos^2 x}\\,dx=2\\pi^2",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1921",
+    "TeX":"\\int_{(-\\infty,\\infty)^n}\\frac{\\prod_{k=1}^n\\sin a_kx_k}{\\prod_{k=1}^nx_k}\\frac{\\sin\\sum_{k=1}^na_kx_k}{\\sum_{k=1}^na_kx_k}\\,dx^n=\\pi^n\\quad(0\\lt a_k)\n",
+    "status":2,
+    "keywords":[]
   }
 ]
