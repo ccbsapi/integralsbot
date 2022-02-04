@@ -246,5 +246,12 @@
     "TeX":"\\int_0^{\\infty}\\frac{\\sin\\pi x^2\\cosh\\pi x}{\\sinh^2 \\pi x}\\,dx=\\frac 14",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_0^1\\frac{x^2\\ln\\frac 1x}{(1-x^4)\\left(\\pi^2+\\left(\\ln\\frac{1+x}{1-x}+2\\tan^{-1}\\frac 1x\\right)^2\\right)}\\,dx=\\frac 1{32}\\ln\\frac{\\pi^2}{8}",
+    "status":2,
+    "keywords":[]
   }
 ]
