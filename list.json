@@ -330,5 +330,12 @@
     "TeX":"\\int_{-\\infty}^{\\infty}\\frac{\\sin\\left(x-\\frac ax\\right)}{x+\\frac 1x}\\,dx=\\frac{\\pi}{e^{1+a}}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1913",
+    "TeX":"\\int_{-\\infty}^{\\infty}\\frac{dx}{(e^x+x+1)^2+\\pi^2}=\\frac 23",
+    "status":2,
+    "keywords":[]
   }
 ]
