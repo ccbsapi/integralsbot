@@ -365,5 +365,12 @@
     "TeX":"\\int_0^a\\sqrt{\\frac{\\sqrt{1+x^4}-x^2}{1+x^4}}\\,dx=\\sqrt{2}\\tan^{-1}\\sqrt{\\frac{\\sqrt{1+a^4}-1}{a^2}}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1921",
+    "TeX":"\\begin {aligned}\n\\int_0^{\\infty}\\frac{\\cos\\pi x^2}{1+2\\cosh\\frac{2\\pi x}{\\sqrt{3}}}\\,dx&=\\frac{2+\\sqrt{2}-\\sqrt{6}}{8}\\\\\n\\int_0^{\\infty}\\frac{\\sin\\pi x^2}{1+2\\cosh\\frac{2\\pi x}{\\sqrt{3}}}\\,dx&=\\frac{\\sqrt{2}+\\sqrt{6}-2\\sqrt{3}}{8}\n\\end {aligned}",
+    "status":2,
+    "keywords":[]
   }
 ]
