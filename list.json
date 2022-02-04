@@ -162,5 +162,53 @@
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+4x^2)^2\\ \\sinh \\pi x}dx=-\\frac {1}8+\\frac {\\beta (2)}4",
     "status":2,
     "keywords":[]
+  },{
+    "tw_uri":"https://twitter.com/integralsbot/status/1454186446978383873?t=DvQQ1MWa8L_VziwXsFfr7A&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-int0infty-fracxax22x.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x^{\\alpha }}{1+2x\\cos \\pi \\beta +x^{2}}dx=\\frac {\\pi \\sin \\pi \\alpha \\beta }{\\sin \\pi \\alpha \\sin \\pi \\beta }",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1452012118144811008?t=XJeu2YIIwrukRW5hIEPrUQ&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/mamlsten-integrals-part-i.html?m=1",
+    "TeX":"\\int _{0}^{1}\\frac {\\ln \\ln \\frac {1}x}{1+2x\\cos 2\\pi \\alpha +x^{2}}=\\frac {\\pi }{\\sin 2\\pi \\alpha }\\ln \\frac {\\sqrt \\pi (2\\pi )^{\\alpha }}{\\Gamma \\left (\\frac {1}2-\\alpha \\right )\\sqrt {\\cos \\pi \\alpha }}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1450290770087272451?t=ZW8TaUmzTTXT7Mcb_CAMXw&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1450500337979252748?t=u8r7vWkQ6JAz_XumYwG-_Q&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln x}{1-e^{2e\\pi x}}dx=\\frac {\\ln A}{2e^{2}}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1445609932951150602?t=AsYSfM7p-BlPWHrW-XA0cA&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/two-logaggama-integrals-evaluated.html?m=1",
+    "TeX":"\\begin {aligned}\n\\int _{0}^{1}x\\ln \\Gamma (x)dx&=\\frac {1}4\\ln \\frac {2\\pi }{A^{4}}\\\\\n\n\\int _{0}^{1}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}6\\ln \\frac {2\\pi }{A^{6}}+\\frac {\\zeta (3)}{4\\pi ^{2}}\n\\end {aligned}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1445609932951150602?t=vxq8tFLM8ei2Vx0KCpgmDA&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/moments-of-loggamma-function-between-0.html?m=1",
+    "TeX":"\\begin {aligned}\n\\int _{0}^{\\frac {1}2}x\\ln \\Gamma (x)dx&=\\frac {1}{48}\\ln 4\\pi ^{3}A^{12}-\\frac {7\\zeta (3)}{32}\\\\\n\n\\int _{0}^{\\frac {1}2}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}{2880}\\ln 2^{31}\\pi ^{60}A^{120}-\\frac {11}{1152}-\\frac {3\\zeta (3)}{32\\pi ^{2}}-\\frac {5\\zeta '(-3)}8\n\\end {aligned}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1446886269389131776?t=YEV_K0IK356mGmhCLYRhtg&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/integral-int0pi2-x2-ln2leftcos2.html?m=1",
+    "TeX":"\\int _{0}^{\\frac {\\pi }2}x^{2}\\ln ^{2}2\\cos xdx=\\frac {11\\pi ^{5}}{1440}",
+    "status":2,
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1448501944486563843?t=9EKWmhOfFxA2lvkwOE200w&s=19",
+    "solution_uri":"b_logsin.bmd",
+    "TeX":"\\int _{0}^{\\pi }\\ln \\left (2\\sin \\frac {x}2\\right )\\ln \\left (2\\cos \\frac {x}2\\right )dx\n=-\\frac {\\pi ^{3}}{24}",
+    "status":3,
+    "keywords":[]
   }
 ]
