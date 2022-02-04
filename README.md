@@ -5,13 +5,19 @@
 
 # list.jsonの書き方
 ```json
-{
-  "tw_uri":"元ツイートのURL",
-  "solution_uri":"解法のURI",
-  "TeX":"ツイート内容のTeX",
-  "status":"ステータス",
-  "keywords":[]
-}
+[
+  {
+    "tw_uri":"元ツイートのURL",
+    "solution_uri":"解法のURI",
+    "TeX":"ツイート内容のTeX",
+    "status":"ステータス",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"...",
+    ...
+  }
+]
 ```
 | ステータス | 値 |
 | --------- | - |
