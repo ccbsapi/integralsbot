@@ -155,5 +155,12 @@
     "TeX":"\\begin {aligned}\n\\int _{-\\infty }^{\\infty }\\frac {\\sinh \\alpha x}{\\sinh \\pi x}\\cos \\beta x\\ dx&=\\frac {\\sin \\alpha }{\\cos \\alpha +\\cosh \\beta }\\\\\n\n\\int _{-\\infty }^{\\infty }\\frac {\\cosh \\alpha x}{\\sinh \\pi x}\\sin \\beta x\\ dx&=\\frac {\\sinh \\beta }{\\cos \\alpha +\\cosh \\beta }\\\\\\\\\n-\\pi <\\alpha <\\pi \n\\end {aligned}",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1458927677029908481?t=8fvE0U7_OD4Cpo-KxPMFeg&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-sinhaxsinhbxdx.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+4x^2)^2\\ \\sinh \\pi x}dx=-\\frac {1}8+\\frac {\\beta (2)}4",
+    "status":2,
+    "keywords":[]
   }
 ]
