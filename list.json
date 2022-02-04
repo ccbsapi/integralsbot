@@ -393,5 +393,12 @@
     "TeX":"\\int_0^{\\pi/2}J_0(\\cos x)\\,dx=\\frac{\\pi}{2}\\left(J_0\\left(\\frac 12\\right)\\right)^2",
     "status":2,
     "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1929",
+    "TeX":"\\int_0^1\\sqrt{\\frac{2-x^2}{1-x^2}}\\,dx=\\frac{\\pi\\sqrt{2\\pi}}{\\Gamma\\left(\\frac 14\\right)^2}+\\frac{\\Gamma\\left(\\frac 14\\right)^2}{4\\sqrt{2\\pi}}",
+    "status":2,
+    "keywords":[]
   }
 ]
