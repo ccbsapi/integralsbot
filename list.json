@@ -162,5 +162,11 @@
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+4x^2)^2\\ \\sinh \\pi x}dx=-\\frac {1}8+\\frac {\\beta (2)}4",
     "status":2,
     "keywords":[]
+  },{
+    "tw_uri":"https://twitter.com/integralsbot/status/1454186446978383873?t=DvQQ1MWa8L_VziwXsFfr7A&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-int0infty-fracxax22x.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x^{\\alpha }}{1+2x\\cos \\pi \\beta +x^{2}}dx=\\frac {\\pi \\sin \\pi \\alpha \\beta }{\\sin \\pi \\alpha \\sin \\pi \\beta }",
+    "status":2,
+    "keywords":[]
   }
 ]
