@@ -53,6 +53,14 @@
     "keywords" : []
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1429114403538935813?t=KGBSTGngz-dv6Llj3Bn8pA&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-log-gamma-0-to-12.html?m=1",
+    "TeX":"\\int _{0}^{\\frac {1}2}\\ln \\Gamma (x)dx=\\frac {3}2\\ln A+\\frac {5}{24}\\ln 2+\\frac {1}4\\ln \\pi ",
+    "status":2,
+    "id":"7-14",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1489791040831721472?t=L40x0p4ZA1vUcc39dL_wdQ&s=19",
     "solution_uri":"https://mathlog.info/articles/1876",
     "TeX":"\\begin {aligned}\nf\\mathrm{\\ is\\ an\\ odd\\ function\\ with\\ period\\ }T\\\\\\\\\n\\int_0^{\\infty}\\frac{f(x)}{x}\\,dx=\\frac{\\pi}T\\int_0^{\\frac T2}\\frac{f(x)}{\\tan\\frac{\\pi x}{T}}\\,dx\n\\end {aligned}",
@@ -118,13 +126,6 @@
     "solver" : "Benri",
     "id":"20-71",
     "keywords" : []
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1429114403538935813?t=KGBSTGngz-dv6Llj3Bn8pA&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-log-gamma-0-to-12.html?m=1",
-    "TeX":"\\int _{0}^{\\frac {1}2}\\ln \\Gamma (x)dx=\\frac {3}2\\ln A+\\frac {5}{24}\\ln 2+\\frac {1}4\\ln \\pi ",
-    "status":2,
-    "keywords":[]
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1447113241025343490?t=Zwilu0ked9tAbfWL9nnl_Q&s=19",
