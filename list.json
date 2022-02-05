@@ -53,6 +53,14 @@
     "keywords" : []
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1447113241025343490?t=Zwilu0ked9tAbfWL9nnl_Q&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int0infty-fracx-ln1x2e2-pi-x1dxfrac1924.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^2)}{e^{2\\pi x}+1}dx=\\frac {19}{24}-\\frac {23}{24}\\ln 2-\\frac {1}2\\ln A",
+    "status":2,
+    "id":"7-6",
+    "keywords" :[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1429114403538935813?t=KGBSTGngz-dv6Llj3Bn8pA&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-log-gamma-0-to-12.html?m=1",
     "TeX":"\\int _{0}^{\\frac {1}2}\\ln \\Gamma (x)dx=\\frac {3}2\\ln A+\\frac {5}{24}\\ln 2+\\frac {1}4\\ln \\pi ",
@@ -126,13 +134,6 @@
     "solver" : "Benri",
     "id":"20-71",
     "keywords" : []
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1447113241025343490?t=Zwilu0ked9tAbfWL9nnl_Q&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int0infty-fracx-ln1x2e2-pi-x1dxfrac1924.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^2)}{e^{2\\pi x}+1}dx=\\frac {19}{24}-\\frac {23}{24}\\ln 2-\\frac {1}2\\ln A",
-    "status":2,
-    "keywords" :[]
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1444719055537987584?t=Mrz5B_UhJlm8fZd-68R8zw&s=19",
