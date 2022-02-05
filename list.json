@@ -127,6 +127,14 @@
     "solver":"Benri"
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1436142542123253776?t=2L2cWrm4cFyODavv-Fa-9g&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437204063054090242?t=WoeCGco67hawejgwkHJ6tw&s=19",
+    "TeX":"\\int _{0}^{1}\\frac {\\cos \\ln x}{1+x^{2}}dx=\\frac {\\pi }{4\\cosh \\frac {\\pi }2}",
+    "status":2,
+    "id":"20-3",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1434496701377572869?t=DfZulQfC5bkpVEoigVezfg&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-related-to-derivative-of-beta.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(e^x-1)^{\\frac {2}3}}dx=\\sqrt 3\\pi \\ln 3-\\frac {\\pi ^{2}}3",
@@ -142,13 +150,6 @@
     "solver" : "Benri",
     "id":"20-71",
     "keywords" : []
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1436142542123253776?t=2L2cWrm4cFyODavv-Fa-9g&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437204063054090242?t=WoeCGco67hawejgwkHJ6tw&s=19",
-    "TeX":"\\int _{0}^{1}\\frac {\\ln \\cos x}{1+x^{2}}dx=\\frac {\\pi }{4\\cosh \\frac {\\pi }2}",
-    "status":2,
-    "keywords":[]
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1437041547426492416?t=UVhi9rr8ma2RX51ZXDobpg&s=19",
