@@ -151,6 +151,14 @@
     "keywords":[]
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1431189917107822599?t=gIpUcEobBUnh7xzjH3KYlg&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1431265303313489924?t=rYf2vCjBOhpXydlaP-RDvg&s=19",
+    "TeX":"\\begin {aligned}\n\\int _{0}^{\\infty }\\operatorname {erfc} xdx\n\n&=\\frac {1}{\\sqrt \\pi }\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^2 xdx&=\\frac {2}{\\sqrt \\pi }-\\frac {\\sqrt 2}{\\sqrt \\pi }\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^3 xdx&=\\frac {3}{\\sqrt \\pi }-\\frac {6\\sqrt 2}{\\pi ^{3/2}}\\tan ^{-1}\\sqrt 2\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^4 xdx&=\\frac {4}{\\sqrt \\pi }-\\frac {24\\sqrt 2}{\\pi ^{3/2}}\\tan ^{-1}\\frac {1}{\\sqrt 8}\n\\end {aligned}",
+    "status":2,
+    "id":"20-35",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1434496701377572869?t=DfZulQfC5bkpVEoigVezfg&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-related-to-derivative-of-beta.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(e^x-1)^{\\frac {2}3}}dx=\\sqrt 3\\pi \\ln 3-\\frac {\\pi ^{2}}3",
@@ -181,13 +189,6 @@
     "TeX":"\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {a^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
     "status":2,
     "id":"20-81",
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1431189917107822599?t=gIpUcEobBUnh7xzjH3KYlg&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1431265303313489924?t=rYf2vCjBOhpXydlaP-RDvg&s=19",
-    "TeX":"\\begin {aligned}\n\\int _{0}^{\\infty }\\operatorname {erfc} xdx\n\n&=\\frac {1}{\\sqrt \\pi }\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^2 xdx&=\\frac {2}{\\sqrt \\pi }-\\frac {\\sqrt 2}{\\sqrt \\pi }\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^3 xdx&=\\frac {3}{\\sqrt \\pi }-\\frac {6\\sqrt 2}{\\pi ^{3/2}}\\tan ^{-1}\\sqrt 2\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^4 xdx&=\\frac {4}{\\sqrt \\pi }-\\frac {24\\sqrt 2}{\\pi ^{3/2}}\\tan ^{-1}\\frac {1}{\\sqrt 8}\n\\end {aligned}",
-    "status":2,
     "keywords":[]
   },
   {
