@@ -74,7 +74,7 @@
     "TeX":"\\int _{0}^{\\infty }\\frac {\\ln x}{\\cosh ^{2}x}dx=\\ln \\frac {\\pi }4-\\gamma ",
     "status" : 1,
     "solver" : "Benri",
-    "id":"20-71"
+    "id":"20-71",
     "keywords" : []
   },
   {
