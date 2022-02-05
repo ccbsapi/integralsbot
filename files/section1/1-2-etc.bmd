@@ -6,6 +6,9 @@
 \\
 \int _{0}^{\infty }\frac {\cos (\pi x)}{e^{2\pi \sqrt x}-1}dx
 &=\frac {2-\sqrt 2}8
+\\
+\int _{0}^{\infty }x\cos \pi x^{2}\left (\frac {1}{\tanh \pi x}-1\right )dx
+&=\frac {2-\sqrt 2}8
 \end{aligned}
 &&&
 &&&
@@ -36,6 +39,15 @@
 \int _{0}^{\infty }\frac {\cos (\pi x)}{e^{2\pi \sqrt x}-1}dx
 &=\int _{0}^{\infty }\frac {2x\cos \pi x^{2}}{e^{2\pi x}-1}dx\\
 &\overset{IBP}=\left [\frac {\sin \pi x^{2}}{\pi (e^{2\pi x}-1)}\right ]_0^\infty +\int _{0}^{\infty }\frac {2e^{2\pi x}\sin \pi x^{2}}{\left (e^{2\pi x}-1\right )^2}dx\\
+&=\frac {1}2\int _{0}^{\infty }\frac {\sin \pi x^{2}}{\sinh ^{2}\pi x}dx\\
+&=\textcolor {blue}{\frac {2-\sqrt 2}8}.
+\end {aligned}
+&&&
+
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }x\cos \pi x^{2}\left (\frac {1}{\tanh \pi x}-1\right )dx
+&\overset{IBP}=\left [\frac {\sin \pi x^{2}}{2\pi }\left (\frac {1}{\tanh \pi x}-1\right )\right ]_0^{\infty }-\int _{0}^{\infty }\frac {\sin \pi x^{2}}{2\pi }\frac {-\pi }{\sinh ^{2}\pi x}dx\\
 &=\frac {1}2\int _{0}^{\infty }\frac {\sin \pi x^{2}}{\sinh ^{2}\pi x}dx\\
 &=\textcolor {blue}{\frac {2-\sqrt 2}8}.
 \end {aligned}
