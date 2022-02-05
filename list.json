@@ -77,6 +77,15 @@
     "keywords":[]
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1448501944486563843?t=9EKWmhOfFxA2lvkwOE200w&s=19",
+    "solution_uri":"b_logsin.bmd",
+    "TeX":"\\int _{0}^{\\pi }\\ln \\left (2\\sin \\frac {x}2\\right )\\ln \\left (2\\cos \\frac {x}2\\right )dx\n=-\\frac {\\pi ^{3}}{24}",
+    "status":3,
+    "id":"3-21",
+    "keywords":[],
+    "solver":"Benri"
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1452012118144811008?t=XJeu2YIIwrukRW5hIEPrUQ&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/mamlsten-integrals-part-i.html?m=1",
     "TeX":"\\int _{0}^{1}\\frac {\\ln \\ln \\frac {1}x}{1+2x\\cos 2\\pi \\alpha +x^{2}}=\\frac {\\pi }{\\sin 2\\pi \\alpha }\\ln \\frac {\\sqrt \\pi (2\\pi )^{\\alpha }}{\\Gamma \\left (\\frac {1}2-\\alpha \\right )\\sqrt {\\cos \\pi \\alpha }}",
@@ -286,14 +295,6 @@
     "status":2,
     "id":"20-113",
     "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1448501944486563843?t=9EKWmhOfFxA2lvkwOE200w&s=19",
-    "solution_uri":"b_logsin.bmd",
-    "TeX":"\\int _{0}^{\\pi }\\ln \\left (2\\sin \\frac {x}2\\right )\\ln \\left (2\\cos \\frac {x}2\\right )dx\n=-\\frac {\\pi ^{3}}{24}",
-    "status":3,
-    "keywords":[],
-    "solver":"Benri"
   },
   {
     "tw_uri":"",
