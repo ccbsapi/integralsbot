@@ -35,6 +35,15 @@
     "solver":"Benri"
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1455001815137722378?t=oCzYieQlVsg1ShO6Z1I1CQ&s=19",
+    "solution_uri":"b2.bmd",
+    "TeX":"\\int _{0}^{\\frac {\\pi }2}\\frac {x\\ln (\\sin x)}{\\sin 2x}dx=-\\frac {\\pi ^{3}}{48}",
+    "status" : 3,
+    "solver" : "benri",
+    "id":"3-4",
+    "keywords" : []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1488885064641703937?s=20&t=VM4SPcMJ0mb-X1qyA-rgXQ",
     "solution_uri":"Harry_1",
     "TeX":"\\int_0^1\\frac{\\arctan x}{x}\\ln\\frac{1+x^2}{(1-x)^2}dx=\\frac{\\pi^3}{16}",
@@ -108,14 +117,6 @@
     "status" : 3,
     "solver" : "Benri",
     "id":"20-71",
-    "keywords" : []
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1455001815137722378?t=oCzYieQlVsg1ShO6Z1I1CQ&s=19",
-    "solution_uri":"b2.bmd",
-    "TeX":"\\int _{0}^{\\frac {\\pi }2}\\frac {x\\ln (\\sin x)}{\\sin 2x}dx=-\\frac {\\pi ^{3}}{48}",
-    "status" : 3,
-    "solver" : "benri",
     "keywords" : []
   },
   {
