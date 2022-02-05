@@ -35,6 +35,14 @@
     "solver":"Benri"
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1489368251348172802?t=tddN1-kaXtzORFms2iQidw&s=19",
+    "solution_uri":"",
+    "TeX":"\\int _{0}^{\\infty }\\frac {\\sqrt x\\tan ^{-1}x\\ \\ln \\left (1+x^{2}\\right )}{1+x^2} dx=\\frac {\\pi }{6\\sqrt 2}\\left (12\\beta (2)+9\\ln ^{2}2+3\\pi \\ln 2+\\pi ^{2}\\right )",
+    "status":0,
+    "id":"3-3",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1455001815137722378?t=oCzYieQlVsg1ShO6Z1I1CQ&s=19",
     "solution_uri":"b2.bmd",
     "TeX":"\\int _{0}^{\\frac {\\pi }2}\\frac {x\\ln (\\sin x)}{\\sin 2x}dx=-\\frac {\\pi ^{3}}{48}",
@@ -197,13 +205,6 @@
     "TeX":"\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {a^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
     "status":2,
     "id":"20-81",
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1489368251348172802?t=tddN1-kaXtzORFms2iQidw&s=19",
-    "solution_uri":"",
-    "TeX":"\\int _{0}^{\\infty }\\frac {\\sqrt x\\tan ^{-1}x\\ \\ln \\left (1+x^{2}\\right )}{1+x^2} dx=\\frac {\\pi }{6\\sqrt 2}\\left (12\\beta (2)+9\\ln ^{2}2+3\\pi \\ln 2+\\pi ^{2}\\right )",
-    "status":0,
     "keywords":[]
   },
   {
