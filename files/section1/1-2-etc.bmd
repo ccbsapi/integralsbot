@@ -1,0 +1,43 @@
+&&&thm
+&&&math
+\begin{alined}
+\int _{0}^{\infty }\frac {\sin \pi x^{2}}{\sinh ^{2}\pi x}dx
+&=\frac {2-\sqrt 2}4\\
+\\
+\int _{0}^{\infty }\frac {\cos (\pi x)}{e^{2\pi \sqrt x}-1}dx
+&=\frac {2-\sqrt 2}8
+\end{alined}
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{-\infty }^{\infty }\frac {\sin \pi x^{2}}{\sinh ^{2}\pi x}dx
+&=\int _{-\infty +\frac {i}2}^{\infty +\frac {i}2}\frac {\sin \pi z^{2}}{\sinh ^{2}\pi z}dz\\
+&=\int _{-\infty }^{\infty }\frac {\sin \pi \left (x+\frac {i}2\right )^2}{\sinh ^{2}\pi \left (x+\frac {i}2\right )}dx\\
+&=-\int _{-\infty }^{\infty }\frac {\sin \pi \left (x^{2}-\frac {1}4+ix\right )}{\cosh ^{2}\pi x}dx\\
+&=-\int _{-\infty }^{\infty }\frac {\sin \pi \left (x^2-\frac {1}4\right )\cosh \pi x-\cos \pi \left (x^{2}-\frac {1}4\right )\sin \pi ix}{\cosh ^{2}\pi x}dx\\
+&=\int _{-\infty }^{\infty }\frac {\sin \pi \left (\frac {1}4-x^{2}\right )}{\cosh \pi x}dx\\
+&=P.V.\int _{-\infty +\frac {i}2}^{\infty +\frac {i}2}\frac {\sin \pi \left (\frac {1}4-z^{2}\right )}{\cosh \pi z}dz+\pi i\Res{z=\frac {i}2}\frac {\sin \pi \left (\frac {1}4-z^{2}\right )}{\cosh \pi z}\\
+&=P.V.\int _{-\infty }^{\infty }\frac {\sin \pi \left (\frac {1}4-\left (x+\frac {i}2\right )^2\right )}{i\sinh \pi x}dx+\pi i\Res{x=0}\frac {\sin \pi \left (\frac {1}2-x^{2}-ix\right )}{i\sinh \pi x}\\
+&=P.V.\int _{-\infty }^{\infty }\frac {\cos \left (x^{2}+ix\right )}{i\sinh \pi x}dx+\sin \frac {\pi }2\\
+&=P.V.\int _{-\infty }^{\infty }\frac {\cos (\pi x^{2})\cosh \pi x-\sin (\pi x^{2})\sin \pi i x}{i\sinh \pi x}dx+1\\
+&=-\int _{-\infty }^{\infty }\sin \pi x^{2}dx+1\\
+&=-\frac {1}{\sqrt \pi }\int _{-\infty }^{\infty }\sin x^{2}dx+1\\
+&=-\frac {1}{\sqrt \pi }\sqrt \frac {\pi }2+1\\
+&=1-\frac {1}{\sqrt 2}\\
+\int _{0}^{\infty }\frac {\sin \pi x^{2}}{\sinh ^{2}\pi x}dx&=\textcolor {blue}{\frac {2-\sqrt 2}4}.
+\end {aligned}
+&&&
+
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }\frac {\cos (\pi x)}{e^{2\pi \sqrt x}-1}dx
+&=\int _{0}^{\infty }\frac {2x\cos \pi x^{2}}{e^{2\pi x}-1}dx\\
+&\overset{IBP}=\left [\frac {\sin \pi x^{2}}{\pi (e^{2\pi x}-1)}\right ]_0^\infty +\int _{0}^{\infty }\frac {2e^{2\pi x}\sin \pi x^{2}}{\left (e^{2\pi x}-1\right )^2}dx\\
+&=\frac {1}2\int _{0}^{\infty }\frac {\sin \pi x^{2}}{\sinh ^{2}\pi x}dx\\
+&=\textcolor {blue}{\frac {2-\sqrt 2}8}.
+\end {aligned}
+&&&
+&&&
