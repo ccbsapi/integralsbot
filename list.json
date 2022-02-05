@@ -25,7 +25,7 @@
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1436504932153114625?t=3SygotP5YLi44RmutPHVMA&s=19",
     "solution_uri":"section16/16-1.bmd",
-    "TeX":"\\int _{0}^{\\infty }\\sin x\,\\tan^{-1} \\frac {1}xdx\n=\\frac {\\pi }2\\left (1-\\frac {1}e\\right )",
+    "TeX":"\\int _{0}^{\\infty }\\sin x\\,\\tan^{-1} \\frac {1}xdx\n=\\frac {\\pi }2\\left (1-\\frac {1}e\\right )",
     "status":3,
     "keywords":[],
     "solver":"Benri"
