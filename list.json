@@ -77,6 +77,14 @@
     "keywords":[]
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1436815113789472770?t=aSooqDO5ebBix8WyAHYNTw&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437169974934745089?t=AzsYd_d61FIhtBOpGwcD0A&s=19",
+    "TeX":"\\begin {aligned}\n\\int _{0}^{1}\\left (\\frac {1}{\\ln x}+\\frac {1}{1-x}\\right )x^{a-1}\\ln ^{s-1}\\frac {1}xdx\n\n&=\\Gamma (s)\\left (\\zeta (s,a)+\\frac {a^{s-1}}{1-s}\\right )\\\\\n\\\\\n\\Re s,a>0\n\\end {aligned}",
+    "status":2,
+    "id":"10-7",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1489791040831721472?t=L40x0p4ZA1vUcc39dL_wdQ&s=19",
     "solution_uri":"https://mathlog.info/articles/1876",
     "TeX":"\\begin {aligned}\nf\\mathrm{\\ is\\ an\\ odd\\ function\\ with\\ period\\ }T\\\\\\\\\n\\int_0^{\\infty}\\frac{f(x)}{x}\\,dx=\\frac{\\pi}T\\int_0^{\\frac T2}\\frac{f(x)}{\\tan\\frac{\\pi x}{T}}\\,dx\n\\end {aligned}",
@@ -158,13 +166,6 @@
     "solver" : "Benri",
     "id":"20-71",
     "keywords" : []
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1436815113789472770?t=aSooqDO5ebBix8WyAHYNTw&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437169974934745089?t=AzsYd_d61FIhtBOpGwcD0A&s=19",
-    "TeX":"\\begin {aligned}\n\\int _{0}^{1}\\left (\\frac {1}{\\ln x}+\\frac {1}{1-x}\\right )x^{a-1}\\ln ^{s-1}\\frac {1}xdx\n\n&=\\Gamma (s)\\left (\\zeta (s,a)+\\frac {a^{s-1}}{1-s}\\right )\\\\\n\\\\\n\\Re s,a>0\n\\end {aligned}",
-    "status":2,
-    "keywords":[]
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1434482456120287241?t=X6ckOBWnDlEKrwG62OS0kg&s=19",
