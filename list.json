@@ -102,6 +102,14 @@
     "keywords":[]
   },
   {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1929",
+    "TeX":"\\int_0^{\\frac {\\pi }2}\\left(x+\\arctan\\left(\\frac{1-a}{1+a}\\tan x\\right)\\right)^2\\,dx=\\frac{\\pi}{4}\\operatorname{Li} _2(a^2)",
+    "status":2,
+    "id":"6-13",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1460467830542172160?t=CSXpvq6a3Or5PKT-GNfX1Q&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int-x1x21tanhpix2dx.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+x^{2})^{2}}\\frac {dx}{\\tanh \\frac {\\pi x}2}=\\frac {\\pi ^{2}}8-\\frac {1}2",
