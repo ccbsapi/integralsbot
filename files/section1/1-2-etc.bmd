@@ -1,12 +1,12 @@
 &&&thm
 &&&math
-\begin{alined}
+\begin{aligned}
 \int _{0}^{\infty }\frac {\sin \pi x^{2}}{\sinh ^{2}\pi x}dx
 &=\frac {2-\sqrt 2}4\\
 \\
 \int _{0}^{\infty }\frac {\cos (\pi x)}{e^{2\pi \sqrt x}-1}dx
 &=\frac {2-\sqrt 2}8
-\end{alined}
+\end{aligned}
 &&&
 &&&
 
