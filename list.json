@@ -69,6 +69,14 @@
     "keywords" :[]
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1434541996442411011?t=y4RgBx-WMzBjQZgeGyprmQ&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1434564285129240579?t=f1EftO9bu7ZyfWYuufKkJQ&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x}{\\left (x^{2}+(2\\pi )^{2}\\right )^2(e^x-1)}dx=\\frac {1}{96}-\\frac {3}{32\\pi ^{2}}",
+    "status":2,
+    "id":"7-11",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1429114403538935813?t=KGBSTGngz-dv6Llj3Bn8pA&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-log-gamma-0-to-12.html?m=1",
     "TeX":"\\int _{0}^{\\frac {1}2}\\ln \\Gamma (x)dx=\\frac {3}2\\ln A+\\frac {5}{24}\\ln 2+\\frac {1}4\\ln \\pi ",
@@ -173,13 +181,6 @@
     "TeX":"\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {a^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
     "status":2,
     "id":"20-81",
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1434541996442411011?t=y4RgBx-WMzBjQZgeGyprmQ&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1434564285129240579?t=f1EftO9bu7ZyfWYuufKkJQ&s=19",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x}{\\left (x^{2}+(2\\pi )^{2}\\right )^2(e^x-1)}dx=\\frac {1}{96}-\\frac {3}{32\\pi ^{2}}",
-    "status":2,
     "keywords":[]
   },
   {
