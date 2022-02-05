@@ -35,6 +35,14 @@
     "solver":"Benri"
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1489791040831721472?t=L40x0p4ZA1vUcc39dL_wdQ&s=19",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\begin {aligned}\nf\\mathrm{\\ is\\ an\\ odd\\ function\\ with\\ period\\ }T\\\\\\\\\n\\int_0^{\\infty}\\frac{f(x)}{x}\\,dx=\\frac{\\pi}T\\int_0^{\\frac T2}\\frac{f(x)}{\\tan\\frac{\\pi x}{T}}\\,dx\n\\end {aligned}",
+    "status":2,
+    "keywords":[],
+    "id":"11-2"
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1436504932153114625?t=3SygotP5YLi44RmutPHVMA&s=19",
     "solution_uri":"section16/16-1.bmd",
     "TeX":"\\int _{0}^{\\infty }\\sin x\\,\\tan^{-1} \\frac {1}xdx\n=\\frac {\\pi }2\\left (1-\\frac {1}e\\right )",
