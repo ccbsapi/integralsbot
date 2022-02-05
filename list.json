@@ -72,7 +72,7 @@
     "tw_uri":"https://twitter.com/integralsbot/status/1488160291552915458?t=3SzyoSFRXjuuuC9V9f8z0Q&s=19",
     "solution_uri":"section20/20-71.bmd",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\ln x}{\\cosh ^{2}x}dx=\\ln \\frac {\\pi }4-\\gamma ",
-    "status" : 1,
+    "status" : 3,
     "solver" : "Benri",
     "id":"20-71",
     "keywords" : []
