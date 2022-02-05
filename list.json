@@ -174,6 +174,14 @@
     "keywords":[]
   },
   {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_0^{\\pi}\\sin^{\\mu-1}x\\sin bx\\,dx=\\frac{2^{1-\\mu}\\pi\\Gamma(\\mu)\\sin\\frac{\\pi b}{2}}{\\Gamma\\left(\\frac{1+\\mu-b}{2}\\right)\\Gamma\\left(\\frac{1+\\mu+b}{2}\\right)}",
+    "status":2,
+    "id":"8-1",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1436815113789472770?t=aSooqDO5ebBix8WyAHYNTw&s=19",
     "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437169974934745089?t=AzsYd_d61FIhtBOpGwcD0A&s=19",
     "TeX":"\\begin {aligned}\n\\int _{0}^{1}\\left (\\frac {1}{\\ln x}+\\frac {1}{1-x}\\right )x^{a-1}\\ln ^{s-1}\\frac {1}xdx\n\n&=\\Gamma (s)\\left (\\zeta (s,a)+\\frac {a^{s-1}}{1-s}\\right )\\\\\n\\\\\n\\Re s,a>0\n\\end {aligned}",
@@ -294,13 +302,6 @@
     "TeX":"\\begin {aligned}\n\\int _{-\\infty }^{\\infty }\\frac {\\sinh \\alpha x}{\\sinh \\pi x}\\cos \\beta x\\ dx&=\\frac {\\sin \\alpha }{\\cos \\alpha +\\cosh \\beta }\\\\\n\n\\int _{-\\infty }^{\\infty }\\frac {\\cosh \\alpha x}{\\sinh \\pi x}\\sin \\beta x\\ dx&=\\frac {\\sinh \\beta }{\\cos \\alpha +\\cosh \\beta }\\\\\\\\\n-\\pi <\\alpha <\\pi \n\\end {aligned}",
     "status":2,
     "id":"20-113",
-    "keywords":[]
-  },
-  {
-    "tw_uri":"",
-    "solution_uri":"https://mathlog.info/articles/1876",
-    "TeX":"\\int_0^{\\pi}\\sin^{\\mu-1}x\\sin bx\\,dx=\\frac{2^{1-\\mu}\\pi\\Gamma(\\mu)\\sin\\frac{\\pi b}{2}}{\\Gamma\\left(\\frac{1+\\mu-b}{2}\\right)\\Gamma\\left(\\frac{1+\\mu+b}{2}\\right)}",
-    "status":2,
     "keywords":[]
   },
   {
