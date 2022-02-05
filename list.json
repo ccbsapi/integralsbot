@@ -4,6 +4,7 @@
     "solution_uri":"https://mathlog.info/articles/1901",
     "TeX":"\\int_0^{\\infty}\\frac{\\sin\\pi x^2\\cosh\\pi x}{\\sinh^2 \\pi x}\\,dx=\\frac 14",
     "status":2,
+    "id":"1-1",
     "keywords":[]
   },
   {
@@ -12,6 +13,7 @@
     "TeX":"\\int _{0}^{\\infty }\\frac {\\sin \\pi x^{2}}{\\sinh ^{2}\\pi x}dx\n=\\frac {2-\\sqrt 2}4",
     "status":3,
     "keywords":[],
+    "id":"1-2",
     "solver":"Benri"
   },
   {
@@ -20,14 +22,59 @@
     "TeX":"\\int _{0}^{\\infty }\\frac {\\cos \\pi x}{e^{2\\pi \\sqrt x}-1}dx\n=\\frac {2-\\sqrt 2}8",
     "status":3,
     "keywords":[],
+    "id":"1-3",
+    "solver":"Benri"
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"section1/1-2-etc.bmd",
+    "TeX":"\\int _{0}^{\\infty }x\\cos \\pi x^{2}\\left (\\frac {1}{\\tanh \\pi x}-1\\right )dx\n=\\frac {2-\\sqrt 2}8",
+    "status":3,
+    "keywords":[],
+    "id":"1-6",
+    "solver":"Benri"
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1489791040831721472?t=L40x0p4ZA1vUcc39dL_wdQ&s=19",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\begin {aligned}\nf\\mathrm{\\ is\\ an\\ odd\\ function\\ with\\ period\\ }T\\\\\\\\\n\\int_0^{\\infty}\\frac{f(x)}{x}\\,dx=\\frac{\\pi}T\\int_0^{\\frac T2}\\frac{f(x)}{\\tan\\frac{\\pi x}{T}}\\,dx\n\\end {aligned}",
+    "status":2,
+    "keywords":[],
+    "id":"11-2"
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1436504932153114625?t=3SygotP5YLi44RmutPHVMA&s=19",
+    "solution_uri":"section16/16-1.bmd",
+    "TeX":"\\int _{0}^{\\infty }\\sin x\\,\\tan^{-1} \\frac {1}xdx\n=\\frac {\\pi }2\\left (1-\\frac {1}e\\right )",
+    "status":3,
+    "keywords":[],
+    "id":"16-1",
+    "solver":"Benri"
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1484506226788499457?t=L6afDY8u3uxutXWp9Y6J9w&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1484554268166270976?t=1zG4-bt6ybqZoIPBYQcTCw&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x^{\\frac {\\pi }5-1}}{1+x^{2\\pi }}dx=\\phi ",
+    "status":2,
+    "id":"18-3",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1436504932153114625?t=3SygotP5YLi44RmutPHVMA&s=19",
+    "solution_uri":"section18/18-7.bmd",
+    "TeX":"\\int _{0}^{\\frac {\\pi }2}\\tan^{-1} \\tan ^{s}x\\,dx\n=\\frac {\\pi ^{2}}8",
+    "status":3,
+    "keywords":[],
+    "id":"18-7",
     "solver":"Benri"
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1488160291552915458?t=3SzyoSFRXjuuuC9V9f8z0Q&s=19",
-    "solution_uri":"first.html",
+    "solution_uri":"section20/20-71.bmd",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\ln x}{\\cosh ^{2}x}dx=\\ln \\frac {\\pi }4-\\gamma ",
-    "status" : 1,
+    "status" : 3,
     "solver" : "Benri",
+    "id":"20-71",
     "keywords" : []
   },
   {
@@ -142,13 +189,6 @@
     "solution_uri":"",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\sqrt x\\tan ^{-1}x\\ \\ln \\left (1+x^{2}\\right )}{1+x^2} dx=\\frac {\\pi }{6\\sqrt 2}\\left (12\\beta (2)+9\\ln ^{2}2+3\\pi \\ln 2+\\pi ^{2}\\right )",
     "status":0,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1484506226788499457?t=L6afDY8u3uxutXWp9Y6J9w&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1484554268166270976?t=1zG4-bt6ybqZoIPBYQcTCw&s=19",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x^{\\frac {\\pi }5-1}}{1+x^{2\\pi }}dx=\\phi ",
-    "status":2,
     "keywords":[]
   },
   {

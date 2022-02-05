@@ -1,0 +1,53 @@
+&&&thm
+&&&math
+\int _{0}^{\infty }\frac {\ln x}{\cosh ^{2}x}dx
+=\ln \frac {\pi }4-\gamma 
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\Re (s)>1\quad \quad &
+\\
+\int _{0}^{\infty }\frac {x^{s-1}}{\cosh ^{2}x}dx&=4\int _{0}^{\infty }\frac {x^{s-1}e^{-2x}}{(1+e^{-2x})}dx\\
+&=4\int _{0}^{\infty }x^{s-1}e^{-2x}\sum _{n=1}^\infty n(-e^{2x})^{n-1}dx\\
+&=4\sum _{n=1}^\infty n(-1)^{n-1}\int _{0}^{\infty }x^{s-1}e^{-2nx}dx\\
+&=4\sum _{n=1}^\infty n(-1)^{n-1}(2n)^{-s}\Gamma (s)\\
+&=2^{2-s}\Gamma (s)\sum _{n=1}^\infty \frac {(-1)^{n-1}}{n^{s-1}}\\
+&=2^{2-s}\Gamma (s)\eta (s-1)\\
+\int _{0}^{\infty }\frac {\ln x}{\cosh ^{2}x}dx&=\lim _{s\to 1}\frac {d}{ds}2^{2-s}\Gamma (s)\eta (s-1)\\
+&=\lim _{s\to 0}\frac {d}{dx}2^{1-s}\Gamma (1+s)\eta(s)\\
+&=\lim _{s\to 0}\frac {d}{dx}\left [\left (2-2\ln (2)s+O(s^2)\right )\left (1-\gamma s+O(s^2)\right )\left (\frac {1}2+\frac {\ln \frac {\pi }2}2s+O(s^2)\right )\right ]\\
+&=2\cdot 1\cdot \frac {1}2\cdot \left (-\ln 2-\gamma +\ln \frac {\pi }2\right )\\
+&=\textcolor {blue}{\ln \frac {\pi }4-\gamma }.
+\end {aligned}
+&&&
+&&&
+
+<div class="dotted" title="別解">
+&&&math
+\begin{align*}
+\displaystyle\int_0^\infty\frac{\ln x}{\cosh^2x}dx&=\int_0^1\frac{\ln x}{\cosh^2x}dx+\int_1^\infty\frac{\ln x}{\cosh^2x}dx\\
+&=\Big[\ln x\tanh x\Big]_0^1-\int_0^1\frac{\tanh x}{x}dx+\Big[(\ln x)(\tanh x-1)\Big]_1^\infty-\int_1^\infty\frac{\tanh x-1}{x}dx\\
+&=2\int_1^\infty\frac{dx}{x(1+e^{2x})}-\int_0^1\frac{1-e^{-2x}}{x(1+e^{-2x})}dx\\
+&=2\int_1^\infty\frac{dx}{x(1+e^{2x})}-\int_0^1\frac{1-e^{-2x}}{x}\left(\frac{1}{1+e^{-2x}}-1\right)dx-\int_0^1\frac{1-e^{-2x}}{x}dx\\
+&=2\int_1^\infty\frac{dx}{x(1+e^{2x})}+\int_0^1\frac{e^{-2x}-e^{-4x}}{x(1+e^{-2x})}dx-\int_0^1\frac{1-e^{-2x}}{x}dx\\
+&=2\int_1^\infty\frac{dx}{x(1+e^{2x})}-\int_1^\infty\frac{e^{-2x}-e^{-4x}}{x(1+e^{-2x})}dx+\int_0^\infty\frac{e^{-2x}-e^{-4x}}{x(1+e^{-2x})}dx-\int_0^1\frac{1-e^{-2x}}{x}dx\\
+&=\int_1^\infty\frac{1+e^{-2x}}{x(1+e^{2x})}+\int_0^\infty\frac{e^{-2x}-e^{-4x}}{x(1+e^{-2x})}dx-\int_0^1\frac{1-e^{-2x}}{x}dx\\
+&=\int_2^\infty\frac{e^{-2x}}{x}dx-\int_0^1\frac{1-e^{-2x}}{x}dx+\int_0^\infty\frac{e^{-2x}-e^{-4x}}{x(1+e^{-2x})}dx\\
+&=\int_2^\infty\frac{e^{-t}}{t}dt-\int_0^2\frac{1-e^{-t}}{t}dt+\int_0^\infty\frac{e^{-t}-e^{-2t}}{t(1+e^{-t})}dt\\
+\int_2^\infty\frac{e^{-t}}{t}dt-\int_0^2\frac{1-e^{-t}}{t}dt&=\int_2^\infty\frac{e^{-t}}{t}dt-\int_0^1\frac{1-e^{-t}}{t}dt-\int_1^2\frac{1-e^{-t}}{t}dt\\
+&=\int_2^\infty\frac{e^{-t}}{t}dt-\int_0^1\frac{1-e^{-t}}{t}dt-\ln2+\int_1^2\frac{e^{-t}}{t}dt\\
+&=\int_1^\infty\frac{e^{-t}}{t}dt-\int_0^1\frac{1-e^{-t}}{t}dt-\ln2\\
+&=-\gamma-\ln2\\
+\int_0^\infty\frac{e^{-t}-e^{-2t}}{t(1+e^{-t})}dt&=\int_0^\infty\frac{e^{-t}-e^{-2t}}{t}\left(\sum_{n=0}^\infty(-1)^ne^{-nt}\right)dt\\
+&=\sum_{n=0}^\infty(-1)^n\int_0^\infty\frac{e^{-(n+1)t}-e^{-(n+2)t}}{t}dt\\
+&=\sum_{n=0}^\infty(-1)^n\ln\left(\frac{n+2}{n+1}\right)\\
+&=\lim_{m\to\infty}\sum_{n=0}^{2m-2}(-1)^n\ln\left(\frac{n+2}{n+1}\right)\\
+&=\lim_{m\to\infty}\ln\left(\prod_{k=1}^m\frac{2k}{2k-1}\prod^{m-1}_{k=1}\frac{2k}{2k+1}\right)\\
+&=\lim_{m\to\infty}\ln\left(\frac{(2m)!!(2m-2)!!}{((2m-1)!!)^2}\right)=\ln\left(\frac{\pi}{2}\right)\\
+
+\end{align*}
+&&&
+</div>

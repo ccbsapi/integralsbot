@@ -1,0 +1,19 @@
+&&&thm
+&&&math
+\int _{0}^{\infty }\sin x\arctan \frac {1}xdx
+=\frac {\pi }2\left (1-\frac {1}e\right )
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }\sin x\arctan \frac {1}xdx
+&\overset{IBP}=\left [-\cos x\arctan \frac {1}x\right ]_0^{\infty }-\int _{0}^{\infty }\frac {\cos x}{1+x^{2}}dx\\
+&=\frac {\pi }2-\frac {1}2\int _{-\infty }^{\infty}\frac {e^{ix}}{1+x^{2}}dx \\
+&=\frac {\pi }2-\frac {2\pi i}2\Res{z=i}\frac {e^{iz}}{1+z^{2}}\\
+&=\frac {\pi }2-\frac {2\pi i}2\frac {e^{i\cdot i}}{2i}\\
+&=\textcolor {blue}{\frac {\pi }2\left (1-\frac {1}e\right )}.
+\end {aligned}
+&&&
+&&&
