@@ -1,6 +1,6 @@
 &&&thm
 &&&math
-\int _{0}^{\frac {\pi }2}\arctan \tan ^{s}x\,dx&\overset{KP}=\int _{0}^{\frac {\pi }2}\arctan \tan ^{-s}x\,dx\\
+\int _{0}^{\frac {\pi }2}\arctan \tan ^{s}x\,dx
 =\frac {\pi ^{2}}8
 &&&
 &&&
@@ -8,7 +8,8 @@
 &&&prf
 &&&math
 \begin {aligned}
-\int _{0}^{\frac {\pi }2}\arctan \tan ^{s}x\,dx&\overset{KP}=\int _{0}^{\frac {\pi }2}\arctan \tan ^{-s}x\,dx\\
+\int _{0}^{\frac {\pi }2}\arctan \tan ^{s}x\,dx
+&\overset{KP}=\int _{0}^{\frac {\pi }2}\arctan \tan ^{-s}x\,dx\\
 &=\frac {1}2\left (\int _{0}^{\frac {\pi }2}\arctan \tan ^{s}x\,dx+\int _{0}^{\frac {\pi }2}\arctan \tan ^{-s}x\ dx\right )\\
 &=\frac {1}2\int _{0}^{\frac {\pi }2}\frac {\pi }2dx\\
 &=\textcolor {blue}{\frac {\pi ^{2}}8}.
