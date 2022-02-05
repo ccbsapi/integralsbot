@@ -94,6 +94,14 @@
     "keywords":[]
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1428532411625656329?t=p3ikly3NF2D-JDw6svPAIQ&s=19",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_0^1\\ln\\frac{1+ax}{1-ax}\\frac{dx}{x\\sqrt{1-x^2}}=\\pi\\sin^{-1} a",
+    "status":2,
+    "id":"6-3",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1460467830542172160?t=CSXpvq6a3Or5PKT-GNfX1Q&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int-x1x21tanhpix2dx.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+x^{2})^{2}}\\frac {dx}{\\tanh \\frac {\\pi x}2}=\\frac {\\pi ^{2}}8-\\frac {1}2",
@@ -302,13 +310,6 @@
     "TeX":"\\begin {aligned}\n\\int _{-\\infty }^{\\infty }\\frac {\\sinh \\alpha x}{\\sinh \\pi x}\\cos \\beta x\\ dx&=\\frac {\\sin \\alpha }{\\cos \\alpha +\\cosh \\beta }\\\\\n\n\\int _{-\\infty }^{\\infty }\\frac {\\cosh \\alpha x}{\\sinh \\pi x}\\sin \\beta x\\ dx&=\\frac {\\sinh \\beta }{\\cos \\alpha +\\cosh \\beta }\\\\\\\\\n-\\pi <\\alpha <\\pi \n\\end {aligned}",
     "status":2,
     "id":"20-113",
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1428532411625656329?t=p3ikly3NF2D-JDw6svPAIQ&s=19",
-    "solution_uri":"https://mathlog.info/articles/1876",
-    "TeX":"\\int_0^1\\ln\\frac{1+ax}{1-ax}\\frac{dx}{x\\sqrt{1-x^2}}=\\pi\\sin^{-1} a",
-    "status":2,
     "keywords":[]
   },
   {
