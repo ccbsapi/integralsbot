@@ -143,6 +143,14 @@
     "keywords" : []
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1437041547426492416?t=UVhi9rr8ma2RX51ZXDobpg&s=19",
+    "solution_uri":"https://twitter.com/BenriBot_ccbs/status/1437056555979919363?t=ouhk69H3CuZQrucaWe1gyg&s=19",
+    "TeX":"\\int _{-\\infty }^{\\infty }\\frac {\\sin x}{x-i}dx=\\frac {\\pi }e",
+    "status":2,
+    "id":"20-63",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1488160291552915458?t=3SzyoSFRXjuuuC9V9f8z0Q&s=19",
     "solution_uri":"section20/20-71.bmd",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\ln x}{\\cosh ^{2}x}dx=\\ln \\frac {\\pi }4-\\gamma ",
@@ -150,13 +158,6 @@
     "solver" : "Benri",
     "id":"20-71",
     "keywords" : []
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1437041547426492416?t=UVhi9rr8ma2RX51ZXDobpg&s=19",
-    "solution_uri":"https://twitter.com/BenriBot_ccbs/status/1437056555979919363?t=ouhk69H3CuZQrucaWe1gyg&s=19",
-    "TeX":"\\int _{-\\infty }^{\\infty }\\frac {\\sin x}{x-i}dx=\\frac {\\pi }e",
-    "status":2,
-    "keywords":[]
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1436815113789472770?t=aSooqDO5ebBix8WyAHYNTw&s=19",
