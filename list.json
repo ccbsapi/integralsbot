@@ -224,7 +224,7 @@
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1489791040831721472?t=L40x0p4ZA1vUcc39dL_wdQ&s=19",
     "solution_uri":"https://mathlog.info/articles/1876",
-    "TeX":"\\begin {aligned}\nf\\mathrm{\\ is\\ an\\ odd\\ function\\ with\\ period\\ }T\\\\\\\\\n\\int_0^{\\infty}\\frac{f(x)}{x}\\,dx=\\frac{\\pi}T\\int_0^{\\frac T2}\\frac{f(x)}{\\tan\\frac{\\pi x}{T}}\\,dx\n\\end {aligned}",
+    "TeX":"\\begin {aligned}\nf\\text{ is an odd function with period }T\\\\\\\\\n\\int_0^{\\infty}\\frac{f(x)}{x}\\,dx=\\frac{\\pi}T\\int_0^{\\frac T2}\\frac{f(x)}{\\tan\\frac{\\pi x}{T}}\\,dx\n\\end {aligned}",
     "status":2,
     "keywords":[],
     "id":"11-2"
