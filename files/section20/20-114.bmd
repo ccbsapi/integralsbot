@@ -1,5 +1,18 @@
 &&&thm
 &&&math
+\int^{\pi}_{a}\sqrt{\frac{1-\cos{x}}{\cos{a}-\cos{x}}}dx 
+= \pi
+&&&
+&&&
 
+&&&prf
+&&&math
+\begin{align*}
+\int^{\pi}_{a}\sqrt{\frac{1-\cos{x}}{\cos{a}-\cos{x}}}dx 
+&= \int^{\pi}_{a}\sqrt{\frac{2\sin^{2}\frac{x}{2}}{2\cos^{2}\frac{a}{2}-2\cos^{2}\frac{x}{2}}}dx\\
+&= \int^{\pi}_{a}\frac{\sqrt{2}\sin\frac{x}{2}}{\sqrt{2}\cos\frac{a}{2}\sqrt{1-\frac{\cos^{2}\frac{x}{2}}{\cos^{2}\frac{a}{2}}}}dx\\
+&= 2\int^{1}_{0}\frac{1}{\sqrt{1-t^2}}dt\\
+&= \pi
+\end{align*}
 &&&
 &&&
