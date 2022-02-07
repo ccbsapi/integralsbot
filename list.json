@@ -280,6 +280,15 @@
     "solver":"Benri"
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1490515813631401985?t=2NVnqktwp3okYYv8NqBBug&s=19",
+    "solution_uri":"section18/18-9.bmd",
+    "TeX":"\\int _{0}^{\\infty }\\left (1-x\\tan ^{-1}\\frac {1}x\\right )dx=\\frac {\\pi }4",
+    "status":3,
+    "keywords":[],
+    "id":"18-9",
+    "solver":"Benri"
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1436142542123253776?t=2L2cWrm4cFyODavv-Fa-9g&s=19",
     "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437204063054090242?t=WoeCGco67hawejgwkHJ6tw&s=19",
     "TeX":"\\int _{0}^{1}\\frac {\\cos \\ln x}{1+x^{2}}dx=\\frac {\\pi }{4\\cosh \\frac {\\pi }2}",
