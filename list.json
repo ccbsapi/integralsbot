@@ -35,12 +35,215 @@
     "solver":"Benri"
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1489368251348172802?t=tddN1-kaXtzORFms2iQidw&s=19",
+    "solution_uri":"",
+    "TeX":"\\int _{0}^{\\infty }\\frac {\\sqrt x\\tan ^{-1}x\\ \\ln \\left (1+x^{2}\\right )}{1+x^2} dx=\\frac {\\pi }{6\\sqrt 2}\\left (12\\beta (2)+9\\ln ^{2}2+3\\pi \\ln 2+\\pi ^{2}\\right )",
+    "status":0,
+    "id":"3-3",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1455001815137722378?t=oCzYieQlVsg1ShO6Z1I1CQ&s=19",
+    "solution_uri":"b2.bmd",
+    "TeX":"\\int _{0}^{\\frac {\\pi }2}\\frac {x\\ln (\\sin x)}{\\sin 2x}dx=-\\frac {\\pi ^{3}}{48}",
+    "status" : 3,
+    "solver" : "benri",
+    "id":"3-4",
+    "keywords" : []
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1488885064641703937?s=20&t=VM4SPcMJ0mb-X1qyA-rgXQ",
+    "solution_uri":"Harry_1",
+    "TeX":"\\int_0^1\\frac{\\arctan x}{x}\\ln\\frac{1+x^2}{(1-x)^2}dx=\\frac{\\pi^3}{16}",
+    "status": 1,
+    "solver" : "Harry",
+    "id":"3-12",
+    "keywords" : []
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1470312700333158403?t=v07JEYmGQKLWIh5m-Vt1UA&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1471559166464598017?t=6YKMyDa0rULrXlJOogwf5Q&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\tan ^{-1}e^{-x}dx=\\beta (2)",
+    "status":2,
+    "id":"3-13",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1446886269389131776?t=YEV_K0IK356mGmhCLYRhtg&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/integral-int0pi2-x2-ln2leftcos2.html?m=1",
+    "TeX":"\\int _{0}^{\\frac {\\pi }2}x^{2}\\ln ^{2}2\\cos xdx=\\frac {11\\pi ^{5}}{1440}",
+    "status":2,
+    "id":"3-16",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1448501944486563843?t=9EKWmhOfFxA2lvkwOE200w&s=19",
+    "solution_uri":"b_logsin.bmd",
+    "TeX":"\\int _{0}^{\\pi }\\ln \\left (2\\sin \\frac {x}2\\right )\\ln \\left (2\\cos \\frac {x}2\\right )dx\n=-\\frac {\\pi ^{3}}{24}",
+    "status":3,
+    "id":"3-21",
+    "keywords":[],
+    "solver":"Benri"
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1452012118144811008?t=XJeu2YIIwrukRW5hIEPrUQ&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/mamlsten-integrals-part-i.html?m=1",
+    "TeX":"\\int _{0}^{1}\\frac {\\ln \\ln \\frac {1}x}{1+2x\\cos 2\\pi \\alpha +x^{2}}=\\frac {\\pi }{\\sin 2\\pi \\alpha }\\ln \\frac {\\sqrt \\pi (2\\pi )^{\\alpha }}{\\Gamma \\left (\\frac {1}2-\\alpha \\right )\\sqrt {\\cos \\pi \\alpha }}",
+    "status":2,
+    "id":"5-8",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1929",
+    "TeX":"\\int_0^1\\frac{\\arctan^2 x}{\\sqrt{1-x^2}}\\,dx=\\frac{\\pi}{4}(4\\operatorname {Li} _2 (\\beta^2)-\\operatorname {Li} _2 (\\beta^4))\\quad(\\beta=-1+\\sqrt{2})",
+    "status":2,
+    "id":"6-1",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1428532411625656329?t=p3ikly3NF2D-JDw6svPAIQ&s=19",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_0^1\\ln\\frac{1+ax}{1-ax}\\frac{dx}{x\\sqrt{1-x^2}}=\\pi\\sin^{-1} a",
+    "status":2,
+    "id":"6-3",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1929",
+    "TeX":"\\int_0^{\\frac {\\pi }2}\\left(x+\\arctan\\left(\\frac{1-a}{1+a}\\tan x\\right)\\right)^2\\,dx=\\frac{\\pi}{4}\\operatorname{Li} _2(a^2)",
+    "status":2,
+    "id":"6-13",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1460467830542172160?t=CSXpvq6a3Or5PKT-GNfX1Q&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int-x1x21tanhpix2dx.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+x^{2})^{2}}\\frac {dx}{\\tanh \\frac {\\pi x}2}=\\frac {\\pi ^{2}}8-\\frac {1}2",
+    "status":2,
+    "id":"7-4",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1444719055537987584?t=Mrz5B_UhJlm8fZd-68R8zw&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int0infty-fracx-ln1x2e2-pi-x1dxfrac1924.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^{2})}{\\sinh \\pi x}dx=\\ln \\frac {\\sqrt[3] {2}A^{6}}{\\pi \\sqrt e}",
+    "status":2,
+    "id":"7-5",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1447113241025343490?t=Zwilu0ked9tAbfWL9nnl_Q&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int0infty-fracx-ln1x2e2-pi-x1dxfrac1924.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^2)}{e^{2\\pi x}+1}dx=\\frac {19}{24}-\\frac {23}{24}\\ln 2-\\frac {1}2\\ln A",
+    "status":2,
+    "id":"7-6",
+    "keywords" :[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1448622697848532995?t=gIAgmE-9soYuL6xo7vcEdw&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1449545619274616836?t=_vwJ1sM5vVspM8FL7Y385w&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\frac {dx}{(\\pi ^{2}+x^{2})\\cosh x}=\\frac {2}\\pi -\\frac {1}2",
+    "status":2,
+    "id":"7-7",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1458927677029908481?t=8fvE0U7_OD4Cpo-KxPMFeg&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-sinhaxsinhbxdx.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+4x^2)^2\\ \\sinh \\pi x}dx=-\\frac {1}8+\\frac {\\beta (2)}4",
+    "status":2,
+    "id":"7-8",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1450290770087272451?t=ZW8TaUmzTTXT7Mcb_CAMXw&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1450500337979252748?t=u8r7vWkQ6JAz_XumYwG-_Q&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln x}{1-e^{2e\\pi x}}dx=\\frac {\\ln A}{2e^{2}}",
+    "status":2,
+    "id":"7-9",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1434541996442411011?t=y4RgBx-WMzBjQZgeGyprmQ&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1434564285129240579?t=f1EftO9bu7ZyfWYuufKkJQ&s=19",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x}{\\left (x^{2}+(2\\pi )^{2}\\right )^2(e^x-1)}dx=\\frac {1}{96}-\\frac {3}{32\\pi ^{2}}",
+    "status":2,
+    "id":"7-11",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1429114403538935813?t=KGBSTGngz-dv6Llj3Bn8pA&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-log-gamma-0-to-12.html?m=1",
+    "TeX":"\\int _{0}^{\\frac {1}2}\\ln \\Gamma (x)dx=\\frac {3}2\\ln A+\\frac {5}{24}\\ln 2+\\frac {1}4\\ln \\pi ",
+    "status":2,
+    "id":"7-14",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1445609932951150602?t=AsYSfM7p-BlPWHrW-XA0cA&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/two-logaggama-integrals-evaluated.html?m=1",
+    "TeX":"\\begin {aligned}\n\\int _{0}^{1}x\\ln \\Gamma (x)dx&=\\frac {1}4\\ln \\frac {2\\pi }{A^{4}}\\\\\n\n\\int _{0}^{1}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}6\\ln \\frac {2\\pi }{A^{6}}+\\frac {\\zeta (3)}{4\\pi ^{2}}\n\\end {aligned}",
+    "status":2,
+    "id":"7-16-1",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1445609932951150602?t=vxq8tFLM8ei2Vx0KCpgmDA&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/moments-of-loggamma-function-between-0.html?m=1",
+    "TeX":"\\begin {aligned}\n\\int _{0}^{\\frac {1}2}x\\ln \\Gamma (x)dx&=\\frac {1}{48}\\ln 4\\pi ^{3}A^{12}-\\frac {7\\zeta (3)}{32}\\\\\n\n\\int _{0}^{\\frac {1}2}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}{2880}\\ln 2^{31}\\pi ^{60}A^{120}-\\frac {11}{1152}-\\frac {3\\zeta (3)}{32\\pi ^{2}}-\\frac {5\\zeta '(-3)}8\n\\end {aligned}",
+    "status":2,
+    "id":"7-16-2",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_0^{\\pi}\\sin^{\\mu-1}x\\sin bx\\,dx=\\frac{2^{1-\\mu}\\pi\\Gamma(\\mu)\\sin\\frac{\\pi b}{2}}{\\Gamma\\left(\\frac{1+\\mu-b}{2}\\right)\\Gamma\\left(\\frac{1+\\mu+b}{2}\\right)}",
+    "status":2,
+    "id":"8-1",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_{-\\infty}^{\\infty}\\ln(2-2\\cos x^2)\\,dx=-\\sqrt{2\\pi}\\zeta\\left(\\frac 32\\right)",
+    "status":2,
+    "id":"10-3",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1436815113789472770?t=aSooqDO5ebBix8WyAHYNTw&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437169974934745089?t=AzsYd_d61FIhtBOpGwcD0A&s=19",
+    "TeX":"\\begin {aligned}\n\\int _{0}^{1}\\left (\\frac {1}{\\ln x}+\\frac {1}{1-x}\\right )x^{a-1}\\ln ^{s-1}\\frac {1}xdx\n\n&=\\Gamma (s)\\left (\\zeta (s,a)+\\frac {a^{s-1}}{1-s}\\right )\\\\\n\\\\\n\\Re s,a>0\n\\end {aligned}",
+    "status":2,
+    "id":"10-7",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1489791040831721472?t=L40x0p4ZA1vUcc39dL_wdQ&s=19",
     "solution_uri":"https://mathlog.info/articles/1876",
-    "TeX":"\\begin {aligned}\nf\\mathrm{\\ is\\ an\\ odd\\ function\\ with\\ period\\ }T\\\\\\\\\n\\int_0^{\\infty}\\frac{f(x)}{x}\\,dx=\\frac{\\pi}T\\int_0^{\\frac T2}\\frac{f(x)}{\\tan\\frac{\\pi x}{T}}\\,dx\n\\end {aligned}",
+    "TeX":"\\begin {aligned}\nf\\text{ is an odd function with period }T\\\\\\\\\n\\int_0^{\\infty}\\frac{f(x)}{x}\\,dx=\\frac{\\pi}T\\int_0^{\\frac T2}\\frac{f(x)}{\\tan\\frac{\\pi x}{T}}\\,dx\n\\end {aligned}",
     "status":2,
     "keywords":[],
     "id":"11-2"
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1480852148372254720?t=tf991KMKD6gpA4hoakDWYQ&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos x-e^{-x}}xdx=0",
+    "status":2,
+    "id":"15-1",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1434942820175912960?t=u_ZNf7xNXLQNAjiiD7g0QQ&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos x^2-\\cos x}{x}dx=\\frac {\\gamma }2",
+    "status" : 2,
+    "id":"15-2",
+    "keywords" : []
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1436504932153114625?t=3SygotP5YLi44RmutPHVMA&s=19",
@@ -60,6 +263,14 @@
     "keywords":[]
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1454186446978383873?t=DvQQ1MWa8L_VziwXsFfr7A&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-int0infty-fracxax22x.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x^{\\alpha }}{1+2x\\cos \\pi \\beta +x^{2}}dx=\\frac {\\pi \\sin \\pi \\alpha \\beta }{\\sin \\pi \\alpha \\sin \\pi \\beta }",
+    "status":2,
+    "id":"18-4",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1436504932153114625?t=3SygotP5YLi44RmutPHVMA&s=19",
     "solution_uri":"section18/18-7.bmd",
     "TeX":"\\int _{0}^{\\frac {\\pi }2}\\tan^{-1} \\tan ^{s}x\\,dx\n=\\frac {\\pi ^{2}}8",
@@ -67,6 +278,55 @@
     "keywords":[],
     "id":"18-7",
     "solver":"Benri"
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1490515813631401985?t=2NVnqktwp3okYYv8NqBBug&s=19",
+    "solution_uri":"section18/18-9.bmd",
+    "TeX":"\\int _{0}^{\\infty }\\left (1-x\\tan ^{-1}\\frac {1}x\\right )dx=\\frac {\\pi }4",
+    "status":3,
+    "keywords":[],
+    "id":"18-9",
+    "solver":"Benri"
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1436142542123253776?t=2L2cWrm4cFyODavv-Fa-9g&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437204063054090242?t=WoeCGco67hawejgwkHJ6tw&s=19",
+    "TeX":"\\int _{0}^{1}\\frac {\\cos \\ln x}{1+x^{2}}dx=\\frac {\\pi }{4\\cosh \\frac {\\pi }2}",
+    "status":2,
+    "id":"20-3",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1431189917107822599?t=gIpUcEobBUnh7xzjH3KYlg&s=19",
+    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1431265303313489924?t=rYf2vCjBOhpXydlaP-RDvg&s=19",
+    "TeX":"\\begin {aligned}\n\\int _{0}^{\\infty }\\operatorname {erfc} xdx\n\n&=\\frac {1}{\\sqrt \\pi }\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^2 xdx&=\\frac {2}{\\sqrt \\pi }-\\frac {\\sqrt 2}{\\sqrt \\pi }\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^3 xdx&=\\frac {3}{\\sqrt \\pi }-\\frac {6\\sqrt 2}{\\pi ^{3/2}}\\tan ^{-1}\\sqrt 2\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^4 xdx&=\\frac {4}{\\sqrt \\pi }-\\frac {24\\sqrt 2}{\\pi ^{3/2}}\\tan ^{-1}\\frac {1}{\\sqrt 8}\n\\end {aligned}",
+    "status":2,
+    "id":"20-35",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1876",
+    "TeX":"\\int_0^{\\pi/4}\\frac{\\tan^{2e}x-2\\sin^2 x}{\\sin 2x\\ln\\tan x}\\,dx=\\frac 12\\left(1+\\ln\\frac{\\pi}2\\right)",
+    "status":2,
+    "id":"20-44",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1434496701377572869?t=DfZulQfC5bkpVEoigVezfg&s=19",
+    "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-related-to-derivative-of-beta.html?m=1",
+    "TeX":"\\int _{0}^{\\infty }\\frac {x}{(e^x-1)^{\\frac {2}3}}dx=\\sqrt 3\\pi \\ln 3-\\frac {\\pi ^{2}}3",
+    "status" : 2,
+    "id":"20-52",
+    "keywords" : []
+  },
+  {
+    "tw_uri":"https://twitter.com/integralsbot/status/1437041547426492416?t=UVhi9rr8ma2RX51ZXDobpg&s=19",
+    "solution_uri":"https://twitter.com/BenriBot_ccbs/status/1437056555979919363?t=ouhk69H3CuZQrucaWe1gyg&s=19",
+    "TeX":"\\int _{-\\infty }^{\\infty }\\frac {\\sin x}{x-i}dx=\\frac {\\pi }e",
+    "status":2,
+    "id":"20-63",
+    "keywords":[]
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1488160291552915458?t=3SzyoSFRXjuuuC9V9f8z0Q&s=19",
@@ -78,131 +338,11 @@
     "keywords" : []
   },
   {
-    "tw_uri":"https://twitter.com/integralsbot/status/1488885064641703937?s=20&t=VM4SPcMJ0mb-X1qyA-rgXQ",
-    "solution_uri":"Harry_1",
-    "TeX":"\\int_0^1\\frac{\\arctan x}{x}\\ln\\frac{1+x^2}{(1-x)^2}dx=\\frac{\\pi^3}{16}",
-    "status": 1,
-    "solver" : "Harry",
-    "keywords" : []
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1480852148372254720?t=tf991KMKD6gpA4hoakDWYQ&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos x-e^{-x}}xdx=0",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1434942820175912960?t=u_ZNf7xNXLQNAjiiD7g0QQ&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {\\cos x^2-\\cos x}{x}dx=\\frac {\\gamma }2",
-    "status" : 2,
-    "keywords" : []
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1434496701377572869?t=DfZulQfC5bkpVEoigVezfg&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-related-to-derivative-of-beta.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x}{(e^x-1)^{\\frac {2}3}}dx=\\sqrt 3\\pi \\ln 3-\\frac {\\pi ^{2}}3",
-    "status" : 2,
-    "keywords" : []
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1455001815137722378?t=oCzYieQlVsg1ShO6Z1I1CQ&s=19",
-    "solution_uri":"b2.bmd",
-    "TeX":"\\int _{0}^{\\frac {\\pi }2}\\frac {x\\ln (\\sin x)}{\\sin 2x}dx=-\\frac {\\pi ^{3}}{48}",
-    "status" : 3,
-    "solver" : "benri",
-    "keywords" : []
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1429114403538935813?t=KGBSTGngz-dv6Llj3Bn8pA&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-log-gamma-0-to-12.html?m=1",
-    "TeX":"\\int _{0}^{\\frac {1}2}\\ln \\Gamma (x)dx=\\frac {3}2\\ln A+\\frac {5}{24}\\ln 2+\\frac {1}4\\ln \\pi ",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1447113241025343490?t=Zwilu0ked9tAbfWL9nnl_Q&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int0infty-fracx-ln1x2e2-pi-x1dxfrac1924.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^2)}{e^{2\\pi x}+1}dx=\\frac {19}{24}-\\frac {23}{24}\\ln 2-\\frac {1}2\\ln A",
-    "status":2,
-    "keywords" :[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1444719055537987584?t=Mrz5B_UhJlm8fZd-68R8zw&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int0infty-fracx-ln1x2e2-pi-x1dxfrac1924.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln (1+x^{2})}{\\sinh \\pi x}dx=\\ln \\frac {\\sqrt[3] {2}A^{6}}{\\pi \\sqrt e}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1436142542123253776?t=2L2cWrm4cFyODavv-Fa-9g&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437204063054090242?t=WoeCGco67hawejgwkHJ6tw&s=19",
-    "TeX":"\\int _{0}^{1}\\frac {\\ln \\cos x}{1+x^{2}}dx=\\frac {\\pi }{4\\cosh \\frac {\\pi }2}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1437041547426492416?t=UVhi9rr8ma2RX51ZXDobpg&s=19",
-    "solution_uri":"https://twitter.com/BenriBot_ccbs/status/1437056555979919363?t=ouhk69H3CuZQrucaWe1gyg&s=19",
-    "TeX":"\\int _{-\\infty }^{\\infty }\\frac {\\sin x}{x-i}dx=\\frac {\\pi }e",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1436815113789472770?t=aSooqDO5ebBix8WyAHYNTw&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437169974934745089?t=AzsYd_d61FIhtBOpGwcD0A&s=19",
-    "TeX":"\\begin {aligned}\n\\int _{0}^{1}\\left (\\frac {1}{\\ln x}+\\frac {1}{1-x}\\right )x^{a-1}\\ln ^{s-1}\\frac {1}xdx\n\n&=\\Gamma (s)\\left (\\zeta (s,a)+\\frac {a^{s-1}}{1-s}\\right )\\\\\n\\\\\n\\Re s,a>0\n\\end {aligned}",
-    "status":2,
-    "keywords":[]
-  },
-  {
     "tw_uri":"https://twitter.com/integralsbot/status/1434482456120287241?t=X6ckOBWnDlEKrwG62OS0kg&s=19",
     "solution_uri":"https://twitter.com/AlbahariRicardo/status/1434595931551371266?t=ewjoIihqq03j4X92DeloTQ&s=19",
     "TeX":"\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {a^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
     "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1434541996442411011?t=y4RgBx-WMzBjQZgeGyprmQ&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1434564285129240579?t=f1EftO9bu7ZyfWYuufKkJQ&s=19",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x}{\\left (x^{2}+(2\\pi )^{2}\\right )^2(e^x-1)}dx=\\frac {1}{96}-\\frac {3}{32\\pi ^{2}}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1431189917107822599?t=gIpUcEobBUnh7xzjH3KYlg&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1431265303313489924?t=rYf2vCjBOhpXydlaP-RDvg&s=19",
-    "TeX":"\\begin {aligned}\n\\int _{0}^{\\infty }\\operatorname {erfc} xdx\n\n&=\\frac {1}{\\sqrt \\pi }\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^2 xdx&=\\frac {2}{\\sqrt \\pi }-\\frac {\\sqrt 2}{\\sqrt \\pi }\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^3 xdx&=\\frac {3}{\\sqrt \\pi }-\\frac {6\\sqrt 2}{\\pi ^{3/2}}\\tan ^{-1}\\sqrt 2\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^4 xdx&=\\frac {4}{\\sqrt \\pi }-\\frac {24\\sqrt 2}{\\pi ^{3/2}}\\tan ^{-1}\\frac {1}{\\sqrt 8}\n\\end {aligned}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1448622697848532995?t=gIAgmE-9soYuL6xo7vcEdw&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1449545619274616836?t=_vwJ1sM5vVspM8FL7Y385w&s=19",
-    "TeX":"\\int _{0}^{\\infty }\\frac {dx}{(\\pi ^{2}+x^{2})\\cosh x}=\\frac {2}\\pi -\\frac {1}2",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1489368251348172802?t=tddN1-kaXtzORFms2iQidw&s=19",
-    "solution_uri":"",
-    "TeX":"\\int _{0}^{\\infty }\\frac {\\sqrt x\\tan ^{-1}x\\ \\ln \\left (1+x^{2}\\right )}{1+x^2} dx=\\frac {\\pi }{6\\sqrt 2}\\left (12\\beta (2)+9\\ln ^{2}2+3\\pi \\ln 2+\\pi ^{2}\\right )",
-    "status":0,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1470312700333158403?t=v07JEYmGQKLWIh5m-Vt1UA&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1471559166464598017?t=6YKMyDa0rULrXlJOogwf5Q&s=19",
-    "TeX":"\\int _{0}^{\\infty }\\tan ^{-1}e^{-x}dx=\\beta (2)",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1460467830542172160?t=CSXpvq6a3Or5PKT-GNfX1Q&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int-x1x21tanhpix2dx.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+x^{2})^{2}}\\frac {dx}{\\tanh \\frac {\\pi x}2}=\\frac {\\pi ^{2}}8-\\frac {1}2",
-    "status":2,
+    "id":"20-81",
     "keywords":[]
   },
   {
@@ -210,90 +350,7 @@
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-sinhaxcoshbxsinhcxdx-from-0-to.html?m=1",
     "TeX":"\\begin {aligned}\n\\int _{-\\infty }^{\\infty }\\frac {\\sinh \\alpha x}{\\sinh \\pi x}\\cos \\beta x\\ dx&=\\frac {\\sin \\alpha }{\\cos \\alpha +\\cosh \\beta }\\\\\n\n\\int _{-\\infty }^{\\infty }\\frac {\\cosh \\alpha x}{\\sinh \\pi x}\\sin \\beta x\\ dx&=\\frac {\\sinh \\beta }{\\cos \\alpha +\\cosh \\beta }\\\\\\\\\n-\\pi <\\alpha <\\pi \n\\end {aligned}",
     "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1458927677029908481?t=8fvE0U7_OD4Cpo-KxPMFeg&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-sinhaxsinhbxdx.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+4x^2)^2\\ \\sinh \\pi x}dx=-\\frac {1}8+\\frac {\\beta (2)}4",
-    "status":2,
-    "keywords":[]
-  },{
-    "tw_uri":"https://twitter.com/integralsbot/status/1454186446978383873?t=DvQQ1MWa8L_VziwXsFfr7A&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-int0infty-fracxax22x.html?m=1",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x^{\\alpha }}{1+2x\\cos \\pi \\beta +x^{2}}dx=\\frac {\\pi \\sin \\pi \\alpha \\beta }{\\sin \\pi \\alpha \\sin \\pi \\beta }",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1452012118144811008?t=XJeu2YIIwrukRW5hIEPrUQ&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/mamlsten-integrals-part-i.html?m=1",
-    "TeX":"\\int _{0}^{1}\\frac {\\ln \\ln \\frac {1}x}{1+2x\\cos 2\\pi \\alpha +x^{2}}=\\frac {\\pi }{\\sin 2\\pi \\alpha }\\ln \\frac {\\sqrt \\pi (2\\pi )^{\\alpha }}{\\Gamma \\left (\\frac {1}2-\\alpha \\right )\\sqrt {\\cos \\pi \\alpha }}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1450290770087272451?t=ZW8TaUmzTTXT7Mcb_CAMXw&s=19",
-    "solution_uri":"https://twitter.com/AlbahariRicardo/status/1450500337979252748?t=u8r7vWkQ6JAz_XumYwG-_Q&s=19",
-    "TeX":"\\int _{0}^{\\infty }\\frac {x\\ln x}{1-e^{2e\\pi x}}dx=\\frac {\\ln A}{2e^{2}}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1445609932951150602?t=AsYSfM7p-BlPWHrW-XA0cA&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/two-logaggama-integrals-evaluated.html?m=1",
-    "TeX":"\\begin {aligned}\n\\int _{0}^{1}x\\ln \\Gamma (x)dx&=\\frac {1}4\\ln \\frac {2\\pi }{A^{4}}\\\\\n\n\\int _{0}^{1}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}6\\ln \\frac {2\\pi }{A^{6}}+\\frac {\\zeta (3)}{4\\pi ^{2}}\n\\end {aligned}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1445609932951150602?t=vxq8tFLM8ei2Vx0KCpgmDA&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/moments-of-loggamma-function-between-0.html?m=1",
-    "TeX":"\\begin {aligned}\n\\int _{0}^{\\frac {1}2}x\\ln \\Gamma (x)dx&=\\frac {1}{48}\\ln 4\\pi ^{3}A^{12}-\\frac {7\\zeta (3)}{32}\\\\\n\n\\int _{0}^{\\frac {1}2}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}{2880}\\ln 2^{31}\\pi ^{60}A^{120}-\\frac {11}{1152}-\\frac {3\\zeta (3)}{32\\pi ^{2}}-\\frac {5\\zeta '(-3)}8\n\\end {aligned}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1446886269389131776?t=YEV_K0IK356mGmhCLYRhtg&s=19",
-    "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/integral-int0pi2-x2-ln2leftcos2.html?m=1",
-    "TeX":"\\int _{0}^{\\frac {\\pi }2}x^{2}\\ln ^{2}2\\cos xdx=\\frac {11\\pi ^{5}}{1440}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1448501944486563843?t=9EKWmhOfFxA2lvkwOE200w&s=19",
-    "solution_uri":"b_logsin.bmd",
-    "TeX":"\\int _{0}^{\\pi }\\ln \\left (2\\sin \\frac {x}2\\right )\\ln \\left (2\\cos \\frac {x}2\\right )dx\n=-\\frac {\\pi ^{3}}{24}",
-    "status":3,
-    "keywords":[],
-    "solver":"Benri"
-  },
-  {
-    "tw_uri":"",
-    "solution_uri":"https://mathlog.info/articles/1876",
-    "TeX":"\\int_0^{\\pi}\\sin^{\\mu-1}x\\sin bx\\,dx=\\frac{2^{1-\\mu}\\pi\\Gamma(\\mu)\\sin\\frac{\\pi b}{2}}{\\Gamma\\left(\\frac{1+\\mu-b}{2}\\right)\\Gamma\\left(\\frac{1+\\mu+b}{2}\\right)}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1428532411625656329?t=p3ikly3NF2D-JDw6svPAIQ&s=19",
-    "solution_uri":"https://mathlog.info/articles/1876",
-    "TeX":"\\int_0^1\\ln\\frac{1+ax}{1-ax}\\frac{dx}{x\\sqrt{1-x^2}}=\\pi\\sin^{-1} a",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"",
-    "solution_uri":"https://mathlog.info/articles/1876",
-    "TeX":"\\int_{-\\infty}^{\\infty}\\ln(2-2\\cos x^2)\\,dx=-\\sqrt{2\\pi}\\zeta\\left(\\frac 32\\right)",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"",
-    "solution_uri":"https://mathlog.info/articles/1876",
-    "TeX":"\\int_0^{\\pi/4}\\frac{\\tan^{2e}x-2\\sin^2 x}{\\sin 2x\\ln\\tan x}\\,dx=\\frac 12\\left(1+\\ln\\frac{\\pi}2\\right)",
-    "status":2,
+    "id":"20-113",
     "keywords":[]
   },
   {
