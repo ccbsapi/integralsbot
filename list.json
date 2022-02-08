@@ -134,6 +134,14 @@
     "solver":"Benri"
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1488190494647599107?t=VoB-2wskjRv14x3HkWUjvw&s=19",
+    "solution_uri":"https://mathlog.info/articles/1929",
+    "TeX":"\\int_0^1\\frac{\\ln(1-x)}{\\sqrt{x-x^3}}\\,dx=\\frac{\\Gamma\\left(\\frac 14\\right)^2}{4\\sqrt{2\\pi}}(\\ln 2-\\pi)",
+    "status":2,
+    "id":"4-21",
+    "keywords":[]
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1933",
     "TeX": "\\int_0^2\\frac{\\tan^{-1}\\frac{2-x}{1+2x}}{x^2-4x-1}\\,dx=-\\frac 1{2\\sqrt{5}}\\tan^{-1}2\\tanh^{-1}\\frac 2{\\sqrt{5}}",
@@ -655,13 +663,6 @@
     "tw_uri":"",
     "solution_uri":"https://mathlog.info/articles/1921",
     "TeX":"\\int_0^{\\pi/2}J_0(\\cos x)\\,dx=\\frac{\\pi}{2}\\left(J_0\\left(\\frac 12\\right)\\right)^2",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1488190494647599107?t=VoB-2wskjRv14x3HkWUjvw&s=19",
-    "solution_uri":"https://mathlog.info/articles/1929",
-    "TeX":"\\int_0^1\\frac{\\ln(1-x)}{\\sqrt{x-x^3}}\\,dx=\\frac{\\Gamma\\left(\\frac 14\\right)^2}{4\\sqrt{2\\pi}}(\\ln 2-\\pi)",
     "status":2,
     "keywords":[]
   }
