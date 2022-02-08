@@ -286,6 +286,14 @@
     "id":"11-2"
   },
   {
+    "tw_uri": "",
+    "solution_uri": "https://mathlog.info/articles/1938",
+    "TeX": "\\int_0^{\\infty}J_0(ax)e^{-px}\\,dx=\\frac{1}{\\sqrt{a^2+p^2}}",
+    "status": "2",
+    "id": "13-1",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1480852148372254720?t=tf991KMKD6gpA4hoakDWYQ&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\cos x-e^{-x}}xdx=0",
