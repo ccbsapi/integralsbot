@@ -457,6 +457,14 @@
     "keywords": []
   },
   {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1913",
+    "TeX":"\\int_{-\\infty}^{\\infty}\\frac{dx}{(e^x+x+1)^2+\\pi^2}=\\frac 23",
+    "status":2,
+    "id":"20-32",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1489489046439366656?t=QI4xJcVbkue3xS2k7n2CfQ&s=19",
     "solution_uri":"https://mathlog.info/articles/1901",
     "TeX":"\\int_0^1\\left(\\left\\lfloor\\frac{\\alpha}{x}\\right\\rfloor -\\alpha\\left\\lfloor\\frac 1x\\right\\rfloor\\right)\\,dx=\\alpha\\ln\\alpha\\quad(0\\lt \\alpha\\lt 1)",
@@ -585,13 +593,6 @@
     "tw_uri":"",
     "solution_uri":"https://mathlog.info/articles/1913",
     "TeX":"\\int_{-\\infty}^{\\infty}\\left(\\frac{x}{2+e^x+e^{-x}}\\right)^2\\,dx=\\frac{\\zeta(2)-1}{3}",
-    "status":2,
-    "keywords":[]
-  },
-  {
-    "tw_uri":"",
-    "solution_uri":"https://mathlog.info/articles/1913",
-    "TeX":"\\int_{-\\infty}^{\\infty}\\frac{dx}{(e^x+x+1)^2+\\pi^2}=\\frac 23",
     "status":2,
     "keywords":[]
   },
