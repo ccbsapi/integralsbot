@@ -126,6 +126,14 @@
     "keywords":[]
   },
   {
+    "tw_uri": "",
+    "solution_uri": "https://mathlog.info/articles/1933",
+    "TeX": "\\int_0^1\\frac{\\ln x}{1-x^2}\\ln\\ln\\frac{1+x}{1-x}\\,dx=\\frac{\\pi^2}{24}\\ln\\frac{A^{36}}{16\\pi^3}",
+    "status": "2",
+    "id": "5-5",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1452012118144811008?t=XJeu2YIIwrukRW5hIEPrUQ&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/mamlsten-integrals-part-i.html?m=1",
     "TeX":"\\int _{0}^{1}\\frac {\\ln \\ln \\frac {1}x}{1+2x\\cos 2\\pi \\alpha +x^{2}}=\\frac {\\pi }{\\sin 2\\pi \\alpha }\\ln \\frac {\\sqrt \\pi (2\\pi )^{\\alpha }}{\\Gamma \\left (\\frac {1}2-\\alpha \\right )\\sqrt {\\cos \\pi \\alpha }}",
