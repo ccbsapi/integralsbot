@@ -377,6 +377,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "",
+    "solution_uri": "https://mathlog.info/articles/1938",
+    "TeX": "\\int_0^{\\infty}\\frac{\\cosh\\frac{x}{\\sqrt{2}}}{\\cosh\\sqrt{2}x}\\frac{dx}{\\cosh\\alpha x}=\\frac 1{\\alpha}\\int_0^{\\infty}\\frac{\\cosh\\frac{x}{\\sqrt{2}}}{\\cosh\\sqrt{2}x}\\frac{dx}{\\cosh\\frac{x}{\\alpha}}",
+    "status": "2",
+    "id": "20-18",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1431189917107822599?t=gIpUcEobBUnh7xzjH3KYlg&s=19",
     "solution_uri":"https://twitter.com/AlbahariRicardo/status/1431265303313489924?t=rYf2vCjBOhpXydlaP-RDvg&s=19",
     "TeX":"\\begin {aligned}\n\\int _{0}^{\\infty }\\operatorname {erfc} xdx\n\n&=\\frac {1}{\\sqrt \\pi }\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^2 xdx&=\\frac {2}{\\sqrt \\pi }-\\frac {\\sqrt 2}{\\sqrt \\pi }\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^3 xdx&=\\frac {3}{\\sqrt \\pi }-\\frac {6\\sqrt 2}{\\pi ^{3/2}}\\tan ^{-1}\\sqrt 2\\\\\n\n\\int _{0}^{\\infty }\\operatorname {erfc}^4 xdx&=\\frac {4}{\\sqrt \\pi }-\\frac {24\\sqrt 2}{\\pi ^{3/2}}\\tan ^{-1}\\frac {1}{\\sqrt 8}\n\\end {aligned}",
