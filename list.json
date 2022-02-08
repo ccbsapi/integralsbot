@@ -35,6 +35,14 @@
     "solver":"Benri"
   },
   {
+    "tw_uri": "",
+    "solution_uri": "https://mathlog.info/articles/1933",
+    "TeX": "\\int_0^{\\infty}\\frac{dx}{\\sqrt{x^4+a^4}+\\sqrt{x^4+b^4}}=\\frac{\\Gamma\\left(\\frac 14\\right)^2}{6\\sqrt{\\pi}}\\frac{a^3-b^3}{a^4-b^4}",
+    "status": "2",
+    "id": "2-18",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1489368251348172802?t=tddN1-kaXtzORFms2iQidw&s=19",
     "solution_uri":"",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\sqrt x\\tan ^{-1}x\\ \\ln \\left (1+x^{2}\\right )}{1+x^2} dx=\\frac {\\pi }{6\\sqrt 2}\\left (12\\beta (2)+9\\ln ^{2}2+3\\pi \\ln 2+\\pi ^{2}\\right )",
