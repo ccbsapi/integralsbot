@@ -362,6 +362,14 @@
     "keywords":[]
   },
   {
+    "tw_uri":"",
+    "solution_uri":"section20/20-103.bmd",
+    "TeX":"\\int^{\\infty}_{0}\\left(\\frac{1}{1+\\alpha^{2}x^2}-\\cos{\\beta{x}}\\right)\\frac{1}{x}dx =\\gamma-\\ln\\frac{\\alpha}{\\beta}",
+    "status":3,
+    "id":"20-103",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1464182570892275712?t=T9TxUGliNSq8Z9l0pD-Egw&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/11/integral-sinhaxcoshbxsinhcxdx-from-0-to.html?m=1",
     "TeX":"\\begin {aligned}\n\\int _{-\\infty }^{\\infty }\\frac {\\sinh \\alpha x}{\\sinh \\pi x}\\cos \\beta x\\ dx&=\\frac {\\sin \\alpha }{\\cos \\alpha +\\cosh \\beta }\\\\\n\n\\int _{-\\infty }^{\\infty }\\frac {\\cosh \\alpha x}{\\sinh \\pi x}\\sin \\beta x\\ dx&=\\frac {\\sinh \\beta }{\\cos \\alpha +\\cosh \\beta }\\\\\\\\\n-\\pi <\\alpha <\\pi \n\\end {aligned}",
