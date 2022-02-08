@@ -254,6 +254,14 @@
     "keywords" : []
   },
   {
+    "tw_uri":"",
+    "solution_uri":"section15/15-3.bmd",
+    "TeX":"\\int^{\\infty}_{0}\\frac{\\cos{x^{p}}-e^{-x^{q}}}{x^{1+r}}dx\n=\\frac{\\Gamma\\left(1-\\frac{r}{q}\\right)\\Gamma\\left(1+\\frac{r}{p}\\right)-\\Gamma\\left(1+\\frac{r}{2p}\\right)\\Gamma\\left(-\\frac{r}{2p}+1\\right)}{r\\Gamma\\left(1+\\frac{r}{p}\\right)}",
+    "status" : 3,
+    "id":"15-3",
+    "keywords" : []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1436504932153114625?t=3SygotP5YLi44RmutPHVMA&s=19",
     "solution_uri":"section16/16-1.bmd",
     "TeX":"\\int _{0}^{\\infty }\\sin x\\,\\tan^{-1} \\frac {1}xdx\n=\\frac {\\pi }2\\left (1-\\frac {1}e\\right )",
