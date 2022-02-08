@@ -1,0 +1,33 @@
+&&&thm
+&&&math
+\int^{\infty}_{0}\frac{\cos{x^{p}}-e^{-x^{q}}}{x^{1+r}}dx
+= \frac{\Gamma\left(1-\frac{r}{q}\right)\Gamma\left(1+\frac{r}{p}\right)-\Gamma\left(1+\frac{r}{2p}\right)\Gamma\left(-\frac{r}{2p}+1\right)}{r\Gamma\left(1+\frac{r}{p}\right)}
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin{align*}
+\int^{\infty}_{0}\frac{1-e^{-x^{q}}}{x^{1+r}}dx 
+&= \frac{1}{q}\int^{\infty}_{0}\frac{1-e^{-t}}{t^{1+\frac{r}{q}}}dt\\
+&= \cancel{\left.-\frac{1}{r}t^{-\frac{r}{q}}(1-e^{-t})\right|^{\infty}_{0}}^{\quad 0}+\frac{1}{r}\int^{\infty}_{0}t^{-\frac{r}{q}}e^{-t}dt\\
+&= \frac{1}{r}\Gamma\left(1-\frac{r}{q}\right)\\
+
+\int^{\infty}_{0}\frac{1-\cos {x^{p}}}{x^{1+r}}dx 
+&= \frac{1}{p}\int^{\infty}_{0}\frac{1-\cos{t}}{t^{1+\frac{r}{p}}}dt\\
+&= \cancel{\left.-\frac{1}{r}t^{-\frac{r}{p}}(1-\cos{t})\right|^{\infty}_{0}}^{\quad 0}+\frac{1}{r}\int^{\infty}_{0}t^{-\frac{r}{p}}\sin{t}dt\\
+&= \frac{1}{r}\int^{\infty}_{0}\left(\frac{1}{\Gamma\left(\frac{r}{p}\right)}\int^{\infty}_{0}u^{\frac{r}{p}-1}e^{-tu}du\right)\sin{t}dt\\
+&= \frac{1}{r\Gamma\left(\frac{r}{p}\right)}\int^{\infty}_{0}u^{\frac{r}{p}-1}\left(\int^{\infty}_{0}e^{-tu}\sin{t}dt\right)du\\
+&= \frac{1}{r\Gamma\left(\frac{r}{p}\right)}\int^{\infty}_{0}\frac{u^{\frac{r}{p}-1}}{u^{2}+1}du\\
+&= \frac{1}{r\Gamma\left(\frac{r}{p}\right)}\int^{\frac{\pi}{2}}_{0}\tan^{\frac{r}{p}-1}{v}dv\\
+&= \frac{1}{r\Gamma\left(\frac{r}{p}\right)}\int^{\frac{\pi}{2}}_{0}\sin^{\frac{r}{p}-1}{v}\cos^{-\frac{r}{p}+1}{v}dv\\
+&= \frac{1}{2r\Gamma\left(\frac{r}{p}\right)}\Gamma\left(\frac{r}{2p}\right)\Gamma\left(-\frac{r}{2p}+1\right)\\
+&= \frac{\Gamma\left(1+\frac{r}{2p}\right)\Gamma\left(-\frac{r}{2p}+1\right)}{r\Gamma\left(1+\frac{r}{p}\right)}\\
+
+\int^{\infty}_{0}\frac{\cos{x^{p}}-e^{-x^{q}}}{x^{1+r}}dx 
+&= \int^{\infty}_{0}\left(\frac{1-e^{-x^{q}}-(1-\cos{x^{p}})}{x^{1+r}}\right)dx\\
+&= \frac{1}{r}\Gamma\left(1-\frac{r}{q}\right)-\frac{\Gamma\left(1+\frac{r}{2p}\right)\Gamma\left(-\frac{r}{2p}+1\right)}{r\Gamma\left(1+\frac{r}{p}\right)}\\
+&= \frac{\Gamma\left(1-\frac{r}{q}\right)\Gamma\left(1+\frac{r}{p}\right)-\Gamma\left(1+\frac{r}{2p}\right)\Gamma\left(-\frac{r}{2p}+1\right)}{r\Gamma\left(1+\frac{r}{p}\right)}
+\end{align*}
+&&&
+&&&

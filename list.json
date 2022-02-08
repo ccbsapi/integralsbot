@@ -86,6 +86,14 @@
     "solver":"Benri"
   },
   {
+    "tw_uri":"",
+    "solution_uri":"https://mathlog.info/articles/1929",
+    "TeX":"\\int_0^1\\ln\\ln\\frac{1+\\sqrt{1-x^2}}{x}\\,dx=-\\gamma-2\\ln\\frac{2\\Gamma\\left(\\frac 34\\right)}{\\Gamma\\left(\\frac 14\\right)}",
+    "status":2,
+    "id":"5-3",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1452012118144811008?t=XJeu2YIIwrukRW5hIEPrUQ&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/10/mamlsten-integrals-part-i.html?m=1",
     "TeX":"\\int _{0}^{1}\\frac {\\ln \\ln \\frac {1}x}{1+2x\\cos 2\\pi \\alpha +x^{2}}=\\frac {\\pi }{\\sin 2\\pi \\alpha }\\ln \\frac {\\sqrt \\pi (2\\pi )^{\\alpha }}{\\Gamma \\left (\\frac {1}2-\\alpha \\right )\\sqrt {\\cos \\pi \\alpha }}",
@@ -246,6 +254,14 @@
     "keywords" : []
   },
   {
+    "tw_uri":"",
+    "solution_uri":"section15/15-3.bmd",
+    "TeX":"\\int^{\\infty}_{0}\\frac{\\cos{x^{p}}-e^{-x^{q}}}{x^{1+r}}dx\n=\\frac{\\Gamma\\left(1-\\frac{r}{q}\\right)\\Gamma\\left(1+\\frac{r}{p}\\right)-\\Gamma\\left(1+\\frac{r}{2p}\\right)\\Gamma\\left(-\\frac{r}{2p}+1\\right)}{r\\Gamma\\left(1+\\frac{r}{p}\\right)}",
+    "status" : 3,
+    "id":"15-3",
+    "keywords" : []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1436504932153114625?t=3SygotP5YLi44RmutPHVMA&s=19",
     "solution_uri":"section16/16-1.bmd",
     "TeX":"\\int _{0}^{\\infty }\\sin x\\,\\tan^{-1} \\frac {1}xdx\n=\\frac {\\pi }2\\left (1-\\frac {1}e\\right )",
@@ -343,6 +359,14 @@
     "TeX":"\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {a^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
     "status":2,
     "id":"20-81",
+    "keywords":[]
+  },
+  {
+    "tw_uri":"",
+    "solution_uri":"section20/20-103.bmd",
+    "TeX":"\\int^{\\infty}_{0}\\left(\\frac{1}{1+\\alpha^{2}x^2}-\\cos{\\beta{x}}\\right)\\frac{1}{x}dx =\\gamma-\\ln\\frac{\\alpha}{\\beta}",
+    "status":3,
+    "id":"20-103",
     "keywords":[]
   },
   {
