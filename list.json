@@ -278,6 +278,14 @@
     "keywords":[]
   },
   {
+    "tw_uri": "",
+    "solution_uri": "https://mathlog.info/articles/1938",
+    "TeX": "\\int_0^1\\left\\lfloor \\frac 1x\\right\\rfloor^{-1}\\,dx=\\zeta(2)-1",
+    "status": "2",
+    "id": "10-6",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1489791040831721472?t=L40x0p4ZA1vUcc39dL_wdQ&s=19",
     "solution_uri":"https://mathlog.info/articles/1876",
     "TeX":"\\begin {aligned}\nf\\text{ is an odd function with period }T\\\\\\\\\n\\int_0^{\\infty}\\frac{f(x)}{x}\\,dx=\\frac{\\pi}T\\int_0^{\\frac T2}\\frac{f(x)}{\\tan\\frac{\\pi x}{T}}\\,dx\n\\end {aligned}",
