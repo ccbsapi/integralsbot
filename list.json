@@ -86,6 +86,14 @@
     "solver":"Benri"
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1447022644734222344?t=C1X2lz_bau51n5_dUq_pAA&s=19",
+    "solution_uri": "https://mathlog.info/articles/1929",
+    "TeX": "\\int _{0}^{2\\pi }\\frac {\\tan ^{-1}\\left (2\\cos ^2x\\right )}{\\cos ^{2}x}dx=\\frac {4\\pi}{\\sqrt \\phi } ",
+    "status": "2",
+    "id": "4-27",
+    "keywords": []
+  },
+  {
     "tw_uri":"",
     "solution_uri":"https://mathlog.info/articles/1929",
     "TeX":"\\int_0^1\\ln\\ln\\frac{1+\\sqrt{1-x^2}}{x}\\,dx=-\\gamma-2\\ln\\frac{2\\Gamma\\left(\\frac 34\\right)}{\\Gamma\\left(\\frac 14\\right)}",
