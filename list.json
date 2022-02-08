@@ -190,6 +190,14 @@
     "keywords": []
   },
   {
+    "tw_uri":"https://twitter.com/integralsbot/status/1488311286899560448?t=LsLz4rXnFfrVkStrvl45HQ&s=19",
+    "solution_uri":"https://mathlog.info/articles/1901",
+    "TeX":"\\int_0^1\\frac{x}{(1-s^2x^2)\\sqrt{1-x^2}}\\ln\\frac{1-x}{1+x}\\,dx=\\frac{\\pi}{2s\\sqrt{1-s^2}}\\ln\\frac{1-s}{1+s}",
+    "status":2,
+    "id":"6-26",
+    "keywords":[]
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1460467830542172160?t=CSXpvq6a3Or5PKT-GNfX1Q&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int-x1x21tanhpix2dx.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+x^{2})^{2}}\\frac {dx}{\\tanh \\frac {\\pi x}2}=\\frac {\\pi ^{2}}8-\\frac {1}2",
@@ -535,13 +543,6 @@
     "TeX":"\\begin {aligned}\n\\int^{\\pi}_{\\alpha }\\sqrt{\\frac{1-\\cos{x}}{\\cos{\\alpha }-\\cos{x}}}dx&= \\pi\\\\\n\\\\\n0\\leq \\alpha <\\pi &\n\\end {aligned}",
     "status":3,
     "id":"20-114",
-    "keywords":[]
-  },
-  {
-    "tw_uri":"https://twitter.com/integralsbot/status/1488311286899560448?t=LsLz4rXnFfrVkStrvl45HQ&s=19",
-    "solution_uri":"https://mathlog.info/articles/1901",
-    "TeX":"\\int_0^1\\frac{x}{(1-s^2x^2)\\sqrt{1-x^2}}\\ln\\frac{1-x}{1+x}\\,dx=\\frac{\\pi}{2s\\sqrt{1-s^2}}\\ln\\frac{1-s}{1+s}",
-    "status":2,
     "keywords":[]
   },
   {
