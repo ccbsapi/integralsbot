@@ -1,0 +1,13 @@
+&&&prf
+&&&math
+\begin{align*}
+\int^{\infty}_{0}\left(\frac{1}{1+\alpha^{2}x^2}-\cos{\beta{x}}\right)\frac{1}{x}dx &= \int^{\infty}_{0}\int^{\infty}_{0}\left(\frac{1}{1+\alpha^{2}x^2}-\cos{\beta{x}}\right)e^{-kx}dkdx\\
+&= \int^{\infty}_{0}\left(\int^{\infty}_{0}\frac{e^{-kx}}{1+\alpha^{2}x^2}dx-\int^{\infty}_{0}e^{-kx}\cos{\beta x}dx\right)dk\\
+&= \int^{\infty}_{0}\left(\int^{\infty}_{0}\frac{e^{-kx}}{1+\alpha^{2}x^2}dx-\frac{k}{k^{2}+\beta^{2}}\right)dk\\
+&= \int^{\infty}_{0}\left(\int^{\infty}_{0}\frac{ke^{-u}}{k^{2}+\alpha^{2}u^{2}}du-\int^{\infty}_{0}\frac{ke^{-u}}{k^{2}+\beta^{2}}du\right)dk(kx=u)\\
+&= \int^{\infty}_{0}\left(\int^{\infty}_{0}\left(\frac{k}{k^{2}+\alpha^{2}u^{2}}-\frac{k}{k^{2}+\beta^{2}}\right)dk \right)e^{-u} du\\
+&= \int^{\infty}_{0}\left(-\ln\frac{\alpha}{\beta}-\ln{u}\right)e^{-u}du\\
+&= \gamma-\ln\frac{\alpha}{\beta}
+\end{align*}
+&&&
+&&&
