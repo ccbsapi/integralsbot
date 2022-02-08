@@ -37,6 +37,14 @@
   {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1933",
+    "TeX": "\\int_0^1\\frac{dx}{\\sqrt[3]{x(1-x)}\\left(x-1+\\frac 1x\\right)}=\\frac{2\\pi}{3\\sqrt{3}}",
+    "status": "2",
+    "id": "2-9",
+    "keywords": []
+  },
+  {
+    "tw_uri": "",
+    "solution_uri": "https://mathlog.info/articles/1933",
     "TeX": "\\int_0^{\\infty}\\frac{dx}{\\sqrt{x^4+a^4}+\\sqrt{x^4+b^4}}=\\frac{\\Gamma\\left(\\frac 14\\right)^2}{6\\sqrt{\\pi}}\\frac{a^3-b^3}{a^4-b^4}",
     "status": "2",
     "id": "2-18",
