@@ -1,0 +1,25 @@
+&&&thm
+&&&math
+
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\pi }\arctan \frac {\ln \sin x}xdx
+
+&=\Im \int _{0}^{\pi }\ln \left (x+i\ln \sin x\right )dx\\
+
+&=\Im \int _{0}^{\pi }\ln \left (i\ln \frac {1-e^{-2ix}}{2i}\right )dx\\
+
+&=\Im \oint \ln \left (i\ln \frac {1-z}{2i}\right )\frac {dz}{2iz}\\
+
+&=\Im \left (\frac {2\pi i}{2i}\ln \left (i\ln \frac {1}{2i}\right )\right )\\
+
+&=\Im \pi \ln \left (\frac {\pi }2-i\ln 2\right )\\
+
+&=-\pi \arctan \frac {2\ln 2}\pi 
+\end {aligned}
+&&&
+&&&
