@@ -374,6 +374,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1432345707193667607?t=CcHoLAgNi-YVkmFgvoRCGA&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1432513247584800771?t=wvz_jl9CalAj-o8kMrm4Pw&s=19",
+    "TeX": "\\begin{align*}\n\n\\operatorname\\Re a+b+c+d&>3\\\\\\\\\n\\int_{-\\infty}^{\\infty}\\frac{dx}{\\Gamma(a+x)\\Gamma(b+x)\\Gamma(c-x)\\Gamma(d-x)}&=\\frac{\\Gamma(a+b+c+d-3)}{\\Gamma(a+c-1)\\Gamma(a+d-1)\\Gamma(b+c-1)\\Gamma(b+d-1)} \n\\end{align*}",
+    "status": 2,
+    "id": "8-4",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1876",
     "TeX": "\\int_{-\\infty}^{\\infty}\\ln(2-2\\cos x^2)\\,dx=-\\sqrt{2\\pi}\\zeta\\left(\\frac 32\\right)",
