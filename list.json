@@ -479,6 +479,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1431642904099913735?t=YN5ZsWn0O-pho0tisdmd1Q&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1431824380204503040?t=lH3vtPpdtsE3M1v2xeCrqQ&s=19",
+    "TeX": "\\int_0^{\\infty}\\int_0^{\\infty}e^{-x^2+y^2+2xy\\cos\\theta}\\,dxdy=\\frac{\\theta}{2\\sin\\theta}\\\\\n\\,\\\\\n-\\pi <\\theta <\\pi ",
+    "status": 2,
+    "id": "17-2",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1484506226788499457?t=L6afDY8u3uxutXWp9Y6J9w&s=19",
     "solution_uri": "https://twitter.com/AlbahariRicardo/status/1484554268166270976?t=1zG4-bt6ybqZoIPBYQcTCw&s=19",
     "TeX": "\\int _{0}^{\\infty }\\frac {x^{\\frac {\\pi }5-1}}{1+x^{2\\pi }}dx=\\phi ",
