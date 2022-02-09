@@ -278,6 +278,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1463759794599501824?t=cT47CZ8yKkIhAiV2fZb1KA&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1463809804531429381?t=PeKKxDilVrRvONvfotd0sg&s=19",
+    "TeX": "\\begin{align*}\n\\int_0^{\\infty}\\frac{x-\\sin x}{x(e^x-1)}\\,dx&=\\gamma+\\Im\\ln\\Gamma(1+\\sqrt{-1})\\\\\n\\int_0^{\\infty}\\frac{x-\\sin x}{x^2(e^x-1)}\\,dx&=\\frac 12+\\frac{5\\pi}{24}-\\frac{\\ln 2\\pi}{2}+\\frac{\\operatorname{Li}_2(e^{-2\\pi})}{4\\pi}\n\\end{align*}",
+    "status": "2",
+    "id": "7-1",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1460467830542172160?t=CSXpvq6a3Or5PKT-GNfX1Q&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int-x1x21tanhpix2dx.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+x^{2})^{2}}\\frac {dx}{\\tanh \\frac {\\pi x}2}=\\frac {\\pi ^{2}}8-\\frac {1}2",
