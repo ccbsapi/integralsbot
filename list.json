@@ -657,6 +657,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1419419862217072643?t=Lf8x5LnKO9KZTkVIoX7w0g&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1419683712334131204?t=zSuyEvgJAgvFnA8dXx0qFg&s=19",
+    "TeX": "\\int_0^{\\frac {\\pi }2}\\left(\\frac 1{\\ln\\tan x}+\\frac{2-\\sqrt[3] {\\tan^{4}x}}{1-\\tan x}\\right)\\,dx=\\pi",
+    "status": 2,
+    "id": "20-19",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "section20/20-21-etc.bmd",
     "TeX": "\\int _{0}^{\\infty }\\frac {e^{-\\beta \\sqrt {\\alpha ^{2}+x^{2}}}\\sqrt {\\sqrt {\\alpha ^{2}+x^{2}}-\\alpha }}{\\sqrt {\\alpha ^{2}+x^{2}}}\\sin \\gamma xdx\n=\\sqrt {\\frac {\\pi }2}\\frac {\\gamma e^{-\\alpha \\sqrt {\\beta ^{2}+\\gamma ^{2}}}}{\\sqrt {\\beta ^{2}+\\gamma ^{2}}\\sqrt {\\beta ^{2}+\\sqrt {\\beta ^{2}+\\gamma ^{2}}}}",
