@@ -633,6 +633,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1419246227669979146?t=4FNPO3quVTsaCcaIwjrprQ&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1419646916015443974?t=NI8-bb6YgiuirsWZY-eXiw&s=19",
+    "TeX": "\\int _{0}^{\\infty }\\frac {\\sin \\tan x}xdx=\\frac {\\pi }2\\left (1-\\frac {1}e\\right )",
+    "status": 2,
+    "id": "20-7",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1484536423177142273?t=U9pxNxYVQgidrf2OIMPJfg&s=19",
     "solution_uri": "https://mathlog.info/articles/1901",
     "TeX": "\\int_0^1\\frac{x^2\\ln\\frac 1x}{(1-x^4)\\left(\\pi^2+\\left(\\ln\\frac{1+x}{1-x}+2\\tan^{-1}\\frac 1x\\right)^2\\right)}\\,dx=\\frac 1{32}\\log\\frac{\\pi^2}{8}",
