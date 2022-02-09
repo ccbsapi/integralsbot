@@ -100,6 +100,14 @@
     "keywords" : []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1466794514543427585?t=BDaQ_6WGVoNY27U-MM0kmQ&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2021/12/integral-of-day-xiii.html?m=1",
+    "TeX": "\\int _{0}^{\\pi }\\frac {\\ln \\left (1+\\frac {\\cos x}2\\right )}{\\cos x}dx=\\zeta (2)",
+    "status": "2",
+    "id": "3-5",
+    "keywords": []
+  },
+  {
     "tw_uri":"",
     "solution_uri":"https://mathlog.info/articles/1901",
     "TeX":"\\int_0^{\\pi/2}\\frac{\\arctan\\sqrt{\\tan x}}{\\tan x}\\,dx=\\frac{\\pi}{2}\\ln(2+\\sqrt{2})",
