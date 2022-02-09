@@ -666,6 +666,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1450653158947000326?t=PMFyCJPmObZKMh3zCfcYjQ&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1451055505271508992?t=QFYNKDteRRcauLjAvwMk1g&s=19",
+    "TeX": "\\int_0^{\\infty}\\frac{\\cos ax-e^{-bx}}{x(x^4+b^4)}\\,dx=\\frac{\\pi}{2b^4e^{\\frac {ab}{\\sqrt{2}}}}\\sin\\frac{ab}{\\sqrt{2}}",
+    "status": 2,
+    "id": "20-91",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "section20/20-103.bmd",
     "TeX": "\\int^{\\infty}_{0}\\left(\\frac{1}{1+\\alpha^{2}x^2}-\\cos{\\beta{x}}\\right)\\frac{1}{x}dx =\\gamma-\\ln\\frac{\\alpha}{\\beta}",
