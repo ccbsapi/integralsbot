@@ -246,6 +246,14 @@
     "keywords":[]
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1488734074428866560?t=WKtkkCgUP_gHvewp3KD6lg&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2022/02/integral-of-day-xxiii.html?m=1",
+    "TeX": "\\int _{0}^{\\frac {\\pi }4}\\frac {dx}{1+\\sqrt {1-\\tan ^{2}x}}=\\frac {-1+2\\sqrt 2}4\\pi -1",
+    "status": "2",
+    "id": "6-29",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1460467830542172160?t=CSXpvq6a3Or5PKT-GNfX1Q&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int-x1x21tanhpix2dx.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+x^{2})^{2}}\\frac {dx}{\\tanh \\frac {\\pi x}2}=\\frac {\\pi ^{2}}8-\\frac {1}2",
