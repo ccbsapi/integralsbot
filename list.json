@@ -665,6 +665,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1433304402719240196?t=wOEVkaK8gMu9JI9Zz5yYsQ&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1433324160780963840?t=LU5XE1fn9y1Mu_i_mOapEg&s=19",
+    "TeX": "\\int_0^1\\left(_2F_1\\left [\\begin{matrix}{-\\frac 14,\\frac 54}\\\\{1}\\end{matrix};{\\frac x2}\\right]\\right)^2\\,dx=\\frac{8\\sqrt{2}-4\\ln(1+\\sqrt{2})}{3\\pi}",
+    "status": 2,
+    "id": "20-67",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1488160291552915458?t=3SzyoSFRXjuuuC9V9f8z0Q&s=19",
     "solution_uri": "section20/20-71.bmd",
     "TeX": "\\int _{0}^{\\infty }\\frac {\\ln x}{\\cosh ^{2}x}dx=\\ln \\frac {\\pi }4-\\gamma ",
