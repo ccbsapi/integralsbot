@@ -1,0 +1,32 @@
+&&&thm
+&&&math
+\int _{0}^{1}\frac {\ln (1+\sqrt x)}{1+x^{2}}dx
+=\frac {\pi \ln 2}{16}+\frac {\pi \ln (1+\sqrt 2)}4-\frac {\beta (2)}2
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{1}\frac {\ln (1+\sqrt x)}{1+x^{2}}dx
+&=\int _{1}^{\infty }\frac {\ln (1+\sqrt x)-\ln \sqrt x}{1+x^{2}}dx\\
+&=\frac {1}2\int _{0}^{\infty }\frac {\ln (1+\sqrt x)}{1+x^{2}}dx-\frac {1}4\int _{1}^{\infty }\frac {\ln x}{1+x^{2}}dx\\
+&=\int _{0}^{\infty }\frac {x\ln (1+x)}{1+x^{4}}dx-\frac {1}4\beta (2)\\
+&=\Re \left (\int _{0}^{\infty }\frac {ix\log (1+ix)}{1+x^{4}}idx+2\pi i
+\underset{z=e^{\pi i/4}}{\mathrm {Res}}\frac {\log (1+z)}{1+z^{4}}
+\right )-\frac {1}4\beta (2)\\
+&=-\frac {1}2\int _{0}^{\infty }\frac {x\ln (1+x^{2})}{1+x^{4}}dx+\frac {\pi }2\Re \log (1+e^{\pi i/4})-\frac {1}4\beta (2)\\
+&=-\frac {1}4\int _{0}^{\infty }\frac {\ln (1+x)}{1+x^{2}}dx+\frac {\pi }4\ln (2+\sqrt 2)-\frac {1}4\beta (2)\\
+&=-\frac {1}4\left (\frac {\pi \ln 2}4+\beta (2)\right )+\frac {\pi \ln 2}8+\frac {\pi \ln (1+\sqrt 2)}4-\frac {\beta (2)}4\\
+&=\textcolor {blue}{\frac {\pi \ln 2}{16}+\frac {\pi \ln (1+\sqrt 2)}4-\frac {\beta (2)}2}.\\
+\end{aligned}
+&&&
+
+因みに虚部に着目すれば
+&&&math
+\begin{aligned}
+\int _{0}^{\infty }\frac {x\arctan x}{1+x^{4}}dx&=\frac {\pi }2\Im \log (1+e^{\pi i/4})\\
+&=\textcolor {blue}{\frac {\pi ^{2}}{16}}.
+\end {aligned}
+&&&
+&&&

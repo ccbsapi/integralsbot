@@ -75,6 +75,14 @@
     "keywords":[]
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1479153875987087361?t=CyOyXWzDcpgw_ybOsrD8BA&s=19",
+    "solution_uri": "section3/3-2.bmd",
+    "TeX": "\\int _{0}^{1}\\frac {\\ln (1+\\sqrt x)}{1+x^{2}}dx=\\frac {\\pi \\ln 2}{16}+\\frac {\\pi \\ln (1+\\sqrt 2)}4-\\frac {\\beta (2)}2",
+    "status": "3",
+    "id": "3-2",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1489368251348172802?t=tddN1-kaXtzORFms2iQidw&s=19",
     "solution_uri":"",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\sqrt x\\tan ^{-1}x\\ \\ln \\left (1+x^{2}\\right )}{1+x^2} dx=\\frac {\\pi }{6\\sqrt 2}\\left (12\\beta (2)+9\\ln ^{2}2+3\\pi \\ln 2+\\pi ^{2}\\right )",
@@ -90,6 +98,14 @@
     "solver" : "benri",
     "id":"3-4",
     "keywords" : []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1466794514543427585?t=BDaQ_6WGVoNY27U-MM0kmQ&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2021/12/integral-of-day-xiii.html?m=1",
+    "TeX": "\\int _{0}^{\\pi }\\frac {\\ln \\left (1+\\frac {\\cos x}2\\right )}{\\cos x}dx=\\zeta (2)",
+    "status": "2",
+    "id": "3-5",
+    "keywords": []
   },
   {
     "tw_uri":"",
@@ -132,6 +148,14 @@
     "id":"3-21",
     "keywords":[],
     "solver":"Benri"
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1464242969972977665?t=CidS7CjtI4Z9XQSKJy6laA&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2021/11/integral-of-day-ix.html?m=1",
+    "TeX": "\\int_0^1\\frac{x^2}{1+x^2}\\sqrt{\\frac{1-x}{1+x}}\\,dx=\\frac{\\ln(1+\\sqrt{2})}{\\sqrt{2}}+\\left(1-\\frac 1{\\sqrt{2}}\\right)\\frac{\\pi}2-1",
+    "status": "2",
+    "id": "3-22",
+    "keywords": []
   },
   {
     "tw_uri":"https://twitter.com/integralsbot/status/1488190494647599107?t=VoB-2wskjRv14x3HkWUjvw&s=19",
@@ -238,6 +262,22 @@
     "keywords":[]
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1466703923881058304?t=vrak5GP5f6_iX6mpHUHTNA&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2021/12/integral-of-day-xii.html?m=1",
+    "TeX": "\\int_0^{\\pi}\\frac{\\ln(1-2a\\cos x+a^2)}{1-2a\\cos x+a^2}\\,dx=\\frac{2\\pi\\ln(1-a^2)}{1-a^2}",
+    "status": "2",
+    "id": "6-27",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1488734074428866560?t=WKtkkCgUP_gHvewp3KD6lg&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2022/02/integral-of-day-xxiii.html?m=1",
+    "TeX": "\\int _{0}^{\\frac {\\pi }4}\\frac {dx}{1+\\sqrt {1-\\tan ^{2}x}}=\\frac {-1+2\\sqrt 2}4\\pi -1",
+    "status": "2",
+    "id": "6-29",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1460467830542172160?t=CSXpvq6a3Or5PKT-GNfX1Q&s=19",
     "solution_uri":"https://mymatexnotes.blogspot.com/2021/12/int-x1x21tanhpix2dx.html?m=1",
     "TeX":"\\int _{0}^{\\infty }\\frac {x}{(1+x^{2})^{2}}\\frac {dx}{\\tanh \\frac {\\pi x}2}=\\frac {\\pi ^{2}}8-\\frac {1}2",
@@ -334,6 +374,14 @@
     "keywords":[]
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1422846853989634049?t=MfMbl8QpOxJm4zHRSTo2Ig&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2021/08/hurwitz-zeta-function.html?m=1",
+    "TeX": "\\int_0^1\\frac{x^n\\ln^{a-1}\\frac 1x}{1-x}\\,dx=\\Gamma(a)(\\zeta(a)-H_n^{(a)})",
+    "status": "",
+    "id": "10-4",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1436815113789472770?t=aSooqDO5ebBix8WyAHYNTw&s=19",
     "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437169974934745089?t=AzsYd_d61FIhtBOpGwcD0A&s=19",
     "TeX":"\\begin {aligned}\n\\int _{0}^{1}\\left (\\frac {1}{\\ln x}+\\frac {1}{1-x}\\right )x^{a-1}\\ln ^{s-1}\\frac {1}xdx\n\n&=\\Gamma (s)\\left (\\zeta (s,a)+\\frac {a^{s-1}}{1-s}\\right )\\\\\n\\\\\n\\Re s,a>0\n\\end {aligned}",
@@ -423,6 +471,14 @@
     "keywords":[]
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1486348352984092674?t=7DF30LibQhiB72uK60Ozwg&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2022/01/integral-of-day-xxii.html?m=1",
+    "TeX": "\\int _{0}^{\\infty }\\frac {\\ln \\cos ^{2}x}{x^{2}}dx=-\\pi ",
+    "status": "2",
+    "id": "18-5",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1436504932153114625?t=3SygotP5YLi44RmutPHVMA&s=19",
     "solution_uri":"section18/18-7.bmd",
     "TeX":"\\int _{0}^{\\frac {\\pi }2}\\tan^{-1} \\tan ^{s}x\\,dx\n=\\frac {\\pi ^{2}}8",
@@ -455,6 +511,14 @@
     "status":2,
     "id":"20-3",
     "keywords":[]
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1475310633126346752?t=bFVK7mbrp1DiR4LNW0T88g&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2021/12/integral-of-day-xviii.html?m=1",
+    "TeX": "\\begin {aligned}\n\\int _{0}^{\\frac {\\pi }2}\\frac {\\cos \\alpha x\\cos ^{\\alpha }x}{\\cosh 2\\beta -\\cos 2x}dx&=\\frac {\\pi }{4e^{\\alpha \\beta }\\sinh \\beta \\cosh ^{1-\\alpha }\\beta }\n\\\\\\\\\n\\alpha >-1&,\\beta >0\n\\end {aligned}",
+    "status": "2",
+    "id": "20-4",
+    "keywords": []
   },
   {
     "tw_uri":"",
