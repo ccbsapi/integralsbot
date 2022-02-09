@@ -377,7 +377,7 @@
     "tw_uri": "https://twitter.com/integralsbot/status/1422846853989634049?t=MfMbl8QpOxJm4zHRSTo2Ig&s=19",
     "solution_uri": "https://mathdaynotes.blogspot.com/2021/08/hurwitz-zeta-function.html?m=1",
     "TeX": "\\int_0^1\\frac{x^n\\ln^{a-1}\\frac 1x}{1-x}\\,dx=\\Gamma(a)(\\zeta(a)-H_n^{(a)})",
-    "status": "",
+    "status": 2,
     "id": "10-4",
     "keywords": []
   },
