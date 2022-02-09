@@ -1,0 +1,13 @@
+&&&thm
+&&&math
+
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }\frac {\sqrt x\arctan x}{1+x^{2}}dx&=2\int _{0}^{\infty }\frac {x^{2}\arctan x^{2}}{1+x^{4}}dx
+\end {aligned}
+&&&
+&&&
