@@ -1,0 +1,46 @@
+&&&thm
+&&&math
+\int _{0}^{\infty }\frac {\sqrt x\arctan x}{1+x^{2}}dx
+=\frac {\pi \left (\pi +\ln 4\right )\sqrt 2}8
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }\frac {\sqrt x\arctan x}{1+x^{2}}dx
+&=2\int _{0}^{\infty }\frac {x^{2}\arctan x^{2}}{1+x^{4}}dx
+\end {aligned}
+&&&
+ここで
+&&&math
+\begin {aligned}
+f(a)&:=\int _{0}^{\infty }\frac {x^{2}\arctan ax^{2}}{1+x^{4}}dx
+\end {aligned}
+&&&
+とすると、\(a\neq 1\)のとき
+&&&math
+\begin {aligned}
+f'(a)&=\int _{0}^{\infty }\frac {x^{4}}{\left (1+x^{4}\right )\left (1+a^{2}x^{4}\right )}dx\\
+&=\frac {1}{a^{2}-1}\int _{0}^{\infty }\left (\frac {1}{1+x^4}-\frac {1}{1+a^{2}x^{4}}\right )dx\\
+&=\frac {1}{a^{2}-1}\left (1-\frac {1}{\sqrt a}\right )\int _{0}^{\infty }\frac {dx}{1+x^{4}}\\
+&=\frac {1}{a^{2}-1}\left (1-\frac {1}{\sqrt a}\right )\frac {\pi }{2\sqrt 2}
+\end {aligned}
+&&&
+なので、
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }\frac {\sqrt x\arctan x}{1+x^{2}}dx
+&=2\int _{0}^{\infty }\frac {x^{2}\arctan x^{2}}{1+x^{4}}dx\\
+&=2\lim _{a\to 1}\left (f(a)-f(0)\right )\\
+&=2\int _{0}^{1}f'(x)dx\\
+&=\frac {\pi }{\sqrt 2}\int _{0}^{1}\frac {1}{x^{2}-1}\left (1-\frac {1}{\sqrt x}\right )dx\\
+&=\sqrt 2\pi \int _{0}^{1}\frac {x-1}{x^{4}-1}dx\\
+&=\sqrt 2\pi \int _{0}^{1}\frac {dx}{(x+1)(x^{2}+1)}\\
+&=\frac {\pi }{\sqrt 2}\int _{0}^{1}\left (\frac {1}{x+1}-\frac {x-1}{1+x^{2}}\right )dx\\
+&=\frac {\pi }{\sqrt 2}\left [\ln (1+x)-\frac {\ln (1+x^{2})}2+\arctan x\right ]_0^1\\
+&=\frac {\pi }{\sqrt 2}\left (\frac {\ln 2}2+\frac {\pi }4\right )\\
+&=\textcolor {blue}{\frac {\pi \left (\pi +\ln 4\right )\sqrt 2}8}.
+\end {aligned}
+&&&
+&&&
