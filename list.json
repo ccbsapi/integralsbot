@@ -198,6 +198,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1432926358229839878?t=CGB1DRcJC_sBRuc99z76xw&s=19",
+    "solution_uri": "section5/5-1.bmd",
+    "TeX": "\\int _{0}^{\\pi }\\tan ^{-1}\\frac {\\ln \\sin x}xdx\n=-\\pi \\tan ^{-1}\\frac {2\\ln 2}\\pi",
+    "status": 3,
+    "id": "5-1",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1419684104384118784?t=3D3mziHYdoFT2jSFVrI4nw&s=19",
     "solution_uri": "https://twitter.com/qq3023625451/status/1419700951007436809?t=S_eyeTP17-jnDEP1k84V2g&s=19",
     "TeX": "\\int _{0}^{\\frac {\\pi }2}\\ln \\left (x^{2}+\\ln ^{2}\\cos x\\right )dx=\\pi \\ln \\ln 2",
