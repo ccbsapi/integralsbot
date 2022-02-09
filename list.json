@@ -479,9 +479,9 @@
     "solver": "Benri"
   },
   {
-    "tw_uri": "",
+    "tw_uri": "https://twitter.com/integralsbot/status/1488462285383221250?t=OPlWfm7jjFZamlm9hwfteg&s=19",
     "solution_uri": "https://mathlog.info/articles/1941",
-    "TeX": "\\int_{\\mathbb{R}^n}e^{-\\langle Ax,x\\rangle}\\,dx=|\\mathrm{det}(\\pi^{-1}A)|^{-1/2}=\\pi^{n/2}|\\mathrm{det}A|^{-1/2}",
+    "TeX": "A\\text{ is positive definite}\\\\\\,\\\\\\int_{\\mathbb{R}^n}e^{-\\langle Ax,x\\rangle}\\,dx=|\\mathrm{det}(\\pi^{-1}A)|^{-\\frac 12}=\\pi^{\\frac n2}|\\mathrm{det}A|^{-\\frac 12}",
     "status": 2,
     "id": "17-1",
     "keywords": []
