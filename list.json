@@ -430,6 +430,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1431491888553476098?t=UKUjltwTGtZTj5vA1QDxNw&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1431605343197425667?t=g-DzKOuDLhQRHLs0VFoLWA&s=19",
+    "TeX": "\\int_0^{\\infty}\\frac{e^{-\\alpha\\sqrt{1+x^2}}}{\\sqrt{1+x^2}}J_1(\\beta x)\\,dx=\\frac{e^{-\\alpha}-e^{-\\sqrt{\\alpha^2+\\beta^2}}}{\\beta}\\\\\n\\\\\\,\n\\alpha ,\\beta >0",
+    "status": 2,
+    "id": "13-3",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1430805677526585346?t=5_rNgad28zTElgPkchMArQ&s=19",
     "solution_uri": "https://math.stackexchange.com/questions/395818/closed-form-for-int-0-infty-ln-fracj-mux2y-mux2j-nux2y-nux?noredirect=1",
     "TeX": "\\int_0^{\\infty}\\ln\\frac{J_{\\mu}(x)^2+Y_{\\mu}(x)^2}{J_{\\nu}(x)^2+Y_{\\nu}(x)^2}\\,dx=\\frac{\\pi(\\mu^2-\\nu^2)}{2}",
