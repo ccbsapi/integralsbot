@@ -374,6 +374,14 @@
     "keywords":[]
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1422846853989634049?t=MfMbl8QpOxJm4zHRSTo2Ig&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2021/08/hurwitz-zeta-function.html?m=1",
+    "TeX": "\\int_0^1\\frac{x^n\\ln^{a-1}\\frac 1x}{1-x}\\,dx=\\Gamma(a)(\\zeta(a)-H_n^{(a)})",
+    "status": "",
+    "id": "10-4",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1436815113789472770?t=aSooqDO5ebBix8WyAHYNTw&s=19",
     "solution_uri":"https://twitter.com/AlbahariRicardo/status/1437169974934745089?t=AzsYd_d61FIhtBOpGwcD0A&s=19",
     "TeX":"\\begin {aligned}\n\\int _{0}^{1}\\left (\\frac {1}{\\ln x}+\\frac {1}{1-x}\\right )x^{a-1}\\ln ^{s-1}\\frac {1}xdx\n\n&=\\Gamma (s)\\left (\\zeta (s,a)+\\frac {a^{s-1}}{1-s}\\right )\\\\\n\\\\\n\\Re s,a>0\n\\end {aligned}",
