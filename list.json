@@ -150,6 +150,14 @@
     "solver":"Benri"
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1464242969972977665?t=CidS7CjtI4Z9XQSKJy6laA&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2021/11/integral-of-day-ix.html?m=1",
+    "TeX": "\\int_0^1\\frac{x^2}{1+x^2}\\sqrt{\\frac{1-x}{1+x}}\\,dx=\\frac{\\ln(1+\\sqrt{2})}{\\sqrt{2}}+\\left(1-\\frac 1{\\sqrt{2}}\\right)\\frac{\\pi}2-1",
+    "status": "2",
+    "id": "3-22",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1488190494647599107?t=VoB-2wskjRv14x3HkWUjvw&s=19",
     "solution_uri":"https://mathlog.info/articles/1929",
     "TeX":"\\int_0^1\\frac{\\ln(1-x)}{\\sqrt{x-x^3}}\\,dx=\\frac{\\Gamma\\left(\\frac 14\\right)^2}{4\\sqrt{2\\pi}}(\\ln 2-\\pi)",
