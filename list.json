@@ -374,6 +374,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1432345707193667607?t=CcHoLAgNi-YVkmFgvoRCGA&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1432513247584800771?t=wvz_jl9CalAj-o8kMrm4Pw&s=19",
+    "TeX": "\\begin{align*}\n\n\\operatorname\\Re a+b+c+d&>3\\\\\\\\\n\\int_{-\\infty}^{\\infty}\\frac{dx}{\\Gamma(a+x)\\Gamma(b+x)\\Gamma(c-x)\\Gamma(d-x)}&=\\frac{\\Gamma(a+b+c+d-3)}{\\Gamma(a+c-1)\\Gamma(a+d-1)\\Gamma(b+c-1)\\Gamma(b+d-1)} \n\\end{align*}",
+    "status": 2,
+    "id": "8-4",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1876",
     "TeX": "\\int_{-\\infty}^{\\infty}\\ln(2-2\\cos x^2)\\,dx=-\\sqrt{2\\pi}\\zeta\\left(\\frac 32\\right)",
@@ -422,6 +430,22 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1431491888553476098?t=UKUjltwTGtZTj5vA1QDxNw&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1431605343197425667?t=g-DzKOuDLhQRHLs0VFoLWA&s=19",
+    "TeX": "\\int_0^{\\infty}\\frac{e^{-\\alpha\\sqrt{1+x^2}}}{\\sqrt{1+x^2}}J_1(\\beta x)\\,dx=\\frac{e^{-\\alpha}-e^{-\\sqrt{\\alpha^2+\\beta^2}}}{\\beta}\\\\\n\\\\\\,\n\\alpha ,\\beta >0",
+    "status": 2,
+    "id": "13-3",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1430805677526585346?t=5_rNgad28zTElgPkchMArQ&s=19",
+    "solution_uri": "https://math.stackexchange.com/questions/395818/closed-form-for-int-0-infty-ln-fracj-mux2y-mux2j-nux2y-nux?noredirect=1",
+    "TeX": "\\int_0^{\\infty}\\ln\\frac{J_{\\mu}(x)^2+Y_{\\mu}(x)^2}{J_{\\nu}(x)^2+Y_{\\nu}(x)^2}\\,dx=\\frac{\\pi(\\mu^2-\\nu^2)}{2}",
+    "status": 2,
+    "id": "13-4",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1480852148372254720?t=tf991KMKD6gpA4hoakDWYQ&s=19",
     "solution_uri": "https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
     "TeX": "\\int _{0}^{\\infty }\\frac {\\cos x-e^{-x}}xdx=0",
@@ -455,11 +479,19 @@
     "solver": "Benri"
   },
   {
-    "tw_uri": "",
+    "tw_uri": "https://twitter.com/integralsbot/status/1488462285383221250?t=OPlWfm7jjFZamlm9hwfteg&s=19",
     "solution_uri": "https://mathlog.info/articles/1941",
-    "TeX": "\\int_{\\mathbb{R}^n}e^{-\\langle Ax,x\\rangle}\\,dx=|\\mathrm{det}(\\pi^{-1}A)|^{-1/2}=\\pi^{n/2}|\\mathrm{det}A|^{-1/2}",
+    "TeX": "A\\text{ is positive definite}\\\\\\,\\\\\\int_{\\mathbb{R}^n}e^{-\\langle Ax,x\\rangle}\\,dx=|\\mathrm{det}(\\pi^{-1}A)|^{-\\frac 12}=\\pi^{\\frac n2}|\\mathrm{det}A|^{-\\frac 12}",
     "status": 2,
     "id": "17-1",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1431642904099913735?t=YN5ZsWn0O-pho0tisdmd1Q&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1431824380204503040?t=lH3vtPpdtsE3M1v2xeCrqQ&s=19",
+    "TeX": "\\int_0^{\\infty}\\int_0^{\\infty}e^{-x^2+y^2+2xy\\cos\\theta}\\,dxdy=\\frac{\\theta}{2\\sin\\theta}\\\\\n\\,\\\\\n-\\pi <\\theta <\\pi ",
+    "status": 2,
+    "id": "17-2",
     "keywords": []
   },
   {
@@ -484,6 +516,14 @@
     "TeX": "\\int _{0}^{\\infty }\\frac {\\ln \\cos ^{2}x}{x^{2}}dx=-\\pi ",
     "status": 2,
     "id": "18-5",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1431069116090093573?t=xPxyH0hvS_py_DDtxwZDfA&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1431121175778783258?t=Oay4vyv6cdSxAhnFi98hPg&s=19",
+    "TeX": "\\int _{-\\infty }^{\\infty }\\frac {\\cos \\left (\\frac {r}2\\ln \\left (1+a^{2}x^{2}\\right )\\right )\\cosh \\left (r\\tan ^{-1}ax\\right )}{1+x^2}=\\pi \\cos \\left (r\\ln (1+a)\\right )\\\\\n\\,\\\\\na>0,r\\in \\R",
+    "status": 2,
+    "id": "18-6",
     "keywords": []
   },
   {
@@ -550,6 +590,14 @@
     "TeX": "\\int_0^1\\frac{x^2\\ln\\frac 1x}{(1-x^4)\\left(\\pi^2+\\left(\\ln\\frac{1+x}{1-x}+2\\tan^{-1}\\frac 1x\\right)^2\\right)}\\,dx=\\frac 1{32}\\log\\frac{\\pi^2}{8}",
     "status": 2,
     "id": "20-9",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1446780725689081861?t=tCD0bds6mTmrZuy1BCfVXA&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1446810030678818816?t=QTDlUr_1ilWK7OUVgKvHlw&s=19",
+    "TeX": "\\begin{align*}\n\\int_0^{\\pi}\\frac 1{(1-2a\\cos mx+a^2)(1-2b\\cos nx+b^2)}\\,dx&=\\frac{\\pi(1+a^nb^m)}{(1-a^2)(1-b^2)(1-a^nb^m)}\n\\\\\\\\\nn,m\\in \\Z_{>0},\\ \\gcd(m,n)&=1\n\\end{align*}",
+    "status": 2,
+    "id": "20-15",
     "keywords": []
   },
   {
@@ -641,11 +689,27 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1431085272574279681?t=P0-JliAGwfjP2kGcydXcSw&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1431563970515648512?t=TBbB3_tg-AAYiSscxWTWLA&s=19",
+    "TeX": "\\int_0^{\\infty}\\prod_{k=1}^n\\frac{k^2}{k^2+x^2}\\,dx=\\frac{\\pi}2\\frac{n}{2n-1}",
+    "status": 2,
+    "id": "20-57",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1437041547426492416?t=UVhi9rr8ma2RX51ZXDobpg&s=19",
     "solution_uri": "https://twitter.com/BenriBot_ccbs/status/1437056555979919363?t=ouhk69H3CuZQrucaWe1gyg&s=19",
     "TeX": "\\int _{-\\infty }^{\\infty }\\frac {\\sin x}{x-i}dx=\\frac {\\pi }e",
     "status": 2,
     "id": "20-63",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1433304402719240196?t=wOEVkaK8gMu9JI9Zz5yYsQ&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1433324160780963840?t=LU5XE1fn9y1Mu_i_mOapEg&s=19",
+    "TeX": "\\int_0^1\\left(_2F_1\\left [\\begin{matrix}{-\\frac 14,\\frac 54}\\\\{1}\\end{matrix};{\\frac x2}\\right]\\right)^2\\,dx=\\frac{8\\sqrt{2}-4\\ln(1+\\sqrt{2})}{3\\pi}",
+    "status": 2,
+    "id": "20-67",
     "keywords": []
   },
   {
@@ -663,6 +727,14 @@
     "TeX": "\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {a^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
     "status": 2,
     "id": "20-81",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1450653158947000326?t=PMFyCJPmObZKMh3zCfcYjQ&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1451055505271508992?t=QFYNKDteRRcauLjAvwMk1g&s=19",
+    "TeX": "\\int_0^{\\infty}\\frac{\\cos ax-e^{-bx}}{x(x^4+b^4)}\\,dx=\\frac{\\pi}{2b^4e^{\\frac {ab}{\\sqrt{2}}}}\\sin\\frac{ab}{\\sqrt{2}}",
+    "status": 2,
+    "id": "20-91",
     "keywords": []
   },
   {
