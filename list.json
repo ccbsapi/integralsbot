@@ -745,6 +745,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1419405013831454721?t=73uXlhUBm-mFpCFShoNNhw&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1419665470295138304?t=ZqjzKLIVjyDDZ512BrYNig&s=19",
+    "TeX": "\\int_0^{\\infty}\\frac{e^{-(\\alpha x)^2}}{\\cosh\\pi x}\\,dx=\\frac 1{\\sqrt{\\pi}}\\int_0^{\\infty}\\frac{e^{-x^2}}{\\cosh\\alpha x}",
+    "status": 2,
+    "id": "20-42",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1876",
     "TeX": "\\int_0^{\\pi/4}\\frac{\\tan^{2e}x-2\\sin^2 x}{\\sin 2x\\ln\\tan x}\\,dx=\\frac 12\\left(1+\\ln\\frac{\\pi}2\\right)",
