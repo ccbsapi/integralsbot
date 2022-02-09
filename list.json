@@ -481,6 +481,14 @@
     "keywords":[]
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1475310633126346752?t=bFVK7mbrp1DiR4LNW0T88g&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2021/12/integral-of-day-xviii.html?m=1",
+    "TeX": "\\begin {aligned}\n\\int _{0}^{\\frac {\\pi }2}\\frac {\\cos \\alpha x\\cos ^{\\alpha }x}{\\cosh 2\\beta -\\cos 2x}dx&=\\frac {\\pi }{4e^{\\alpha \\beta }\\sinh \\beta \\cosh ^{1-\\alpha }\\beta }\n\\\\\\\\\n\\alpha >-1&,\\beta >0\n\\end {aligned}",
+    "status": "2",
+    "id": "20-4",
+    "keywords": []
+  },
+  {
     "tw_uri":"",
     "solution_uri":"https://mathlog.info/articles/1913",
     "TeX":"\\int_{-\\infty}^{\\infty}\\frac{\\sin\\left(x-\\frac ax\\right)}{x+\\frac 1x}\\,dx=\\frac{\\pi}{e^{1+a}}",
