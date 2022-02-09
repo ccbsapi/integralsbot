@@ -422,6 +422,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1430805677526585346?t=5_rNgad28zTElgPkchMArQ&s=19",
+    "solution_uri": "https://math.stackexchange.com/questions/395818/closed-form-for-int-0-infty-ln-fracj-mux2y-mux2j-nux2y-nux?noredirect=1",
+    "TeX": "\\int_0^{\\infty}\\ln\\frac{J_{\\mu}(x)^2+Y_{\\mu}(x)^2}{J_{\\nu}(x)^2+Y_{\\nu}(x)^2}\\,dx=\\frac{\\pi(\\mu^2-\\nu^2)}{2}",
+    "status": 2,
+    "id": "13-4",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1480852148372254720?t=tf991KMKD6gpA4hoakDWYQ&s=19",
     "solution_uri": "https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
     "TeX": "\\int _{0}^{\\infty }\\frac {\\cos x-e^{-x}}xdx=0",
