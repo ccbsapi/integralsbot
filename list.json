@@ -519,6 +519,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1431069116090093573?t=xPxyH0hvS_py_DDtxwZDfA&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1431121175778783258?t=Oay4vyv6cdSxAhnFi98hPg&s=19",
+    "TeX": "\\int _{-\\infty }^{\\infty }\\frac {\\cos \\left (\\frac {r}2\\ln \\left (1+a^{2}x^{2}\\right )\\right )\\cosh \\left (r\\tan ^{-1}ax\\right )}{1+x^2}=\\pi \\cos \\left (r\\ln (1+a)\\right )\\\\\n\\,\\\\\na>0,r\\in \\R",
+    "status": 2,
+    "id": "18-6",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1436504932153114625?t=3SygotP5YLi44RmutPHVMA&s=19",
     "solution_uri": "section18/18-7.bmd",
     "TeX": "\\int _{0}^{\\frac {\\pi }2}\\tan^{-1} \\tan ^{s}x\\,dx\n=\\frac {\\pi ^{2}}8",
