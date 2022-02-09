@@ -75,6 +75,14 @@
     "keywords":[]
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1479153875987087361?t=CyOyXWzDcpgw_ybOsrD8BA&s=19",
+    "solution_uri": "section3/3-2.bmd",
+    "TeX": "\\int _{0}^{1}\\frac {\\ln (1+\\sqrt x)}{1+x^{2}}dx=\\frac {\\pi \\ln 2}{16}+\\frac {\\pi \\ln (1+\\sqrt 2)}4-\\frac {\\beta (2)}2",
+    "status": "3",
+    "id": "3-2",
+    "keywords": []
+  },
+  {
     "tw_uri":"https://twitter.com/integralsbot/status/1489368251348172802?t=tddN1-kaXtzORFms2iQidw&s=19",
     "solution_uri":"",
     "TeX":"\\int _{0}^{\\infty }\\frac {\\sqrt x\\tan ^{-1}x\\ \\ln \\left (1+x^{2}\\right )}{1+x^2} dx=\\frac {\\pi }{6\\sqrt 2}\\left (12\\beta (2)+9\\ln ^{2}2+3\\pi \\ln 2+\\pi ^{2}\\right )",
