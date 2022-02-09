@@ -462,6 +462,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1419231113558384641?t=gTjMYvz6yTa5ll6hpGQduQ&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1419645654289113094?t=wQh0n48ymKdbLhW23ozr1A&s=19",
+    "TeX": "\\Re\\int_0^{\\infty}\\frac{\\sin^3 x}{x}f(e^{2ix})\\,dx=\\frac{\\pi}8(2f(0)-f'(0))",
+    "status": 2,
+    "id": "11-1",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1489791040831721472?t=L40x0p4ZA1vUcc39dL_wdQ&s=19",
     "solution_uri": "https://mathlog.info/articles/1876",
     "TeX": "\\begin {aligned}\nf\\text{ is an odd function with period }T\\\\\\\\\n\\int_0^{\\infty}\\frac{f(x)}{x}\\,dx=\\frac{\\pi}T\\int_0^{\\frac T2}\\frac{f(x)}{\\tan\\frac{\\pi x}{T}}\\,dx\n\\end {aligned}",
