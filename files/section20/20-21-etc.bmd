@@ -1,0 +1,20 @@
+&&&thm
+&&&math
+\int _{-\infty }^{\infty }e^{-ab\cosh x+iac\sinh x-\frac {x}2}dx
+=\sqrt {\frac {2\pi }{a\sqrt {b^{2}+c^{2}}}}e^{-a\sqrt {b^{2}+c^{2}}-\frac {i}2\arctan \frac {c}b}
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}\\
+\int _{-\infty }^{\infty }e^{-ab\cosh x+iac\sinh x-\frac {x}2}dx
+&=2\int _{0}^{\infty }\exp \left [-\frac {a}2\left (b\left (t^{2}+\frac {1}{t^{2}}\right )+ic\left (t^{2}-\frac {1}{t^{2}}\right )\right ) \right ]dt\quad \left (t=e^{-\frac {x}2}\right )\\
+&=2\int _{0}^{\infty }\exp\left [-\frac {a}2\left ((b+ic)t^2+\frac{b-ic}{t^{2}}\right )\right ]dt\\
+&=2\int _{0}^{\infty }\exp \left [-\frac {a}2\left (\sqrt {b+ic}\cdot t-\frac {\sqrt {b-ic}}t\right )^2-a\sqrt {b^{2}+c^{2}}\right ]dt\\
+&=\frac {2e^{-a\sqrt {b^{2}+c^{2}}}}{\sqrt {b+ic}}\int _{0}^{\infty }e^{-\frac {a}2t^2}dt\quad \quad \left (\text{The Cauchy-Schlömilch transformation}\right )\\
+&=\sqrt {\frac {2\pi }a}e^{-a\sqrt {b^{2}+c^{2}}}\frac {1}{\sqrt {b+ic}}\\
+&=\textcolor {blue}{\sqrt {\frac {2\pi }{a\sqrt {b^{2}+c^{2}}}}e^{-a\sqrt {b^{2}+c^{2}}-\frac {i}2\arctan \frac {c}b}}.
+\end {aligned}
+&&&
+&&&
