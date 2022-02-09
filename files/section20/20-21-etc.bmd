@@ -1,0 +1,44 @@
+&&&thm
+&&&math
+\int _{-\infty }^{\infty }e^{-ab\cosh x+iac\sinh x-\frac {x}2}dx
+=\sqrt {\frac {2\pi }{a\sqrt {b^{2}+c^{2}}}}e^{-a\sqrt {b^{2}+c^{2}}-\frac {i}2\arctan \frac {c}b}
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}\\
+\int _{-\infty }^{\infty }e^{-ab\cosh x+iac\sinh x-\frac {x}2}dx
+&=2\int _{0}^{\infty }\exp \left [-\frac {a}2\left (b\left (t^{2}+\frac {1}{t^{2}}\right )+ic\left (t^{2}-\frac {1}{t^{2}}\right )\right ) \right ]dt\quad \left (t=e^{-\frac {x}2}\right )\\
+&=2\int _{0}^{\infty }\exp\left [-\frac {a}2\left ((b+ic)t^2+\frac{b-ic}{t^{2}}\right )\right ]dt\\
+&=2\int _{0}^{\infty }\exp \left [-\frac {a}2\left (\sqrt {b+ic}\cdot t-\frac {\sqrt {b-ic}}t\right )^2-a\sqrt {b^{2}+c^{2}}\right ]dt\\
+&=\frac {2e^{-a\sqrt {b^{2}+c^{2}}}}{\sqrt {b+ic}}\int _{0}^{\infty }e^{-\frac {a}2t^2}dt\quad \quad \left (\text{The Cauchy-Schlömilch transformation}\right )\\
+&=\sqrt {\frac {2\pi }a}e^{-a\sqrt {b^{2}+c^{2}}}\frac {1}{\sqrt {b+ic}}\\
+&=\textcolor {blue}{\sqrt {\frac {2\pi }{a\sqrt {b^{2}+c^{2}}}}e^{-a\sqrt {b^{2}+c^{2}}-\frac {i}2\arctan \frac {c}b}}.
+\end {aligned}
+&&&
+&&&
+
+&&&thm
+&&&math
+\int _{0}^{\infty }\frac {e^{-\beta \sqrt {\alpha ^{2}+x^{2}}}\sqrt {\sqrt {\alpha ^{2}+x^{2}}-\alpha }}{\sqrt {\alpha ^{2}+x^{2}}}\sin \gamma xdx
+=\sqrt {\frac {\pi }2}\frac {\gamma e^{-\alpha \sqrt {\beta ^{2}+\gamma ^{2}}}}{\sqrt {\beta ^{2}+\gamma ^{2}}\sqrt {\beta ^{2}+\sqrt {\beta ^{2}+\gamma ^{2}}}}
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }\frac {e^{-\beta \sqrt {\alpha ^{2}+x^{2}}}\sqrt {\sqrt {\alpha ^{2}+x^{2}}-\alpha }}{\sqrt {\alpha ^{2}+x^{2}}}\sin \gamma xdx
+&=\int _{0}^{\infty }e^{-\alpha \beta \cosh t}\sqrt {\alpha \left (\cosh t-1\right )}\sin \left (\alpha \gamma \sinh t\right )dt\quad \quad \left (x=\alpha \sinh t\right )\\
+&=\sqrt {2\alpha }\int _{0}^{\infty }e^{-\alpha \beta \cosh t}\sinh \left (\frac {t}2\right )\sin \left (\alpha \gamma \sinh t\right )dt\\
+&=\sqrt {2\alpha }\int _{0}^{\infty }e^{-\alpha \beta \cosh t}\left (\frac {e^{\frac {t}2}-e^{-\frac {t}2}}{2}\right )\left (\frac {e^{i\alpha \gamma \sinh t}-e^{-i\alpha \gamma \sinh t}}{2i}\right )dt\\
+&=\frac {\sqrt {2\alpha }}{4i}\int _{0}^{\infty }e^{-\alpha \beta \cosh t}\left (e^{i\alpha \gamma \sinh t+\frac {t}2}+e^{-i\alpha \gamma \sinh t-\frac {t}2}-e^{i\alpha \gamma \sinh t-\frac {t}2}-e^{-i\alpha \gamma \sinh t+\frac {t}2}\right )dt\\
+&=\frac {\sqrt {2\alpha }}{4i}\int _{-\infty }^{\infty }e^{-\alpha \beta \cosh t}\left (e^{-i\alpha \gamma \sinh t-\frac {t}2}-e^{i\alpha \gamma \sinh t-\frac {t}2}{}\right )dt\\
+&=\frac {\sqrt {2\alpha }}{4i}\sqrt {\frac {2\pi }\alpha }e^{-\alpha \sqrt {\beta ^{2}+\gamma ^{2}}}\left (\frac {1}{\sqrt {\beta -\gamma i}}-\frac {1}{\sqrt {\beta +\gamma i}}\right )\\
+&=\frac {\sqrt \pi e^{-\alpha \sqrt {\beta ^{2}+\gamma ^{2}}}}{2i}\left (\frac {1}{\sqrt {\beta -\gamma i}}-\frac {1}{\sqrt {\beta +\gamma i}}\right )\\
+&=\sqrt \pi e^{-\alpha \sqrt {\beta ^{2}+\gamma ^{2}}}\sqrt {\frac {\sqrt {\beta ^{2}+\gamma ^{2}}-\beta }{2\left (\beta ^{2}+\gamma ^{2}\right )}}\\
+&=\sqrt {\frac {\pi }2}\frac {\gamma e^{-\alpha \sqrt {\beta ^{2}+\gamma ^{2}}}}{\sqrt {\beta ^{2}+\gamma ^{2}}\sqrt {\beta ^{2}+\sqrt {\beta ^{2}+\gamma ^{2}}}}
+\end {aligned}
+&&&
+&&&
