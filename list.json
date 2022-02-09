@@ -422,6 +422,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1419389656571867137?t=Ikcro83YDdu6yn7yrj2SuA&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1419661933939097603?t=T0yvn4bXQ-QludqEXtQipg&s=19",
+    "TeX": "\\int _{0}^{1}\\frac {dx}{1+\\ln ^{2}x}=\\int _{0}^{\\infty }\\frac {\\sin x}{1+x}dx",
+    "status": 2,
+    "id": "9-2",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1876",
     "TeX": "\\int_{-\\infty}^{\\infty}\\ln(2-2\\cos x^2)\\,dx=-\\sqrt{2\\pi}\\zeta\\left(\\frac 32\\right)",
