@@ -22,7 +22,7 @@
 &&&thm
 &&&math
 \int _{0}^{\infty }\frac {e^{-\beta \sqrt {\alpha ^{2}+x^{2}}}\sqrt {\sqrt {\alpha ^{2}+x^{2}}-\alpha }}{\sqrt {\alpha ^{2}+x^{2}}}\sin \gamma xdx
-&=\sqrt {\frac {\pi }2}\frac {\gamma e^{-\alpha \sqrt {\beta ^{2}+\gamma ^{2}}}}{\sqrt {\beta ^{2}+\gamma ^{2}}\sqrt {\beta ^{2}+\sqrt {\beta ^{2}+\gamma ^{2}}}}
+=\sqrt {\frac {\pi }2}\frac {\gamma e^{-\alpha \sqrt {\beta ^{2}+\gamma ^{2}}}}{\sqrt {\beta ^{2}+\gamma ^{2}}\sqrt {\beta ^{2}+\sqrt {\beta ^{2}+\gamma ^{2}}}}
 &&&
 &&&
 
