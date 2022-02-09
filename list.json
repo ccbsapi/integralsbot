@@ -618,6 +618,14 @@
   },
   {
     "tw_uri": "",
+    "solution_uri": "section20/20-22.bmd",
+    "TeX": "\\int _{-\\infty }^{\\infty }e^{-ab\\cosh x+iac\\sinh x-\\frac {x}2}dx\n=\\sqrt {\\frac {2\\pi }{a\\sqrt {b^{2}+c^{2}}}}e^{-a\\sqrt {b^{2}+c^{2}}-\\frac {i}2\\arctan \\frac {c}b}",
+    "status": 3,
+    "id": "20-22",
+    "keywords": []
+  },
+  {
+    "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1921",
     "TeX": "\\int_a^b\\sqrt{1+\\frac 1{\\sqrt{1+\\frac{f(x)}{f(a+b-x)}}}}\\,dx=(1+\\sqrt{2})\\int_a^b\\sqrt{1-\\frac 1{\\sqrt{1+\\frac{f(x)}{f(a+b-x)}}}}\\,dx",
     "status": 2,
