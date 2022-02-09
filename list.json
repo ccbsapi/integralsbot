@@ -255,7 +255,7 @@
   },
   {
     "tw_uri": "https://twitter.com/integralsbot/status/1466703923881058304?t=vrak5GP5f6_iX6mpHUHTNA&s=19",
-    "solution_uri": "https://twitter.com/integralsbot/status/1466703923881058304?t=QBU-k5fdVf7bf8-5m9lI7g&s=19",
+    "solution_uri": "https://mathdaynotes.blogspot.com/2021/12/integral-of-day-xii.html?m=1",
     "TeX": "\\int_0^{\\pi}\\frac{\\ln(1-2a\\cos x+a^2)}{1-2a\\cos x+a^2}\\,dx=\\frac{2\\pi\\ln(1-a^2)}{1-a^2}",
     "status": "2",
     "id": "6-27",
