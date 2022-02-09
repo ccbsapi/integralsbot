@@ -553,6 +553,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1446780725689081861?t=tCD0bds6mTmrZuy1BCfVXA&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1446810030678818816?t=QTDlUr_1ilWK7OUVgKvHlw&s=19",
+    "TeX": "\\begin{align*}\n\\int_0^{\\pi}\\frac 1{(1-2a\\cos mx+a^2)(1-2b\\cos nx+b^2)}\\,dx&=\\frac{\\pi(1+a^nb^m)}{(1-a^2)(1-b^2)(1-a^nb^m)}\n\\\\\\\\\nn,m\\in \\Z_{>0},\\ \\gcd(m,n)&=1\n\\end{align*}",
+    "status": 2,
+    "id": "20-15",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1933",
     "TeX": "\\int_a^{\\infty}(x-a)^m\\left(x-\\sqrt{x^2-a^2}\\right)^n\\,dx=\\frac{n(n-m-2)!(2m+1)!a^{m+n+1}}{2^m(m+n+1)!}",
