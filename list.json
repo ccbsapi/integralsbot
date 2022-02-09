@@ -681,6 +681,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1431085272574279681?t=P0-JliAGwfjP2kGcydXcSw&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1431563970515648512?t=TBbB3_tg-AAYiSscxWTWLA&s=19",
+    "TeX": "\\int_0^{\\infty}\\prod_{k=1}^n\\frac{k^2}{k^2+x^2}\\,dx=\\frac{\\pi}2\\frac{n}{2n-1}",
+    "status": 2,
+    "id": "20-57",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1437041547426492416?t=UVhi9rr8ma2RX51ZXDobpg&s=19",
     "solution_uri": "https://twitter.com/BenriBot_ccbs/status/1437056555979919363?t=ouhk69H3CuZQrucaWe1gyg&s=19",
     "TeX": "\\int _{-\\infty }^{\\infty }\\frac {\\sin x}{x-i}dx=\\frac {\\pi }e",
