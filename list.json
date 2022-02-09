@@ -689,6 +689,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1419374572197990401?t=Hel8-cZslw9U7dTvMCv7qQ&s=19",
+    "solution_uri": "https://twitter.com/qq3023625451/status/1419658367300104192?t=l-iLhU_gXcca4LI4a6yGyw&s=19",
+    "TeX": "\\int_0^{\\infty}x\\left(1-\\frac{\\sinh x}{\\cosh x-\\cos\\alpha}\\right)\\,dx=\\pi\\alpha-\\frac{\\alpha^2}2-\\frac{\\pi^2}3",
+    "status": 2,
+    "id": "20-24",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1921",
     "TeX": "\\int_a^b\\sqrt{1+\\frac 1{\\sqrt{1+\\frac{f(x)}{f(a+b-x)}}}}\\,dx=(1+\\sqrt{2})\\int_a^b\\sqrt{1-\\frac 1{\\sqrt{1+\\frac{f(x)}{f(a+b-x)}}}}\\,dx",
