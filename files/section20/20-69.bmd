@@ -1,0 +1,16 @@
+&&&thm
+&&&math
+
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+f(\alpha )&:=\int _{0}^{\frac {\pi }4}\frac {4\alpha \cos 2x}{1+\alpha ^{2}\sin ^{2}2x}\ln \frac {1}{\tan x}dx\\
+&\overset{IBP}=\left [2\arctan \left (\alpha \sin 2x\right )\ln \frac {1}{\tan x}\right ]_0^{\frac {\pi }4}+\int _{0}^{\frac {\pi }4}\frac {2\arctan \left (\alpha \sin 2x\right )}{\sin x\cos x}dx\\
+&=2\int _{0}^{\frac {\pi }2}\frac {\arctan \left (\alpha \sin x\right )}{\sin x}dx
+\end {aligned}
+&&&
+とおく。
+&&&
