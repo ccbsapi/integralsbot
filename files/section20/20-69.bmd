@@ -1,6 +1,7 @@
 &&&thm
 &&&math
-
+\int _{0}^{\frac {\pi }4}\frac {\cos 2x}{1+\alpha ^{2}\sin ^{2}2x}\ln \frac {1}{\tan x}dx
+=\frac {\pi }{4\alpha }\sinh ^{-1}\alpha 
 &&&
 &&&
 
@@ -13,4 +14,23 @@ f(\alpha )&:=\int _{0}^{\frac {\pi }4}\frac {4\alpha \cos 2x}{1+\alpha ^{2}\sin 
 \end {aligned}
 &&&
 とおく。
+&&&math
+\begin {aligned}
+f'(a)&=2\int _{0}^{\frac {\pi }2}\frac {dx}{1+\alpha ^{2}\sin ^{2}x}\\
+&=2\int _{0}^{\frac {\pi }2}\frac {1}{1+\tan ^{2}x+\alpha ^{2}\tan ^{2}x}\frac {dx}{\cos ^{2}x}\\
+&=2\int _{0}^{\infty }\frac {dt}{1+\left (1+\alpha ^{2}\right )t^{2}}\quad \quad \left (t=\tan x\right )\\
+&=\frac {\pi }{\sqrt {1+\alpha ^{2}}}
+\end {aligned}
+&&&
+であるから、
+&&&math
+\begin {aligned}
+\int _{0}^{\frac {\pi }4}\frac {\cos 2x}{1+\alpha ^{2}\sin ^{2}2x}\ln \frac {1}{\tan x}dx
+&=\frac {1}{4\alpha }f(\alpha )\\
+&=\frac {1}{4\alpha }\left (f(\alpha )-f(0)\right )\\
+&=\frac {1}{4\alpha }\int _{0}^{\alpha }f'(x)dx\\
+&=\frac {1}{4\alpha }\int _{0}^{\alpha }\frac {\pi }{\sqrt {1+x^{2}}}dx\\
+&=\textcolor{blue}{\frac {\pi }{4\alpha }\sinh ^{-1}\alpha }.
+\end {aligned}
+&&&
 &&&
