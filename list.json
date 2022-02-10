@@ -833,6 +833,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1436709491593023495?t=sHqnIfBZIuZpAF7taQOS3A&s=19",
+    "solution_uri": "section20/20-69.bmd",
+    "TeX": "\\int _{0}^{\\frac {\\pi }4}\\frac {\\cos 2x}{1+\\alpha ^{2}\\sin ^{2}2x}\\ln \\frac {1}{\\tan x}dx\n=\\frac {\\pi }{4\\alpha }\\sinh ^{-1}\\alpha ",
+    "status": 3,
+    "id": "20-69",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1488160291552915458?t=3SzyoSFRXjuuuC9V9f8z0Q&s=19",
     "solution_uri": "section20/20-71.bmd",
     "TeX": "\\int _{0}^{\\infty }\\frac {\\ln x}{\\cosh ^{2}x}dx=\\ln \\frac {\\pi }4-\\gamma ",
