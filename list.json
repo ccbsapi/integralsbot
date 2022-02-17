@@ -149,6 +149,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "",
+    "solution_uri": "section3/3-19.bmd",
+    "TeX": "\\int _{0}^{\\pi }\\frac {x\\left (\\sin \\frac {x}2-\\cos \\frac {x}2\\right )}{\\sqrt {\\sin x}}dx=2\\pi \\ln 2",
+    "status": 3,
+    "id": "3-19",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1448501944486563843?t=9EKWmhOfFxA2lvkwOE200w&s=19",
     "solution_uri": "b_logsin.bmd",
     "TeX": "\\int _{0}^{\\pi }\\ln \\left (2\\sin \\frac {x}2\\right )\\ln \\left (2\\cos \\frac {x}2\\right )dx\n=-\\frac {\\pi ^{3}}{24}",
