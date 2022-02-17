@@ -1,6 +1,7 @@
 &&&thm
 &&&math
-
+\int _{0}^{\pi }\frac {x\left (\sin \frac {x}2-\cos \frac {x}2\right )}{\sqrt {\sin x}}dx
+=2\pi \ln 2
 &&&
 &&&
 
