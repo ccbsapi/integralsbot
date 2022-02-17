@@ -1,0 +1,17 @@
+&&&thm
+&&&math
+
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\pi }\frac {x\left (\sin \frac {x}2-\cos \frac {x}2\right )}{\sqrt {\sin x}}dx
+&=4\int _{0}^{\frac {\pi }2}\frac {x\left (\sin x-\cos x\right )}{\sqrt {2\sin x\cos x}}dx\\
+&=2\sqrt 2\int _{0}^{\frac {\pi }2}\frac {x\left (\tan x-1\right )}{\sqrt {\tan x}}dx\\
+&=2\sqrt 2\int _{0}^{\infty }\frac {\arctan x\left (x-1\right )}{\sqrt x(1+x^2)}dx\\
+&=4\sqrt 2\int _{0}^{\infty }\frac {\left (1-x^{2}\right )\arctan x^{2}}{1+x^{4}}dx
+\end {aligned}
+&&&
+&&&
