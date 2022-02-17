@@ -35,5 +35,10 @@ J&=\frac {1}{a^{2}-1}\int _{0}^{\infty }\left (\frac {1}{1+x^4}-\frac {1}{1+a^{2
 &=\frac {1}{a^{2}-1}\left (1-\frac {1}{\sqrt a}\right )\frac {\pi }{2\sqrt 2}
 \end {aligned}
 &&&
-
+したがって
+&&&math
+\begin {aligned}
+f'(a)&=\frac {\pi }{2\sqrt 2(1-a^2)}\left (\frac {1}{\sqrt a}-\sqrt a\right )
+\end {aligned}
+&&&
 &&&
