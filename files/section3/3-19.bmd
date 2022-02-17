@@ -18,7 +18,7 @@
 \begin {aligned}
 f(a)&:=\int _{0}^{\infty }\frac {\left (1-x^{2}\right )\arctan \left (ax^{2}\right )}{1+x^4}dx\\
 f'(a)&=\int _{0}^{\infty }\frac {(1-x^{2})x^2}{\left (1+x^{4}\right )\left (1+a^2x^4\right )}dx\\
-&=\underbrace{\int _{0}^{\infty }\frac {x^2}{\left (1+x^{4}\right )\left (1+a^{2}x^{4}\right )}dx}_I+\underbrace{\int _{0}^{\infty }\frac {x^{4}}{\left (1+x^{4}\right )\left (1+a^{2}x^{4}\right )}dx}_J\\
+&=\underbrace{\int _{0}^{\infty }\frac {x^2}{\left (1+x^{4}\right )\left (1+a^{2}x^{4}\right )}dx}_I-\underbrace{\int _{0}^{\infty }\frac {x^{4}}{\left (1+x^{4}\right )\left (1+a^{2}x^{4}\right )}dx}_J\\
 \end {aligned}
 &&&
 &&&math
