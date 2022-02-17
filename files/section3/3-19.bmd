@@ -41,4 +41,19 @@ J&=\int _{0}^{\infty }\frac {x^{2}}{1-a^{2}}\left (\frac {1}{1+x^{4}}-\frac {a^2
 f'(a)&=\frac {\pi }{2\sqrt 2(1-a^2)}\left (\sqrt a - 2 + \frac {1}{\sqrt a}\right )
 \end {aligned}
 &&&
+&&&math
+\begin {aligned}
+\int _{0}^{\pi }\frac {x\left (\sin \frac {x}2-\cos \frac {x}2\right )}{\sqrt {\sin x}}dx
+&=4\sqrt 2f(1)\\
+&=4\sqrt 2\int _{0}^{1}f'(x)dx\\
+&=4\sqrt 2\int _{0}^{1}\frac {\pi }{2\sqrt 2\left (1-x^{2}\right )}\left (\sqrt x-2+\frac {1}{\sqrt x}\right )dx\\
+&=4\pi \int _{0}^{1}\frac {x^{2}-2x+1}{1-x^{4}}dx\\
+&=4\pi \int _{0}^{1}\frac {1-x}{1+x}\frac {dx}{1+x^{2}}\\
+&=4\pi \int _{0}^{\frac {\pi }4}\tan \left (\frac {\pi }4-x\right )dx\\
+&=4\pi \int _{0}^{\frac {\pi }4}\tan xdx\\
+&=4\pi \left [-\ln \cos x\right ]_0^{\frac {\pi }4}\\
+&=-4\pi \ln \frac {1}{\sqrt 2}\\
+&=\textcolor {blue}{2\pi \ln 2}.
+\end {aligned}
+&&&
 &&&
