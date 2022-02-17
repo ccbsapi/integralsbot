@@ -1,32 +1,26 @@
+&&&thm
+&&&math
+\int _{0}^{\frac {\pi }2}\frac {\ln \cos x}{\tan x}\ln \left (\frac {\ln ^{2}\sin x}{\pi ^{2}+\ln ^{2}\sin x}\right )dx
+=\frac {3}2\zeta (2)
+&&&
+&&&
+
 &&&prf
 &&&math
 \begin {aligned}
 \int _{0}^{\frac {\pi }2}\frac {\ln \cos x}{\tan x}\ln \left (\frac {\ln ^{2}\sin x}{\pi ^{2}+\ln ^{2}\sin x}\right )dx
-
 &=\frac {1}2\int _{0}^{\infty }\ln \left (1-e^{-2t}\right )\ln \left (\frac {t^{2}}{\pi ^{2}+t^{2}}\right )dt\\
-
 &=-\int _{0}^{\infty }\ln \left (1-e^{-2t}\right )\ln \sqrt {1+\left (\frac {\pi }t\right )^2}dt\\
-
 &=-\Re \int _{0}^{\infty }\ln \left (1-e^{-2t}\right )\ln \left (\frac {t+\pi i}t\right )dt\\
-
 &=\Re \left (\int _{0}^{\infty }-\int _{\infty +\pi i}^{\pi i}\right )\ln \left (1-e^{-2t}\right )\ln tdt\\
-
 &=\Re \int _{0}^{\pi i}\ln \left (1-e^{-2t}\right )\ln tdt\\
-
 &=\Re \int _{0}^{\pi }\ln \left (1-e^{2is}\right )\left (\ln s+\frac {\pi i}2\right )ids\\
-
 &=\Re \int _{0}^{\pi }\left (\ln \left (2\sin s\right )+i\left (\frac {\pi }2-s\right )\right )\left (-\frac {\pi }2+i\ln s\right )ds\\
-
 &=\int _{0}^{\pi }\left (-\frac {\pi }2\ln \left (2\sin s\right )-\left (\frac {\pi }2-s\right )\ln s\right )ds\\
-
 &=-\frac {\pi }2\left (\frac {\pi \ln 2}2-\frac {\pi \ln 2}2\right )-\left [\frac {\pi s}2-\frac {s^{2}}2\right ]_{0}^{\pi }+\int _{0}^{\pi }\frac {\pi -s}2ds\\
-
 &=\frac {1}2\int _{0}^{\pi }sds\\
-
 &=\frac {\pi ^{2}}4\\
-
-&=\frac {3}2\zeta (2)
-
+&=\textcolor{blue}{\frac {3}2\zeta (2)}.
 \end {aligned}
 &&&
 &&&

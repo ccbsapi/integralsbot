@@ -1,0 +1,60 @@
+&&&thm
+&&&math
+\int _{0}^{\pi }\frac {x\left (\sin \frac {x}2-\cos \frac {x}2\right )}{\sqrt {\sin x}}dx
+=2\pi \ln 2
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\pi }\frac {x\left (\sin \frac {x}2-\cos \frac {x}2\right )}{\sqrt {\sin x}}dx
+&=4\int _{0}^{\frac {\pi }2}\frac {x\left (\sin x-\cos x\right )}{\sqrt {2\sin x\cos x}}dx\\
+&=2\sqrt 2\int _{0}^{\frac {\pi }2}\frac {x\left (\tan x-1\right )}{\sqrt {\tan x}}dx\\
+&=2\sqrt 2\int _{0}^{\infty }\frac {\arctan x\left (x-1\right )}{\sqrt x(1+x^2)}dx\\
+&=4\sqrt 2\int _{0}^{\infty }\frac {\left (x^{2}-1\right )\arctan x^{2}}{1+x^{4}}dx
+\end {aligned}
+&&&
+&&&math
+\begin {aligned}
+f(a)&:=\int _{0}^{\infty }\frac {\left (1-x^{2}\right )\arctan \left (ax^{2}\right )}{1+x^4}dx\\
+f'(a)&=\int _{0}^{\infty }\frac {(1-x^{2})x^2}{\left (1+x^{4}\right )\left (1+a^2x^4\right )}dx\\
+&=\underbrace{\int _{0}^{\infty }\frac {x^4}{\left (1+x^{4}\right )\left (1+a^{2}x^{4}\right )}dx}_I-\underbrace{\int _{0}^{\infty }\frac {x^{2}}{\left (1+x^{4}\right )\left (1+a^{2}x^{4}\right )}dx}_J\\
+\end {aligned}
+&&&
+&&&math
+\begin {aligned}
+I&=\frac {1}{a^{2}-1}\int _{0}^{\infty }\left (\frac {1}{1+x^4}-\frac {1}{1+a^{2}x^{4}}\right )dx\\
+&=\frac {1}{a^{2}-1}\left (1-\frac {1}{\sqrt a}\right )\int _{0}^{\infty }\frac {dx}{1+x^{4}}\\
+&=\frac {1}{a^{2}-1}\left (1-\frac {1}{\sqrt a}\right )\frac {\pi }{2\sqrt 2}
+\end {aligned}
+&&&
+&&&math
+\begin {aligned}
+J&=\int _{0}^{\infty }\frac {x^{2}}{1-a^{2}}\left (\frac {1}{1+x^{4}}-\frac {a^2}{1+a^{2}x^{4}}\right )dx\\
+&=\frac {1-\sqrt a}{1-a^{2}}\int _{0}^{\infty }\frac {x^{2}}{1+x^{4}}dx\\
+&=\frac {1-\sqrt a}{1-a^{2}}\cdot \frac {\pi }{2\sqrt 2}
+\end {aligned}
+&&&
+したがって
+&&&math
+\begin {aligned}
+f'(a)&=\frac {\pi }{2\sqrt 2(1-a^2)}\left (\sqrt a - 2 + \frac {1}{\sqrt a}\right )
+\end {aligned}
+&&&
+&&&math
+\begin {aligned}
+\int _{0}^{\pi }\frac {x\left (\sin \frac {x}2-\cos \frac {x}2\right )}{\sqrt {\sin x}}dx
+&=4\sqrt 2f(1)\\
+&=4\sqrt 2\int _{0}^{1}f'(x)dx\\
+&=4\sqrt 2\int _{0}^{1}\frac {\pi }{2\sqrt 2\left (1-x^{2}\right )}\left (\sqrt x-2+\frac {1}{\sqrt x}\right )dx\\
+&=4\pi \int _{0}^{1}\frac {x^{2}-2x+1}{1-x^{4}}dx\\
+&=4\pi \int _{0}^{1}\frac {1-x}{1+x}\frac {dx}{1+x^{2}}\\
+&=4\pi \int _{0}^{\frac {\pi }4}\tan \left (\frac {\pi }4-x\right )dx\\
+&=4\pi \int _{0}^{\frac {\pi }4}\tan xdx\\
+&=4\pi \left [-\ln \cos x\right ]_0^{\frac {\pi }4}\\
+&=-4\pi \ln \frac {1}{\sqrt 2}\\
+&=\textcolor {blue}{2\pi \ln 2}.
+\end {aligned}
+&&&
+&&&
