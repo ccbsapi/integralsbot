@@ -286,6 +286,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1498979648839237637?t=EwcG5D3ZGLF6ziqiGcCCrQ",
+    "solution_uri": "section6/6-4.bmd",
+    "TeX": "\\int _{0}^{\\frac {\\pi }2}\\ln \\left (1+\\alpha \\sin ^{2}x\\right )dx =\\pi \\ln \\frac {1+\\sqrt {1+\\alpha }}2",
+    "status": 3,
+    "id": "6-4",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1929",
     "TeX": "\\int_0^{\\frac {\\pi }2}\\left(x+\\arctan\\left(\\frac{1-a}{1+a}\\tan x\\right)\\right)^2\\,dx=\\frac{\\pi}{4}\\operatorname{Li} _2(a^2)",
