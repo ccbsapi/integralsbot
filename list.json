@@ -833,6 +833,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1499794769664303105?t=Bvb9xALkBbHsKK5rcyG-5A",
+    "solution_uri": "section20/20-56",
+    "TeX": "\\int _{0}^{1}\\int _{0}^{1}\\int _{0}^{1}\\frac {dxdydz}{\\left (1+x^{2}+y^{2}+z^{2}\\right )^2}=\\frac {\\pi ^{2}}{32}",
+    "status": 3,
+    "id": "20-56",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1431085272574279681?t=P0-JliAGwfjP2kGcydXcSw&s=19",
     "solution_uri": "https://twitter.com/qq3023625451/status/1431563970515648512?t=TBbB3_tg-AAYiSscxWTWLA&s=19",
     "TeX": "\\int_0^{\\infty}\\prod_{k=1}^n\\frac{k^2}{k^2+x^2}\\,dx=\\frac{\\pi}2\\frac{n}{2n-1}",
