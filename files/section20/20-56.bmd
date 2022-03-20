@@ -1,0 +1,23 @@
+&&&thm
+&&&math
+\int _{0}^{1}\int _{0}^{1}\int _{0}^{1}\frac {dxdydz}{\left (1+x^{2}+y^{2}+z^{2}\right )^2}
+=\frac {\pi ^{2}}{32}
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{1}\int _{0}^{1}\int _{0}^{1}\frac {dxdydz}{\left (1+x^{2}+y^{2}+z^{2}\right )^2}
+&=2\int _{0}^{1}\int _{0 < y < x < 1}\frac {dxdydz}{\left (1+x^{2}+y^2+z^2\right )^2}\\
+&=2\int _{0}^{1}dz\int _{0}^{\frac {\pi }4}d\phi \int _{0}^{\sec \phi }rdr\frac {1}{\left (1+r^2+z^2\right )^2}\\
+&=\int _{0}^{1}\int _{0}^{\frac {\pi }4}\left (\frac {1}{1+z^{2}}-\frac {1}{1+z^2+\sec^2\phi }\right )d\phi dz\\
+&=\int _{0}^{1}\int _{0}^{\frac {\pi }4}\frac {\sec^2\phi d\phi }{\left (1+z^{2}\right )\left (1+z^{2}+\sec^2\phi \right )}dz\\
+&=\int _{0}^{1}\int _{0}^{1}\frac {dzdt}{\left (1+z^2\right )\left (1+z^{2}+1+t^2\right )}\\
+&=\frac {1}2\int _{0}^{1}\int_0^1 \left (\frac {1}{1+z^{2}}+\frac {1}{1+t^{2}}\right )\frac {dtdz}{1+t^{2}+1+z^{2}}\\
+&=\frac {1}2\int _{0}^{1}\int _{0}^{1}\frac {dtdz}{\left (1+z^{2}\right )\left (1+t^{2}\right )}\\
+&=\frac {1}2\left (\int _{0}^{1}\frac {dz}{1+z^{2}}\right )^2\\
+&=\textcolor {blue}{\frac {\pi ^{2}}{32}}.
+\end {aligned}
+&&&
+&&&
