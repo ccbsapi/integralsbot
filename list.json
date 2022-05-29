@@ -230,6 +230,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1530189984178679814?t=nhz7RF4PgkpuFFhvtDteCg&s=19",
+    "solution_uri": "section5/5-4.bmd",
+    "TeX": "\\begin {aligned}\n&\\begin {aligned}\n\\int _{0}^{\\frac {\\pi }2}\\frac {\\ln \\tan x}{\\cos x}\\ln \\frac {\\ln \\sin x}{\\ln \\cos x}dx\n&=\\frac {\\pi ^{2}}{24}\n\\end {aligned}\\\\\n&正しくは\\\\\n&\\begin {aligned}\n\\int _{0}^{\\frac {\\pi }2}\\frac {\\ln \\cos x}{\\tan x}\\ln \\frac {\\ln \\sin x}{\\ln \\cos x}dx\n&=\\frac {\\pi ^{2}}{24}\n\\end {aligned}\n\\end {aligned}",
+    "status": 3,
+    "id": "5-4",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1933",
     "TeX": "\\int_0^1\\frac{\\ln x}{1-x^2}\\ln\\ln\\frac{1+x}{1-x}\\,dx=\\frac{\\pi^2}{24}\\ln\\frac{A^{36}}{16\\pi^3}",
