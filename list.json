@@ -44,6 +44,14 @@
   },
   {
     "tw_uri": "",
+    "solution_uri": "section2/2-5.bmd",
+    "TeX": "\\begin {align*}\n\\int _{0}^{\\infty }\\left (\\sqrt {1+x^{4}}-x^{2}\\right )dx\n&=\\frac {\\Gamma \\left (\\frac {1}4\\right )^2}{6\\sqrt \\pi }\n\\end {align*}",
+    "status": 3,
+    "id": "2-5",
+    "keywords": []
+  },
+  {
+    "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1929",
     "TeX": "\\int_0^1\\sqrt{\\frac{2-x^2}{1-x^2}}\\,dx=\\frac{\\pi\\sqrt{2\\pi}}{\\Gamma\\left(\\frac 14\\right)^2}+\\frac{\\Gamma\\left(\\frac 14\\right)^2}{4\\sqrt{2\\pi}}",
     "status": 2,
