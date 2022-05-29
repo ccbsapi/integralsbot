@@ -60,6 +60,14 @@
   },
   {
     "tw_uri": "",
+    "solution_uri": "section2/2-16.bmd",
+    "TeX": "\\begin{align*}\n\\int _{0}^{1}\\frac {x^{2}}{\\sqrt {1+x^{4}}}dx\n&=\\frac {1}{\\sqrt 2}-\\frac {\\pi \\sqrt \\pi }{\\Gamma \\left (\\frac {1}4\\right )^2}\n\\end {align*}",
+    "status": 3,
+    "id": "2-16",
+    "keywords": []
+  },
+  {
+    "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1933",
     "TeX": "\\int_0^{\\infty}\\frac{dx}{\\sqrt{x^4+a^4}+\\sqrt{x^4+b^4}}=\\frac{\\Gamma\\left(\\frac 14\\right)^2}{6\\sqrt{\\pi}}\\frac{a^3-b^3}{a^4-b^4}",
     "status": 2,
