@@ -1,0 +1,30 @@
+&&&thm
+&&&math
+
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\frac {\pi }2}\frac {\ln \cos x}{\tan x}\ln \frac {\ln \sin x}{\ln \cos x}dx&=\frac {1}4\int _{0}^{\frac {\pi }2}\frac {\ln (1-\sin ^{2}x)}{\sin ^{2}x}\ln \frac {\ln \sin ^{2}x}{\ln (1-\sin ^{2}x)}\cdot 2\sin x\cos xdx\\
+
+&=\frac {1}4\int _{0}^{1}\frac {\ln (1-t)}t\ln \frac {\ln t}{\ln (1-t)}dt\quad \left (t=\sin ^{2}x\right )\\
+
+&=\frac {1}4\int _{0}^{1}\frac {\ln \frac {1}{1-t}}{t}\ln \frac {\ln \frac {1}{1-t}}{\ln \frac {1}t}dt\\
+
+&=\frac {1}4\left .\frac {d}{ds}\int _{0}^{1}\frac {\ln ^{1+s}\frac {1}{1-t}-\ln \frac {1}{1-t}\ln^{s}\frac {1}t}{t}dt \right |_{s=0}\\
+
+&=\frac {1}4\left .\frac {d}{ds}\left (\int _{0}^{1}\frac {\ln ^{1+s}\frac {1}t}{1-t}dt-\frac {1}{1+s}\int _{0}^{1}\frac {\ln ^{1+s}\frac {1}t}{1-t}dt\right )\right |_{s=0}\\
+
+&=\frac {1}4\left .\frac {d}{ds}\frac {s}{1+s}\Gamma \left (2+s \right )\zeta \left (2+s\right )\right|_{s=0}\\
+
+&=\frac {1}4\left .\frac {d}{ds}s\cdot \Gamma \left (1+s\right )\zeta \left (2+s\right )\right|_{s=0}\\
+
+&=\frac {1}4\Gamma (1)\zeta (2)\\
+
+&=\textcolor {blue}{\frac {\pi ^{2}}{24}}.
+
+\end {aligned}
+&&&
+&&&
