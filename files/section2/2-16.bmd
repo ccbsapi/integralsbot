@@ -15,12 +15,12 @@
 &=\frac {1}4\int _{1}^{2}\frac {dx}{x^{\frac {1}2}(x-1)^{\frac {1}4}}\\
 &=\frac {1}4\int _{\frac {1}2}^{1}x^{-\frac {5}4}(1-x)^{-\frac {1}4}dx
 \end{align*}
-&&&math
+&&&
 ここで,
 &&&math
 f(s):=\int _{\frac {1}2}^{1}x^{s-1}(1-x)^{s}dx\quad (\Re s>-1)
 &&&
-とすると,$\Re s>0$のとき
+とすると,\(\Re s>0\)のとき
 &&&math
 \begin{align*}
 f(s)&=\left [\frac {x^{s}(1-x)^{s}}s\right ]_{\frac {1}2}^1+\int _{\frac {1}2}^1x^{s}(1-x)^{s-1}dx\\
@@ -30,7 +30,7 @@ f(s)&=\left [\frac {x^{s}(1-x)^{s}}s\right ]_{\frac {1}2}^1+\int _{\frac {1}2}^1
 \end{align*}
 &&&
 
-$f(s)$は$\Re s>-1$で正則なので,一致の定理より,$(*)$は$\Re s>-1$で成り立つ.従って,
+\(f(s)\)は\(\Re s>-1\)で正則なので,一致の定理より,\((*)\)は\(\Re s>-1\)で成り立つ.従って,
 &&&math
 \begin{align*}
 \int _{0}^{1}\frac {x^{2}}{\sqrt {1+x^{4}}}dx
