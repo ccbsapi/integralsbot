@@ -1,0 +1,27 @@
+&&&thm
+&&&math
+
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+&\int _{0}^{\infty }\left (\sqrt {1+x^{4}}-x^{2}\right )dx\\
+
+&= \int _{0}^{\infty }x^2\left (\sqrt {1+x^{-4}}-1\right )dx\\
+
+&=\left [\frac {x^{3}}3\left (\sqrt {1+x^{-4}}-1\right )\right ]_0^{\infty }-\int _{0}^{\infty }\frac {x^{3}}3\cdot \frac {-4x^{-5}}{2\sqrt {1+x^{-4}}}dx\\
+
+&=\frac {2}3\int _{0}^{\infty }\frac {dx}{\sqrt {1+x^{4}}}\\
+
+&=\frac {2}3\int _{0}^{1}t^{1/2}\cdot \frac {1}4\left (\frac {1}t-1\right )^{-3/4}t^{-2}dt\quad \left (t=\frac {1}{1+x^{4}},x=\left (\frac {1}t-1\right )^{1/4}\right )\\
+
+&=\frac {1}6\int _{0}^{1}t^{-\frac {3}4}(1-t)^{-\frac {3}4}dt\\
+
+&=\frac {1}6\frac {\Gamma \left (\frac {1}4\right )\Gamma \left (\frac {1}4\right )}{\Gamma \left (\frac {1}2\right )}\\
+
+&=\textcolor {blue}{\frac {\Gamma \left (\frac {1}4\right )^2}{6\sqrt \pi }}.
+\end {aligned}
+&&&
+&&&
