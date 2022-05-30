@@ -1,7 +1,7 @@
 &&&thm
 &&&math
 \begin {aligned}
-\int _{0}^{\infty }\frac {\sqrt[3] {x+1}-\sqrt[3] {x}}{\sqrt x}dx\\
+\int _{0}^{\infty }\frac {\sqrt[3] {x+1}-\sqrt[3] {x}}{\sqrt x}dx
 &=\frac {2\sqrt \pi \Gamma \left (\frac {1}6\right )}{5\Gamma \left (\frac {2}3\right )}
 \end {aligned}
 &&&
