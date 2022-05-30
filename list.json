@@ -76,6 +76,14 @@
   },
   {
     "tw_uri": "",
+    "solution_uri": "section2/2-17.bmd",
+    "TeX": "\\begin {aligned}\n\\int _{0}^{\\infty }\\frac {\\sqrt[3] {x+1}-\\sqrt[3] {x}}{\\sqrt x}dx\\\\\n&=\\frac {2\\sqrt \\pi \\Gamma \\left (\\frac {1}6\\right )}{5\\Gamma \\left (\\frac {2}3\\right )}\n\\end {aligned}",
+    "status": 3,
+    "id": "2-17",
+    "keywords": []
+  },
+  {
+    "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1933",
     "TeX": "\\int_0^{\\infty}\\frac{dx}{\\sqrt{x^4+a^4}+\\sqrt{x^4+b^4}}=\\frac{\\Gamma\\left(\\frac 14\\right)^2}{6\\sqrt{\\pi}}\\frac{a^3-b^3}{a^4-b^4}",
     "status": 2,
