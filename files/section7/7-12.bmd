@@ -1,0 +1,37 @@
+&&&thm
+&&&math
+
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+&\int _{0}^{\infty }\frac {\sin ax}{\sinh \frac {\pi x}2}\frac {dx}{1+x^{2}}\\
+
+&=\frac {1}{2i}\int _{-\infty }^{\infty }\frac {\sin ax}{(x-i)\sinh \frac {\pi x}2}dx\\
+
+&=\frac {1}{2i}\cdot \frac {\ti i}2\Res{z=i}\frac {\sin az}{(z-i)\sinh \frac {\pi z}2}+\frac {1}{2i}P.V.\int _{-\infty +i}^{\infty +i}\frac {\sin az}{(z-i)\sinh \frac {\pi z}2}dz\\
+
+&=\frac {\ti}4\sinh a+\frac {1}{2i} P.V.\int _{-\infty }^{\infty }\frac {\sin ax\cosh a+i\cos ax\sinh a}{xi\cosh \frac {\pi x}2}dx\\
+
+&=\frac {\ti }4\sinh a-\cosh a\int _{0}^{\infty }\frac {\sin ax}{x\cosh \frac {\pi x}2}dx\\
+
+&=\frac {\ti}4\sinh a-\cosh a\int _{0}^{\infty }\int _{0}^{a}\frac {\cos tx}{\cosh \frac {\pi x}2}dtdx\\
+
+&=\frac {\ti}4\sinh a-\cosh a\int _{0}^{a}\frac {dt}{\cosh t}\\
+
+&=\frac {\ti}4\sinh a-\cosh a\arctan \sinh a\\
+
+&=\frac {e^{a}-e^{-a}}2\frac {\ti}4-\frac {e^{a}+e^{-a}}2\left (\frac {\ti}4-\arctan \frac {2e^{-a}}{1-e^{-2a}}\right )\\
+
+&=\frac {e^{a}-e^{-a}}2\frac {\ti}4-\frac {e^{a}+e^{-a}}2\left (\frac {\ti}4-2\arctan e^{-a}\right )\\
+
+
+&=e^{a}\arctan e^{-a}-e^{-a}\left (\frac {\ti}4-\arctan e^{-a}\right )\\
+
+&=\textcolor {blue}{e^{a}\arctan \frac {1}{e^{a}}-\frac {1}{e^{a}}\arctan e^{a}}.
+
+\end {aligned}
+&&&
+&&&
