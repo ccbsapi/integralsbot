@@ -1,6 +1,8 @@
 &&&thm
 &&&math
-
+\begin {aligned}
+\int _{0}^{\infty }\frac {\sin \alpha x}{\sinh \frac {\pi x}2}\frac {dx}{1+x^{2}}&=e^{\alpha }\arctan \frac {1}{e^{\alpha }}-\frac {1}{e^{\alpha }}\arctan e^{\alpha }
+\end {aligned}
 &&&
 &&&
 
@@ -8,30 +10,43 @@
 &&&math
 \begin {aligned}
 &\int _{0}^{\infty }\frac {\sin ax}{\sinh \frac {\pi x}2}\frac {dx}{1+x^{2}}\\
-
 &=\frac {1}{2i}\int _{-\infty }^{\infty }\frac {\sin ax}{(x-i)\sinh \frac {\pi x}2}dx\\
-
 &=\frac {1}{2i}\cdot \frac {\ti i}2\Res{z=i}\frac {\sin az}{(z-i)\sinh \frac {\pi z}2}+\frac {1}{2i}P.V.\int _{-\infty +i}^{\infty +i}\frac {\sin az}{(z-i)\sinh \frac {\pi z}2}dz\\
-
 &=\frac {\ti}4\sinh a+\frac {1}{2i} P.V.\int _{-\infty }^{\infty }\frac {\sin ax\cosh a+i\cos ax\sinh a}{xi\cosh \frac {\pi x}2}dx\\
-
 &=\frac {\ti }4\sinh a-\cosh a\int _{0}^{\infty }\frac {\sin ax}{x\cosh \frac {\pi x}2}dx\\
-
 &=\frac {\ti}4\sinh a-\cosh a\int _{0}^{\infty }\int _{0}^{a}\frac {\cos tx}{\cosh \frac {\pi x}2}dtdx\\
-
-&=\frac {\ti}4\sinh a-\cosh a\int _{0}^{a}\frac {dt}{\cosh t}\\
-
+&=\frac {\ti}4\sinh a-\cosh a\int _{0}^{a}\frac {dt}{\cosh t} \quad (\because 補題)\\
 &=\frac {\ti}4\sinh a-\cosh a\arctan \sinh a\\
-
 &=\frac {e^{a}-e^{-a}}2\frac {\ti}4-\frac {e^{a}+e^{-a}}2\left (\frac {\ti}4-\arctan \frac {2e^{-a}}{1-e^{-2a}}\right )\\
-
 &=\frac {e^{a}-e^{-a}}2\frac {\ti}4-\frac {e^{a}+e^{-a}}2\left (\frac {\ti}4-2\arctan e^{-a}\right )\\
-
-
 &=e^{a}\arctan e^{-a}-e^{-a}\left (\frac {\ti}4-\arctan e^{-a}\right )\\
-
 &=\textcolor {blue}{e^{a}\arctan \frac {1}{e^{a}}-\frac {1}{e^{a}}\arctan e^{a}}.
+\end {aligned}
+&&&
+&&&
 
+&&&thm
+補題
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }\frac {\cosh ax}{\cosh \frac {\pi x}2}dx
+\int _{0}^{\infty }\frac {\cos ax}{\cosh x\frac {\pi x}2}dx&=\frac {1}{\cosh a}\quad \left (a\mapsto ia\right )
+\end {aligned}
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }\frac {\cosh ax}{\cosh \frac {\pi x}2}dx
+&=\int _{0}^{\infty }\frac {e^{ax}+e^{-ax}}{e^{\frac {\pi x}2}+e^{-\frac {\pi x}2}}dx\\
+&=\int _{-\infty }^{\infty }\frac {e^{ax}}{e^{\frac {\pi x}2}+e^{-\frac {\pi x}2}}dx\\
+&=\frac {2}\pi \int _{0}^{\infty }\frac {e^{\frac {2a}\pi t}}{1+t^{2}}dt\quad \left (t=e^{\frac {\pi x}2}\right )\\
+&=\frac {2}\pi \int _{0}^{\frac {\pi }2}\sin ^{\frac {2a}\pi }\theta \cos ^{-\frac {2a}\pi }\theta d\theta \quad \left (t=\tan \theta \right )\\
+&=\frac {1}\pi \Beta\left (\frac {a}\pi +\frac {1}2,-\frac {a}\pi +\frac {1}2\right )\\
+&=\frac {1}\pi \frac {\pi }{\sin \left (a+\frac {\pi }2\right )}\\
+&=\frac {1}{\cos a}\\
+\int _{0}^{\infty }\frac {\cos ax}{\cosh x\frac {\pi x}2}dx&=\frac {1}{\cosh a}\quad \left (a\mapsto ia\right )
 \end {aligned}
 &&&
 &&&
