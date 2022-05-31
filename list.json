@@ -390,6 +390,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "",
+    "solution_uri": "https://math.stackexchange.com/questions/1378536/about-the-integral-int-11-frac1-pi22-operatornamearctanhx2",
+    "TeX": "\\begin {aligned}\n&\\begin {aligned}\n\\int _{-1}^{1}\\frac {dx}{\\pi ^{2}+4\\tanh ^{2}x}&=\\frac {1}6\\\\\n\n\\int _{-1}^{1}\\frac {\\ln (1-x)}{\\pi ^{2}+4\\tanh ^{2}x}dx&=\\frac {1}4+\\frac {\\gamma }6-\\ln \\frac {A^2}{\\sqrt [6]2}\n\\end {aligned}\n\\\\\n&正しくは\\\\\n&\\begin {aligned}\n\\int _{-1}^{1}\\frac {dx}{\\pi ^{2}+4\\operatorname{artanh }^{2}x}&=\\frac {1}6\\\\\n\n\\int _{-1}^{1}\\frac {\\ln (1-x)}{\\pi ^{2}+4\\operatorname{artanh }^{2}x}dx&=\\frac {1}4+\\frac {\\gamma }6-\\ln \\frac {A^2}{\\sqrt [6]2}\n\\end {aligned}\n\\end {aligned}",
+    "status": 2,
+    "id": "7-2",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1460467830542172160?t=CSXpvq6a3Or5PKT-GNfX1Q&s=19",
     "solution_uri": "https://mymatexnotes.blogspot.com/2021/12/int-x1x21tanhpix2dx.html?m=1",
     "TeX": "\\int _{0}^{\\infty }\\frac {x}{(1+x^{2})^{2}}\\frac {dx}{\\tanh \\frac {\\pi x}2}=\\frac {\\pi ^{2}}8-\\frac {1}2",
