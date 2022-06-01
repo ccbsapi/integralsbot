@@ -1,6 +1,9 @@
 &&&thm
 &&&math
-
+\begin {aligned}
+\int _{0}^{\infty }\frac {dx}{(n^2+x^2)(e^{\pi x}+e^{-\pi x})}
+&=\frac {(-1)^n}n\left (\frac {\pi }4-\sum _{k=1}^{n}\frac {(-1)^{k-1}}{2k-1}\right )}
+\end {aligned}
 &&&
 &&&
 
@@ -8,19 +11,12 @@
 &&&math
 \begin {aligned}
 f(z)&:=\frac {1}{z\cosh \pi z}\\
-
 \int _{0}^{\infty }\frac {dx}{(n^2+x^2)(e^{\pi x}+e^{-\pi x})}
-
 &=\frac {1}{4ni}\int _{-\infty }^{\infty }\left (\frac {1}{x-ni}-\frac {1}{x+ni}\right )\frac {1}{2\cosh \pi x}dx\\
-
 &=\frac {(-1)^n}{8ni}\int _{\Im z = \pm i}f(z)dz\\
-
 &=\frac {(-1)^{n}}{8ni}2\pi i\left (\Res{z=0}f(z)+\sum _{-n<k+\frac 12<n}\Res{z=\left (k+\frac {1}2\right )i}f(z)\right )\\
-
 &=\frac {(-1)^{n}\pi }{4n}\left (1+\sum _{k=1}^{n}\frac {2\pi ^{-1}(-1)^{k}i}{\left (k-\frac {1}2\right  )i}\right )\\
-
 &=\textcolor {blue}{\frac {(-1)^n}n\left (\frac {\pi }4-\sum _{k=1}^{n}\frac {(-1)^{k-1}}{2k-1}\right )}.
-
 \end {aligned}
 &&&
 &&&
