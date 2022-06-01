@@ -472,7 +472,7 @@
   {
     "tw_uri": "",
     "solution_uri": "section7/7-13.bmd",
-    "TeX": "\\begin {aligned}\n\\int _{0}^{\\infty }\\frac {dx}{(n^2+x^2)(e^{\\pi x}+e^{-\\pi x})}\n&=\\frac {(-1)^n}n\\left (\\frac {\\pi }4-\\sum _{k=1}^{n}\\frac {(-1)^{k-1}}{2k-1}\\right )}\n\\end {aligned}",
+    "TeX": "\\begin {aligned}\n\\int _{0}^{\\infty }\\frac {dx}{(n^2+x^2)(e^{\\pi x}+e^{-\\pi x})}\n&=\\frac {(-1)^n}n\\left (\\frac {\\pi }4-\\sum _{k=1}^{n}\\frac {(-1)^{k-1}}{2k-1}\\right )\n\\end {aligned}",
     "status": 3,
     "id": "7-13",
     "keywords": []
