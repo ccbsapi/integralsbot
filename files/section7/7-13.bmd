@@ -2,7 +2,7 @@
 &&&math
 \begin {aligned}
 \int _{0}^{\infty }\frac {dx}{(n^2+x^2)(e^{\pi x}+e^{-\pi x})}
-&=\frac {(-1)^n}n\left (\frac {\pi }4-\sum _{k=1}^{n}\frac {(-1)^{k-1}}{2k-1}\right )}
+&=\frac {(-1)^n}n\left (\frac {\pi }4-\sum _{k=1}^{n}\frac {(-1)^{k-1}}{2k-1}\right )
 \end {aligned}
 &&&
 &&&
