@@ -454,6 +454,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "",
+    "solution_uri": "section7/7-10.bmd",
+    "TeX": "\\begin {aligned}\n\\int _{0}^{\\ln \\phi }\\frac {x^{2}\\left (e^{2x}+1\\right )}{e^{2x}-1}dx\n&=\\frac {\\zeta (3)}{10}\n\\end {aligned}",
+    "status": 3,
+    "id": "7-10",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1434541996442411011?t=y4RgBx-WMzBjQZgeGyprmQ&s=19",
     "solution_uri": "https://twitter.com/AlbahariRicardo/status/1434564285129240579?t=f1EftO9bu7ZyfWYuufKkJQ&s=19",
     "TeX": "\\int _{0}^{\\infty }\\frac {x}{\\left (x^{2}+(2\\pi )^{2}\\right )^2(e^x-1)}dx=\\frac {1}{96}-\\frac {3}{32\\pi ^{2}}",
