@@ -1,0 +1,23 @@
+&&&thm
+&&&math
+\begin {aligned}
+\int _{0}^{\ln \phi }\frac {x^{2}\left (e^{2x}+1\right )}{e^{2x}-1}dx
+&=\frac {\zeta (3)}{10}
+\end {aligned}
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+&\int _{0}^{\ln \phi }\frac {x^{2}\left (e^{2x}+1\right )}{e^{2x}-1}dx\\
+&=\frac {1}8\int _{\phi ^{-2}}^{1}\frac {\ln ^{2}t}{t}\frac {1+t}{1-t}dt\quad \left (t=e^{-2x}\right )\\
+&=\frac {1}8\int _{\phi ^{-2}}^{1}\left (\frac {1}t+\frac {2}{1-t}\right )\ln ^{2}\frac {1}tdt\\
+&=\frac {1}8\left (-\frac {\ln ^{3}\phi ^{-2}}3+2\sum _{n=1}^\infty \int _{\phi ^{-2}}^{1}t^{n-1}\ln ^{2}\frac {1}tdt\right )\\
+&=\frac {\ln ^{3}\phi }3+\frac {1}4\sum _{n=1}^\infty \left [\frac {t^{n}}n\ln ^{2}\frac {1}t+2\frac {t^{n}}{n^{2}}\ln \frac {1}t+2\frac {t^{n}}{n^{3}}\right ]_{\phi ^{-2}}^1\\
+&=\frac {\ln ^{3}\phi }3-\frac {1}4\ln ^{2}\phi ^{2}\ln \frac {1}{1-\phi ^{-2}}-\frac {1}2\ln \phi ^{2}\operatorname {Li} _2 \left (\phi ^{-2}\right )+\frac {1}2\zeta (3)-\frac {1}2\operatorname {Li} _3 \left (\phi ^{-2}\right )\\
+&=\frac {\ln ^{3}\phi }3-\ln ^{3}\phi -\ln \phi \left (\frac {\pi ^{2}}{15}-\ln ^{2}\phi \right )+\frac {1}2\zeta (3)-\frac {1}2\left (\frac {4}5\zeta (3)+\frac {2}3\ln ^{3}\phi -\frac {2}{15}\pi ^{2}\ln \phi \right )\\
+&=\textcolor {blue}{\frac {\zeta (3)}{10}}.
+\end {aligned}
+&&&
+&&&
