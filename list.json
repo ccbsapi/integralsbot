@@ -470,6 +470,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "",
+    "solution_uri": "section7/7-13.bmd",
+    "TeX": "\\begin {aligned}\n\\int _{0}^{\\infty }\\frac {dx}{(n^2+x^2)(e^{\\pi x}+e^{-\\pi x})}\n&=\\frac {(-1)^n}n\\left (\\frac {\\pi }4-\\sum _{k=1}^{n}\\frac {(-1)^{k-1}}{2k-1}\\right )}\n\\end {aligned}",
+    "status": 3,
+    "id": "7-13",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1429114403538935813?t=KGBSTGngz-dv6Llj3Bn8pA&s=19",
     "solution_uri": "https://mymatexnotes.blogspot.com/2021/11/integral-log-gamma-0-to-12.html?m=1",
     "TeX": "\\int _{0}^{\\frac {1}2}\\ln \\Gamma (x)dx=\\frac {3}2\\ln A+\\frac {5}{24}\\ln 2+\\frac {1}4\\ln \\pi ",
