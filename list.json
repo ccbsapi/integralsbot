@@ -414,19 +414,11 @@
     "keywords": []
   },
   {
-    "tw_uri": "https://twitter.com/integralsbot/status/1444719055537987584?t=Mrz5B_UhJlm8fZd-68R8zw&s=19",
-    "solution_uri": "https://mathlog.info/articles/1933",
-    "TeX": "\\int _{0}^{\\infty }\\frac {x\\ln (1+x^{2})}{\\sinh \\pi x}dx=-\\frac{1}{2}+\\ln \\frac {\\sqrt[3] {2}A^{6}}{\\pi}",
-    "status": 2,
-    "id": "7-5",
-    "keywords": []
-  },
-  {
     "tw_uri": "https://twitter.com/integralsbot/status/1447113241025343490?t=Zwilu0ked9tAbfWL9nnl_Q&s=19",
     "solution_uri": "https://mymatexnotes.blogspot.com/2021/12/int0infty-fracx-ln1x2e2-pi-x1dxfrac1924.html?m=1",
     "TeX": "\\int _{0}^{\\infty }\\frac {x\\ln (1+x^2)}{e^{2\\pi x}+1}dx=\\frac {19}{24}-\\frac {23}{24}\\ln 2-\\frac {1}2\\ln A",
     "status": 2,
-    "id": "7-6",
+    "id": "7-5",
     "keywords": []
   },
   {
@@ -434,7 +426,7 @@
     "solution_uri": "https://twitter.com/AlbahariRicardo/status/1449545619274616836?t=_vwJ1sM5vVspM8FL7Y385w&s=19",
     "TeX": "\\int _{0}^{\\infty }\\frac {dx}{(\\pi ^{2}+x^{2})\\cosh x}=\\frac {2}\\pi -\\frac {1}2",
     "status": 2,
-    "id": "7-7",
+    "id": "7-6",
     "keywords": []
   },
   {
@@ -442,7 +434,7 @@
     "solution_uri": "https://mymatexnotes.blogspot.com/2021/11/integral-sinhaxsinhbxdx.html?m=1",
     "TeX": "\\int _{0}^{\\infty }\\frac {x}{(1+4x^2)^2\\ \\sinh \\pi x}dx=-\\frac {1}8+\\frac {\\beta (2)}4",
     "status": 2,
-    "id": "7-8",
+    "id": "7-7",
     "keywords": []
   },
   {
@@ -450,7 +442,7 @@
     "solution_uri": "https://twitter.com/AlbahariRicardo/status/1450500337979252748?t=u8r7vWkQ6JAz_XumYwG-_Q&s=19",
     "TeX": "\\int _{0}^{\\infty }\\frac {x\\ln x}{1-e^{2e\\pi x}}dx=\\frac {\\ln A}{2e^{2}}",
     "status": 2,
-    "id": "7-9",
+    "id": "7-8",
     "keywords": []
   },
   {
@@ -458,7 +450,7 @@
     "solution_uri": "section7/7-10.bmd",
     "TeX": "\\begin {aligned}\n\\int _{0}^{\\ln \\phi }\\frac {x^{2}\\left (e^{2x}+1\\right )}{e^{2x}-1}dx\n&=\\frac {\\zeta (3)}{10}\n\\end {aligned}",
     "status": 3,
-    "id": "7-10",
+    "id": "7-9",
     "keywords": []
   },
   {
@@ -466,7 +458,7 @@
     "solution_uri": "https://twitter.com/AlbahariRicardo/status/1434564285129240579?t=f1EftO9bu7ZyfWYuufKkJQ&s=19",
     "TeX": "\\int _{0}^{\\infty }\\frac {x}{\\left (x^{2}+(2\\pi )^{2}\\right )^2(e^x-1)}dx=\\frac {1}{96}-\\frac {3}{32\\pi ^{2}}",
     "status": 2,
-    "id": "7-11",
+    "id": "7-10",
     "keywords": []
   },
   {
@@ -474,7 +466,7 @@
     "solution_uri": "section7/7-12.bmd",
     "TeX": "\\begin {aligned}\n\\int _{0}^{\\infty }\\frac {\\sin \\alpha x}{\\sinh \\frac {\\pi x}2}\\frac {dx}{1+x^{2}}&=e^{\\alpha }\\arctan \\frac {1}{e^{\\alpha }}-\\frac {1}{e^{\\alpha }}\\arctan e^{\\alpha }\n\\end {aligned}",
     "status": 3,
-    "id": "7-12",
+    "id": "7-11",
     "keywords": []
   },
   {
@@ -482,7 +474,7 @@
     "solution_uri": "section7/7-13.bmd",
     "TeX": "\\begin {aligned}\n\\int _{0}^{\\infty }\\frac {dx}{(n^2+x^2)(e^{\\pi x}+e^{-\\pi x})}\n&=\\frac {(-1)^n}n\\left (\\frac {\\pi }4-\\sum _{k=1}^{n}\\frac {(-1)^{k-1}}{2k-1}\\right )\n\\end {aligned}",
     "status": 3,
-    "id": "7-13",
+    "id": "7-12",
     "keywords": []
   },
   {
@@ -490,7 +482,7 @@
     "solution_uri": "https://mymatexnotes.blogspot.com/2021/11/integral-log-gamma-0-to-12.html?m=1",
     "TeX": "\\int _{0}^{\\frac {1}2}\\ln \\Gamma (x)dx=\\frac {3}2\\ln A+\\frac {5}{24}\\ln 2+\\frac {1}4\\ln \\pi ",
     "status": 2,
-    "id": "7-14",
+    "id": "7-13",
     "keywords": []
   },
   {
@@ -498,7 +490,7 @@
     "solution_uri": "https://mymatexnotes.blogspot.com/2022/05/challenging-integral-integralbot.html?m=1",
     "TeX": "\\begin {aligned}\n\\int _{0}^{\\infty }\\frac {\\cos x\\ln x}{\\sin x-\\cosh x}dx&=\\ln ^{2}2+\\frac {\\pi ^{2}}{16}+\\frac {\\pi }4\\ln \\frac {\\Gamma \\left (\\frac {3}4\\right )^4}{4\\pi ^{3}}\n\\end {aligned}",
     "status": 2,
-    "id": "7-15-1",
+    "id": "7-14-1",
     "keywords": []
   },
   {
@@ -506,7 +498,7 @@
     "solution_uri": "https://mymatexnotes.blogspot.com/2022/05/hyperbolic-integral-with-glaisher.html?m=1",
     "TeX": "\\begin {aligned}\n\\int _{0}^{\\infty }\\frac {x\\sin x\\ln x}{\\cosh x-\\cos x}dx&=\\frac {\\pi ^{2}}6\\left (1-12\\ln A+\\frac {\\ln 2}2+\\ln \\pi \\right )\n\\end {aligned}",
     "status": 2,
-    "id": "7-15-2",
+    "id": "7-14-2",
     "keywords": []
   },
   {
@@ -514,7 +506,7 @@
     "solution_uri": "https://mymatexnotes.blogspot.com/2021/10/two-logaggama-integrals-evaluated.html?m=1",
     "TeX": "\\begin {aligned}\n\\int _{0}^{1}x\\ln \\Gamma (x)dx&=\\frac {1}4\\ln \\frac {2\\pi }{A^{4}}\\\\\n\n\\int _{0}^{1}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}6\\ln \\frac {2\\pi }{A^{6}}+\\frac {\\zeta (3)}{4\\pi ^{2}}\n\\end {aligned}",
     "status": 2,
-    "id": "7-16-1",
+    "id": "7-15-1",
     "keywords": []
   },
   {
@@ -522,7 +514,7 @@
     "solution_uri": "https://mymatexnotes.blogspot.com/2021/10/moments-of-loggamma-function-between-0.html?m=1",
     "TeX": "\\begin {aligned}\n\\int _{0}^{\\frac {1}2}x\\ln \\Gamma (x)dx&=\\frac {1}{48}\\ln 4\\pi ^{3}A^{12}-\\frac {7\\zeta (3)}{32}\\\\\n\n\\int _{0}^{\\frac {1}2}x^{2}\\ln \\Gamma (x)dx&=\\frac {1}{2880}\\ln 2^{31}\\pi ^{60}A^{120}-\\frac {11}{1152}-\\frac {3\\zeta (3)}{32\\pi ^{2}}-\\frac {5\\zeta '(-3)}8\n\\end {aligned}",
     "status": 2,
-    "id": "7-16-2",
+    "id": "7-15-2",
     "keywords": []
   },
   {
