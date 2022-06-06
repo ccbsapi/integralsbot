@@ -210,7 +210,7 @@
     "solution_uri": "https://mathlog.info/articles/1929",
     "TeX": "\\int_0^1\\frac{\\ln(1-x)}{\\sqrt{x-x^3}}\\,dx=\\frac{\\Gamma\\left(\\frac 14\\right)^2}{4\\sqrt{2\\pi}}(\\ln 2-\\pi)",
     "status": 2,
-    "id": "4-21",
+    "id": "4-22",
     "keywords": []
   },
   {
@@ -218,7 +218,7 @@
     "solution_uri": "https://mathlog.info/articles/1933",
     "TeX": "\\int_0^2\\frac{\\tan^{-1}\\frac{2-x}{1+2x}}{x^2-4x-1}\\,dx=-\\frac 1{2\\sqrt{5}}\\tan^{-1}2\\tanh^{-1}\\frac 2{\\sqrt{5}}",
     "status": 2,
-    "id": "4-22",
+    "id": "4-23",
     "keywords": []
   },
   {
@@ -226,7 +226,7 @@
     "solution_uri": "https://twitter.com/qq3023625451/status/1419695912167776260?t=YqvoOAZ9C8Y9sRLjij3h1w&s=19",
     "TeX": "\\int _{0}^{2\\pi }\\frac {\\tan ^{-1}\\left (2\\cos ^2x\\right )}{\\cos ^{2}x}dx=\\frac {4\\pi}{\\sqrt \\phi } ",
     "status": 2,
-    "id": "4-27",
+    "id": "4-28",
     "keywords": []
   },
   {
