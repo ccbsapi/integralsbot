@@ -550,6 +550,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1522194550986776576?t=ji5llZEe2cY76-IyUd8-Mw&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1522255840505442306?t=rLmLfNJGyuOmjJcJ4ZCg1Q&s=19",
+    "TeX": "\\begin {aligned}\n\\int _{0}^{\\infty }\\frac {dx}{\\Gamma (x)}&=e+\\int _{0}^{\\infty }\\frac {1}{\\pi ^{2}+\\ln ^{2}x}\\frac {dx}{e^{x}}\n\\end {aligned}",
+    "status": 2,
+    "id": "9-1",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1419389656571867137?t=Ikcro83YDdu6yn7yrj2SuA&s=19",
     "solution_uri": "https://twitter.com/qq3023625451/status/1419661933939097603?t=T0yvn4bXQ-QludqEXtQipg&s=19",
     "TeX": "\\int _{0}^{1}\\frac {dx}{1+\\ln ^{2}x}=\\int _{0}^{\\infty }\\frac {\\sin x}{1+x}dx",
