@@ -922,6 +922,14 @@
     "solver": "Harry"
   },
   {
+    "tw_uri": "",
+    "solution_uri": "https://twitter.com/zzbar/status/1533224658232913920",
+    "TeX": "\\begin {aligned}\\int _{-\\infty }^{\\infty }\\int _{-\\infty }^{\\infty }\\int _{-\\infty }^{\\infty }\\frac {\\left (x^{2}-x\\right )e^{-x^2-y^2-z^2}}{\\left ((x-1)^2+(y-1)^2+(z-1)^2\\right )^{\\frac {3}2}}dxdydz&=\\frac {2\\pi }{3e^{3}}\n\n\\end {aligned}",
+    "status": 2,
+    "id": "20-54",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1431085272574279681?t=P0-JliAGwfjP2kGcydXcSw&s=19",
     "solution_uri": "https://twitter.com/qq3023625451/status/1431563970515648512?t=TBbB3_tg-AAYiSscxWTWLA&s=19",
     "TeX": "\\int_0^{\\infty}\\prod_{k=1}^n\\frac{k^2}{k^2+x^2}\\,dx=\\frac{\\pi}2\\frac{n}{2n-1}",
