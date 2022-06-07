@@ -198,6 +198,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1527612983048011776?t=7Gwz8Rj5ICniVLXiRC8Vxg&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1528497280860422144?t=0Ue4tAUvpeTx8Ne1hIp6UQ&s=19",
+    "TeX": "\\begin {aligned}\n\\int _{0}^{\\pi }\\frac {x\\cos x}{1+\\sin ^{2}x}dx\n\n&=\\ln ^{2}\\left (1+\\sqrt 2\\right )-\\frac {\\pi ^{2}}4\n\n\\end {aligned}",
+    "status": 2,
+    "id": "3-22",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1430820769148203008?t=d1DiYEKT5LD3uDAZYVj6Tw&s=19",
     "solution_uri": "https://twitter.com/qq3023625451/status/1430898986865467396?t=45SnHpCDM-XXI7HWvNLv8w&s=19",
     "TeX": "\\int _{0}^{\\frac {\\pi }2}\\frac {x\\cos x}{1+\\sin ^{2}x}dx=\\frac {\\ln ^{2}\\left (1+\\sqrt 2\\right )}2",
