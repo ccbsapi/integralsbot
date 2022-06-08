@@ -622,6 +622,14 @@
     "id": "11-2"
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1511995153287823361?t=y0rLJNYyXZIBX5giFtHIwg&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1512059335957962755?t=VkGMS2w5JgOfxuS_DEuO6w&s=19",
+    "TeX": "f\\text{ is an even function with period }T\\\\\n\\begin{align*}\n\\int_0^{\\infty}f(x)\\sin\\frac{\\pi x}{T}\\frac{dx}{x}=\\frac{\\pi}{T}\\int_0^{T/2}f(x)\\,dx\n\\end{align*}",
+    "status": 2,
+    "id": "11-3",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1938",
     "TeX": "\\int_0^{\\infty}J_0(ax)e^{-px}\\,dx=\\frac{1}{\\sqrt{a^2+p^2}}",
