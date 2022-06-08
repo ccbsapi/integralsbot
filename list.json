@@ -542,6 +542,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1511836290995879936?t=2Tb0Dcy1PVli_4SDyNvS6Q&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1512071976260567072?t=uY1DI9r9QuutL88WyhcqIw&s=19",
+    "TeX": "\\begin{align*}\n\\int_0^{\\infty}\\Gamma(\\sigma-\\sqrt{-1}x)\\Gamma(\\sigma+\\sqrt{-1}x)\\,dx&=\\pi\\frac{\\Gamma(2\\sigma)}{2^{2\\sigma}}\\\\\n\\int_0^{\\infty}\\Gamma(\\sigma-\\sqrt{-1}x)^2\\Gamma(\\sigma+\\sqrt{-1}x)^2\\,dx&=\\pi\\frac{\\Gamma(2\\sigma)^4}{\\Gamma(4\\sigma)}\n\\end{align*}",
+    "status": 2,
+    "id": "8-3",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1432345707193667607?t=CcHoLAgNi-YVkmFgvoRCGA&s=19",
     "solution_uri": "https://twitter.com/qq3023625451/status/1432513247584800771?t=wvz_jl9CalAj-o8kMrm4Pw&s=19",
     "TeX": "\\begin{align*}\n\n\\operatorname\\Re a+b+c+d&>3\\\\\\\\\n\\int_{-\\infty}^{\\infty}\\frac{dx}{\\Gamma(a+x)\\Gamma(b+x)\\Gamma(c-x)\\Gamma(d-x)}&=\\frac{\\Gamma(a+b+c+d-3)}{\\Gamma(a+c-1)\\Gamma(a+d-1)\\Gamma(b+c-1)\\Gamma(b+d-1)} \n\\end{align*}",
