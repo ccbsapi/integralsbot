@@ -1077,7 +1077,7 @@
   {
     "tw_uri": "https://twitter.com/integralsbot/status/1499704417196527619?t=83ohdR5-Tjto2YdnXl38Kw&s=19",
     "solution_uri": "https://twitter.com/zzbar/status/1501314557012234243?t=4wOuaFBTi5U5pn8DGFOIZA&s=19",
-    "TeX": "\\begin{align*}\n\\int_{0<x_i}f\\left(\\sum_{i=1}^nx_i\\right)\\prod_{i=1}^nx_i^{\\alpha_i-1}\\,dx_i=\\frac{\\prod_{i=1}^n\\Gamma(\\alpha_i)}{\\Gamma\\left(\\sum_{i=1}^n\\alpha_i\\right)}\\int_0^1f(x)x^{\\sum_{i=1}^n\\alpha_i-1}\\,dx\n\\end{align*}",
+    "TeX": "\\begin{align*}\n\\int_{0 < x_i}f\\left(\\sum_{i=1}^nx_i\\right)\\prod_{i=1}^nx_i^{\\alpha_i-1}\\,dx_i=\\frac{\\prod_{i=1}^n\\Gamma(\\alpha_i)}{\\Gamma\\left(\\sum_{i=1}^n\\alpha_i\\right)}\\int_0^1f(x)x^{\\sum_{i=1}^n\\alpha_i-1}\\,dx\n\\end{align*}",
     "status": 2,
     "id": "20-99",
     "keywords": []
