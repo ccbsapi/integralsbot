@@ -1043,6 +1043,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1505069419168362498?t=mpwO0qovAfEizb7Z41wN2w&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1505691604715282440?t=ml0wN74CjK-4W5jhEZ321Q&s=19",
+    "TeX": "\\begin{align*}\n\\int_0^{\\frac {\\pi }2}\\sqrt{\\sqrt{x^2+\\ln^2\\cos x}-\\ln\\cos x}\\,dx&=\\frac{\\pi\\sqrt{\\ln 2}}{\\sqrt{2}}\\\\\n\\int_0^{\\frac {\\pi }2}\\frac{\\sqrt{\\sqrt{x^2+\\ln^2\\cos x}-\\ln\\cos x}}{\\sqrt{x^2+\\ln^2\\cos x}}\\,dx&=\\frac{\\pi}{\\sqrt{2\\ln 2}}\n\\end{align*}",
+    "status": 2,
+    "id": "20-76",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1434482456120287241?t=X6ckOBWnDlEKrwG62OS0kg&s=19",
     "solution_uri": "https://twitter.com/AlbahariRicardo/status/1434595931551371266?t=ewjoIihqq03j4X92DeloTQ&s=19",
     "TeX": "\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {\\alpha^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
