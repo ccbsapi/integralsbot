@@ -654,6 +654,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1506793075360014336?s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1507403409187651584?t=_DL7GRRYIDrhkhYiSfKAqA&s=19",
+    "TeX": "\\begin{align*}\n\\int_0^{1/2}(1-2x)^8K(x)^2\\,dx=\\frac{35\\pi(17298\\beta(2)-5107)}{8388608}\n\\end{align*}",
+    "status": 2,
+    "id": "14-2",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1480852148372254720?t=tf991KMKD6gpA4hoakDWYQ&s=19",
     "solution_uri": "https://mymatexnotes.blogspot.com/2021/09/integral-representation-euler.html?m=1",
     "TeX": "\\int _{0}^{\\infty }\\frac {\\cos x-e^{-x}}xdx=0",
