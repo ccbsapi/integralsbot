@@ -1067,6 +1067,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1492909409571577857?t=U5BlmgiTZvoMWIRSvyna5Q&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1493405989122547712?t=te0XX4m6LUmU5p0eSmC3mQ&s=19",
+    "TeX": "\\begin{align*}\n&\\Omega e^{\\Omega}=1\\\\\n&\\int_0^{\\infty}\\frac{1+2\\cos x+x\\sin x}{1+2x\\sin x+x^2}\\,dx=\\frac{\\pi}{1+\\Omega}\n\\end{align*}",
+    "status": 2,
+    "id": "20-83",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1525801052238323713?s=19",
     "solution_uri": "https://twitter.com/zzbar/status/1525866972382216193?t=tivWwtuIsd3nLpVik3K5GQ&s=19",
     "TeX": "\\begin {aligned}\n\\int _{\\mathbb R}\\binom tx^{2}\\binom xtdx=1\n\\end {aligned}",
