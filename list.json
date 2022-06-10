@@ -881,6 +881,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1494660955745439751?t=PlKO0mxdtrtR1mSxM3jb8A&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1495060039912075273?t=itkUgwF_qr14FF9geufqDg&s=19",
+    "TeX": "\\begin {aligned}\n\\int _{-\\infty }^{\\infty }\\frac {\\arctan e^{x}}{\\cosh x}\\frac {\\tanh \\frac {x}2}x&=\\frac {\\pi \\ln 2\n}2\\end {aligned}",
+    "status": 2,
+    "id": "20-27",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1941",
     "TeX": "\\begin {aligned}\n&\\int_{-\\infty}^{\\infty}\\operatorname{sinc}x\\,dx=\\sum_{n=-\\infty}^{\\infty}\\operatorname{sinc}n=\\pi\\\\\n&\\int_{-\\infty}^{\\infty}\\operatorname{sinc}^kx\\,dx=\\sum_{n=-\\infty}^{\\infty}\\operatorname{sinc}^kn\n\\end {aligned}",
@@ -1056,6 +1064,14 @@
     "TeX": "\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {\\alpha^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
     "status": 2,
     "id": "20-81",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1492909409571577857?t=U5BlmgiTZvoMWIRSvyna5Q&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1493405989122547712?t=te0XX4m6LUmU5p0eSmC3mQ&s=19",
+    "TeX": "\\begin{align*}\n&\\Omega e^{\\Omega}=1\\\\\n&\\int_0^{\\infty}\\frac{1+2\\cos x+x\\sin x}{1+2x\\sin x+x^2}\\,dx=\\frac{\\pi}{1+\\Omega}\n\\end{align*}",
+    "status": 2,
+    "id": "20-83",
     "keywords": []
   },
   {
