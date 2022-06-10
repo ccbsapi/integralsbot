@@ -881,6 +881,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1494660955745439751?t=PlKO0mxdtrtR1mSxM3jb8A&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1495060039912075273?t=itkUgwF_qr14FF9geufqDg&s=19",
+    "TeX": "\\begin {aligned}\n\\int _{-\\infty }^{\\infty }\\frac {\\arctan e^{x}}{\\cosh x}\\frac {\\tanh \\frac {x}2}x&=\\frac {\\pi \\ln 2\n}2\\end {aligned}",
+    "status": 2,
+    "id": "20-27",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1941",
     "TeX": "\\begin {aligned}\n&\\int_{-\\infty}^{\\infty}\\operatorname{sinc}x\\,dx=\\sum_{n=-\\infty}^{\\infty}\\operatorname{sinc}n=\\pi\\\\\n&\\int_{-\\infty}^{\\infty}\\operatorname{sinc}^kx\\,dx=\\sum_{n=-\\infty}^{\\infty}\\operatorname{sinc}^kn\n\\end {aligned}",
