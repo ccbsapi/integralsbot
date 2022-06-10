@@ -254,7 +254,7 @@
     "keywords": []
   },
   {
-    "tw_uri": "",
+    "tw_uri": "https://twitter.com/integralsbot/status/1520787998362968065?t=fPK2NNITQ8uolxbeKOTizw&s=19",
     "solution_uri": "https://mathlog.info/articles/1929",
     "TeX": "\\int_0^1\\ln\\ln\\frac{1+\\sqrt{1-x^2}}{x}\\,dx=-\\gamma-2\\ln\\frac{2\\Gamma\\left(\\frac 34\\right)}{\\Gamma\\left(\\frac 14\\right)}",
     "status": 2,
@@ -542,11 +542,27 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1511836290995879936?t=2Tb0Dcy1PVli_4SDyNvS6Q&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1512071976260567072?t=uY1DI9r9QuutL88WyhcqIw&s=19",
+    "TeX": "\\begin{align*}\n\\int_0^{\\infty}\\Gamma(\\sigma-\\sqrt{-1}x)\\Gamma(\\sigma+\\sqrt{-1}x)\\,dx&=\\pi\\frac{\\Gamma(2\\sigma)}{2^{2\\sigma}}\\\\\n\\int_0^{\\infty}\\Gamma(\\sigma-\\sqrt{-1}x)^2\\Gamma(\\sigma+\\sqrt{-1}x)^2\\,dx&=\\pi\\frac{\\Gamma(2\\sigma)^4}{\\Gamma(4\\sigma)}\n\\end{align*}",
+    "status": 2,
+    "id": "8-3",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1432345707193667607?t=CcHoLAgNi-YVkmFgvoRCGA&s=19",
     "solution_uri": "https://twitter.com/qq3023625451/status/1432513247584800771?t=wvz_jl9CalAj-o8kMrm4Pw&s=19",
     "TeX": "\\begin{align*}\n\n\\operatorname\\Re a+b+c+d&>3\\\\\\\\\n\\int_{-\\infty}^{\\infty}\\frac{dx}{\\Gamma(a+x)\\Gamma(b+x)\\Gamma(c-x)\\Gamma(d-x)}&=\\frac{\\Gamma(a+b+c+d-3)}{\\Gamma(a+c-1)\\Gamma(a+d-1)\\Gamma(b+c-1)\\Gamma(b+d-1)} \n\\end{align*}",
     "status": 2,
     "id": "8-4",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1522194550986776576?t=ji5llZEe2cY76-IyUd8-Mw&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1522255840505442306?t=rLmLfNJGyuOmjJcJ4ZCg1Q&s=19",
+    "TeX": "\\begin {aligned}\n\\int _{0}^{\\infty }\\frac {dx}{\\Gamma (x)}&=e+\\int _{0}^{\\infty }\\frac {1}{\\pi ^{2}+\\ln ^{2}x}\\frac {dx}{e^{x}}\n\\end {aligned}",
+    "status": 2,
+    "id": "9-1",
     "keywords": []
   },
   {
@@ -606,6 +622,14 @@
     "id": "11-2"
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1511995153287823361?t=y0rLJNYyXZIBX5giFtHIwg&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1512059335957962755?t=VkGMS2w5JgOfxuS_DEuO6w&s=19",
+    "TeX": "f\\text{ is an even function with period }T\\\\\n\\begin{align*}\n\\int_0^{\\infty}f(x)\\sin\\frac{\\pi x}{T}\\frac{dx}{x}=\\frac{\\pi}{T}\\int_0^{T/2}f(x)\\,dx\n\\end{align*}",
+    "status": 2,
+    "id": "11-3",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1938",
     "TeX": "\\int_0^{\\infty}J_0(ax)e^{-px}\\,dx=\\frac{1}{\\sqrt{a^2+p^2}}",
@@ -627,6 +651,14 @@
     "TeX": "\\int_0^{\\infty}\\ln\\frac{J_{\\mu}(x)^2+Y_{\\mu}(x)^2}{J_{\\nu}(x)^2+Y_{\\nu}(x)^2}\\,dx=\\frac{\\pi(\\mu^2-\\nu^2)}{2}",
     "status": 2,
     "id": "13-4",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1506793075360014336?s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1507403409187651584?t=_DL7GRRYIDrhkhYiSfKAqA&s=19",
+    "TeX": "\\begin{align*}\n\\int_0^{1/2}(1-2x)^8K(x)^2\\,dx=\\frac{35\\pi(17298\\beta(2)-5107)}{8388608}\n\\end{align*}",
+    "status": 2,
+    "id": "14-2",
     "keywords": []
   },
   {
@@ -889,6 +921,14 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1518963269465407488?t=dlo_iVHGHdq3w6HkMkdN9A&s=19",
+    "solution_uri": "https://twitter.com/YubianB/status/1519024361784713216?t=clzcyjjoBMsoLGuBdO_N8Q&s=19",
+    "TeX": "\\begin {aligned}\n\\int _{0}^{\\frac {\\pi }2}\\frac {dx}{1+\\sin ^2\\tan x}dx&=\\frac {\\pi }{2\\sqrt 2}\\frac {e^{2}+3-2\\sqrt 2}{e^2-3+2\\sqrt 2}\n\\end {aligned}",
+    "status": 2,
+    "id": "20-36",
+    "keywords": []
+  },
+  {
     "tw_uri": "",
     "solution_uri": "https://mathlog.info/articles/1901",
     "TeX": "\\int_0^{\\infty}\\frac{\\sqrt[\\phi]{x}\\arctan x}{(1+x^{\\phi})^2}\\,dx=\\frac{\\pi}{4\\phi}",
@@ -995,6 +1035,22 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1512339899030343680?t=f8_TUvbMCr3iyaKYJs94vA&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1512782180447133698?t=jNP63O6VBZfR9pTgW_7gLg&s=19",
+    "TeX": "\\begin{align*}\n\\int_0^{\\frac {\\pi }2}\\sqrt[8]{x^2+\\ln^2\\cos x}\\sqrt{\\frac 12+\\frac 12\\sqrt{\\frac 12+\\frac 12\\sqrt{\\frac{\\ln^2\\cos x}{x^2+\\ln^2\\cos x}}}}\\,dx&=\\frac{\\pi}2\\sqrt[4]{\\ln 2}\\\\\n\\int_0^{\\frac {\\pi }2}\\frac 1{\\sqrt[8]{x^2+\\ln^2\\cos x}}\\sqrt{\\frac 12+\\frac 12\\sqrt{\\frac 12+\\frac 12\\sqrt{\\frac{\\ln^2\\cos x}{x^2+\\ln^2\\cos x}}}}\\,dx&=\\frac{\\pi}2\\frac 1{\\sqrt[4]{\\ln 2}}\n\\end{align*}",
+    "status": 2,
+    "id": "20-75",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1505069419168362498?t=mpwO0qovAfEizb7Z41wN2w&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1505691604715282440?t=ml0wN74CjK-4W5jhEZ321Q&s=19",
+    "TeX": "\\begin{align*}\n\\int_0^{\\frac {\\pi }2}\\sqrt{\\sqrt{x^2+\\ln^2\\cos x}-\\ln\\cos x}\\,dx&=\\frac{\\pi\\sqrt{\\ln 2}}{\\sqrt{2}}\\\\\n\\int_0^{\\frac {\\pi }2}\\frac{\\sqrt{\\sqrt{x^2+\\ln^2\\cos x}-\\ln\\cos x}}{\\sqrt{x^2+\\ln^2\\cos x}}\\,dx&=\\frac{\\pi}{\\sqrt{2\\ln 2}}\n\\end{align*}",
+    "status": 2,
+    "id": "20-76",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1434482456120287241?t=X6ckOBWnDlEKrwG62OS0kg&s=19",
     "solution_uri": "https://twitter.com/AlbahariRicardo/status/1434595931551371266?t=ewjoIihqq03j4X92DeloTQ&s=19",
     "TeX": "\\int _{-\\infty }^{\\infty }\\cos \\left (x^{2}+\\frac {\\alpha^{2}}{x^{2}}\\right )dx=\\sqrt \\frac {\\pi }2(\\cos 2\\alpha -\\sin 2\\alpha )\\quad \\alpha >0",
@@ -1003,11 +1059,27 @@
     "keywords": []
   },
   {
+    "tw_uri": "https://twitter.com/integralsbot/status/1525801052238323713?s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1525866972382216193?t=tivWwtuIsd3nLpVik3K5GQ&s=19",
+    "TeX": "\\begin {aligned}\n\\int _{\\mathbb R}\\binom tx^{2}\\binom xtdx=1\n\\end {aligned}",
+    "status": 2,
+    "id": "20-86",
+    "keywords": []
+  },
+  {
     "tw_uri": "https://twitter.com/integralsbot/status/1450653158947000326?t=PMFyCJPmObZKMh3zCfcYjQ&s=19",
     "solution_uri": "https://twitter.com/qq3023625451/status/1451055505271508992?t=QFYNKDteRRcauLjAvwMk1g&s=19",
     "TeX": "\\int_0^{\\infty}\\frac{\\cos ax-e^{-bx}}{x(x^4+b^4)}\\,dx=\\frac{\\pi}{2b^4e^{\\frac {ab}{\\sqrt{2}}}}\\sin\\frac{ab}{\\sqrt{2}}",
     "status": 2,
     "id": "20-91",
+    "keywords": []
+  },
+  {
+    "tw_uri": "https://twitter.com/integralsbot/status/1499704417196527619?t=83ohdR5-Tjto2YdnXl38Kw&s=19",
+    "solution_uri": "https://twitter.com/zzbar/status/1501314557012234243?t=4wOuaFBTi5U5pn8DGFOIZA&s=19",
+    "TeX": "\\begin{align*}\n\\int_{0 < x_i}f\\left(\\sum_{i=1}^nx_i\\right)\\prod_{i=1}^nx_i^{\\alpha_i-1}\\,dx_i=\\frac{\\prod_{i=1}^n\\Gamma(\\alpha_i)}{\\Gamma\\left(\\sum_{i=1}^n\\alpha_i\\right)}\\int_0^1f(x)x^{\\sum_{i=1}^n\\alpha_i-1}\\,dx\n\\end{align*}",
+    "status": 2,
+    "id": "20-99",
     "keywords": []
   },
   {
