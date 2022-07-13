@@ -713,7 +713,7 @@
   {
     "tw_uri": "",
     "solution_uri": "section18/18-1.bmd",
-    "TeX": "\\begin{aligned}\na\\in \\mathbb R,0<r<1\n\\\\\n\\int _{0}^{\\infty }\\left (1-\\frac {\\cos ax}{e^{x}}\\right )\\frac {dx}{x^{1+r}}\n&=\\frac {\\Gamma (1-r)}r\\left (1+a^{2}\\right )^{\\frac {r}2}\\cos \\left (r\\arctan a\\right )\n\\end{aligned}",
+    "TeX": "\\begin{aligned}\na\\in \\mathbb R,0< r< 1\n\\\\\n\\int _{0}^{\\infty }\\left (1-\\frac {\\cos ax}{e^{x}}\\right )\\frac {dx}{x^{1+r}}\n&=\\frac {\\Gamma (1-r)}r\\left (1+a^{2}\\right )^{\\frac {r}2}\\cos \\left (r\\arctan a\\right )\n\\end{aligned}",
     "status": 3,
     "id": "18-1",
     "keywords": []
