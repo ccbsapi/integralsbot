@@ -1,6 +1,7 @@
 &&&thm
 &&&math
-
+\int _{0}^{\infty }\left (1-\frac {\cos ax}{e^{x}}\right )\frac {dx}{x^{1+r}}
+=\frac {\Gamma (1-r)}r\left (1+a^{2}\right )^{\frac {r}2}\cos \left (r\arctan a\right )
 &&&
 &&&
 
@@ -8,17 +9,11 @@
 &&&math
 \begin {aligned}
 \int _{0}^{\infty }\left (1-\frac {\cos ax}{e^{x}}\right )\frac {dx}{x^{1+r}}
-
 &=\int _{0}^{\infty }\Re \left (1-e^{-(1+ai)x}\right )x^{-1-r}dx\\
-
 &=\left .\Re \left (1-e^{-(1+ai)x}\right )\frac {x^{-r}}{-r}\right |_{0}^\infty+\frac {1}r\int _{0}^{\infty }\Re \left ((1+ai)e^{-(1+ai)x}\right ) x^{-r}dx\\
-
 &=\Re \left [\frac {1+ai}r\int _{0}^{\infty }e^{-(1+ai)x}x^{-r}dx\right ]\\
-
 &=\Re \left [\frac {\Gamma (1-r)}r(1+ai)^{r}\right ]\\
-
 &=\textcolor {blue}{\frac {\Gamma (1-r)}r\left (1+a^{2}\right )^{\frac {r}2}\cos \left (r\arctan a\right )}.
-
 \end {aligned}
 &&&
 &&&
