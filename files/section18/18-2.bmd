@@ -1,0 +1,26 @@
+&&&thm
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }\frac {\arctan a\sin ^{2}x}{x^{2}}dx
+&=\frac {\pi }{\sqrt 2}\frac {a}{\sqrt {1+\sqrt {1+a^{2}}}}
+\end {aligned}
+&&&
+&&&
+
+&&&prf
+&&&math
+\begin {aligned}
+\int _{0}^{\infty }\frac {\arctan a\sin ^{2}x}{x^{2}}dx
+&=\int _{0}^{\infty }\frac {\sin ^{2}x}{x^{2}}\frac {\arctan a\sin ^{2}x}{\sin ^{2}x}dx\\
+&=\int _{0}^{\frac {\pi }2}\frac {\arctan a\sin ^{2}x}{\sin ^{2}x}dx\quad \left (\text{Lobachevsky's Dirichlet integral formula}\right )\\
+&=\int _{0}^{\frac {\pi }2}\Im \left (\frac {\ln (1+ai\sin ^{2}x)}{\sin ^{2}x}\right )dx\\
+&=\left .\Im \left (-\cot x \ln (1+ai\sin ^{2}x)\right )\right|_0^{\frac {\pi }2}
++\int _{0}^{\frac {\pi }2}\Im \left (\frac {2ai\cos ^{2}x}{1+ai\sin ^{2}x}\right )dx\\
+&=\Im \int _{0}^{\infty }\frac {2ai\frac {t^{2}}{1+t^{2}}}{1+\frac {ai}{1+t^{2}}}\frac {dt}{1+t^{2}}\\
+&=\Im \int _{0}^{\infty }\frac {2ait^{2}}{(t^{2}+1+ai)(t^{2}+1)}dt\\
+&=\Im \int _{0}^{\infty }2\left (\frac {1+ai}{t^{2}+1+ai}-\frac {1}{t^{2}+1}\right )dt\\
+&=\Im \left (\pi \sqrt {1+ai}\right )\\
+&=\textcolor {blue}{\frac {\pi }{\sqrt 2}\frac {a}{\sqrt {1+\sqrt {1+a^{2}}}}}.
+\end {aligned}
+&&&
+&&&
